@@ -30,11 +30,14 @@ fs.readFile(basePath+bookPath+fileName,
 		}
 		var chapters = fileData.toString().split("### Chapter");
 		var perChapter;
+		var newfileName;
 		var Length = chapters.length;
 		// console.log(Chapters[1]);
 		for(var i =1;i<Length;i+=1){
 			perChapter = chapters[i];
-			console.log("Chapter"+perChapter.split("\n")[0])
-			writeFile(fs,basePath+bookPath+"Chapter/",("Chapter"+perChapter.split("\n")[0])+".md","### Chapter"+perChapter);
+			newfileName = perChapter.split("\n")[0].split("of ");
+			newfileName = newfileName[1]+" of "+"Chapter"+newfileName[0];
+			console.log(newfileName);
+			writeFile(fs,basePath+bookPath+"Chapter/",newfileName+".md","### Chapter"+perChapter);
 		}
 	});
