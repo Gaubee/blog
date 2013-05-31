@@ -2,7 +2,7 @@
 
  ELIZABETH was sitting with her mother and sisters, reflecting on what she had heard, and doubting whether she were authorised to mention it, when Sir William Lucas himself appeared, sent by his daughter to announce her engagement to the family. With many compliments to them, and much self-gratulation on the prospect of a connection between the houses, he unfolded the matter, -- to an audience not merely wondering, but incredulous; for Mrs. Bennet, with more perseverance than politeness, protested he must be entirely mistaken, and Lydia, always unguarded and often uncivil, boisterously exclaimed,
 
-```"Good Lord! Sir William, how can you tell such a story? -- Do not you know that Mr. Collins wants to marry Lizzy?"```
+"Good Lord! Sir William, how can you tell such a story? -- Do not you know that Mr. Collins wants to marry Lizzy?"
 
 Nothing less than the complaisance of a courtier could have borne without anger such treatment; but Sir William's good breeding carried him through it all; and though he begged leave to be positive as to the truth of his information, he listened to all their impertinence with the most forbearing courtesy.
 
@@ -32,23 +32,23 @@ Mr. Collins returned most punctually on the Monday fortnight, but his reception 
 
 Mrs. Bennet was really in a most pitiable state. The very mention of any thing concerning the match threw her into an agony of ill humour, and wherever she went she was sure of hearing it talked of. The sight of Miss Lucas was odious to her. As her successor in that house, she regarded her with jealous abhorrence. Whenever Charlotte came to see them she concluded her to be anticipating the hour of possession; and whenever she spoke in a low voice to Mr. Collins, was convinced that they were talking of the Longbourn estate, and resolving to turn herself and her daughters out of the house as soon as Mr. Bennet were dead. She complained bitterly of all this to her husband.
 
-```"Indeed, Mr. Bennet,"``` said she, ```"it is very hard to think that Charlotte Lucas should ever be mistress of this house, that I should be forced to make way for her, and live to see her take my place in it!"```
+"Indeed, Mr. Bennet," said she, "it is very hard to think that Charlotte Lucas should ever be mistress of this house, that I should be forced to make way for her, and live to see her take my place in it!"
 
-```"My dear, do not give way to such gloomy thoughts. Let us hope for better things. Let us flatter ourselves that I may be the survivor."```
+"My dear, do not give way to such gloomy thoughts. Let us hope for better things. Let us flatter ourselves that I may be the survivor."
 
 This was not very consoling to Mrs. Bennet, and, therefore, instead of making any answer, she went on as before,
 
-```"I cannot bear to think that they should have all this estate, If it was not for the entail I should not mind it."```
+"I cannot bear to think that they should have all this estate, If it was not for the entail I should not mind it."
 
-```"What should not you mind?"```
+"What should not you mind?"
 
-```"I should not mind any thing at all."```
+"I should not mind any thing at all."
 
-```"Let us be thankful that you are preserved from a state of such insensibility."```
+"Let us be thankful that you are preserved from a state of such insensibility."
 
-```"I never can be thankful, Mr. Bennet, for any thing about the entail. How any one could have the conscience to entail away an estate from one's own daughters I cannot understand; and all for the sake of Mr. Collins too! -- Why should he have it more than anybody else?"```
+"I never can be thankful, Mr. Bennet, for any thing about the entail. How any one could have the conscience to entail away an estate from one's own daughters I cannot understand; and all for the sake of Mr. Collins too! -- Why should he have it more than anybody else?"
 
-```"I leave it to yourself to determine,"``` said Mr. Bennet.
+"I leave it to yourself to determine," said Mr. Bennet.
 
 **END OF VOL. I**
 

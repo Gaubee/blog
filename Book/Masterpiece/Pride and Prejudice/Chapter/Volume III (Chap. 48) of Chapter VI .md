@@ -10,7 +10,7 @@ All Meryton seemed striving to blacken the man, who, but three months before, ha
 
 Mr. Gardiner left Longbourn on Sunday; on Tuesday, his wife received a letter from him; it told them that on his arrival, he had immediately found out his brother, and persuaded him to come to Gracechurch street; that Mr. Bennet had been to Epsom and Clapham before his arrival, but without gaining any satisfactory information; and that he was now determined to enquire at all the principal hotels in town, as Mr. Bennet thought it possible they might have gone to one of them, on their first coming to London, before they procured lodgings. Mr. Gardiner himself did not expect any success from this measure, but as his brother was eager in it, he meant to assist him in pursuing it. He added that Mr. Bennet seemed wholly disinclined at present, to leave London, and promised to write again very soon. There was also a postscript to this effect:
 
-```"I have written to Colonel Forster to desire him to find out, if possible, from some of the young man's intimates in the regiment, whether Wickham has any relations or connections who would be likely to know in what part of the town he has now concealed himself. If there were any one that one could apply to with a probability of gaining such a clue as that, it might be of essential consequence. At present we have nothing to guide us. Colonel Forster will, I dare say, do every thing in his power to satisfy us on this head. But, on second thoughts, perhaps Lizzy could tell us what relations he has now living better than any other person."``` Elizabeth was at no loss to understand from whence this deference for her authority proceeded; but it was not in her power to give any information of so satisfactory a nature as the compliment deserved.
+"I have written to Colonel Forster to desire him to find out, if possible, from some of the young man's intimates in the regiment, whether Wickham has any relations or connections who would be likely to know in what part of the town he has now concealed himself. If there were any one that one could apply to with a probability of gaining such a clue as that, it might be of essential consequence. At present we have nothing to guide us. Colonel Forster will, I dare say, do every thing in his power to satisfy us on this head. But, on second thoughts, perhaps Lizzy could tell us what relations he has now living better than any other person." Elizabeth was at no loss to understand from whence this deference for her authority proceeded; but it was not in her power to give any information of so satisfactory a nature as the compliment deserved.
 
 She had never heard of his having had any relations, except a father and mother, both of whom had been dead many years. It was possible, however, that some of his companions in the ----shire, might be able to give more information; and, though she was not very sanguine in expecting it, the application was a something to look forward to.
 
@@ -18,17 +18,17 @@ Every day at Longbourn was now a day of anxiety; but the most anxious part of ea
 
 But before they heard again from Mr. Gardiner, a letter arrived for their father from a different quarter -- from Mr. Collins; which, as Jane had received directions to open all that came for him in his absence, she accordingly read; and Elizabeth, who knew what curiosities his letters always were, looked over her, and read it likewise. It was as follows:
 
-```"MY DEAR SIR,
+"MY DEAR SIR,
 
 I feel myself called upon by our relationship, and my situation in life, to condole with you on the grievous affliction you are now suffering under, of which we were yesterday informed by a letter from Hertfordshire. Be assured, my dear Sir, that Mrs. Collins and myself sincerely sympathise with you, and all your respectable family, in your present distress, which must be of the bitterest kind, because proceeding from a cause which no time can remove. No arguments shall be wanting on my part that can alleviate so severe a misfortune; or that may comfort you, under a circumstance that must be of all others most afflicting to a parent's mind. The death of your daughter would have been a blessing in comparison of this. And it is the more to be lamented, because there is reason to suppose, as my dear Charlotte informs me, that this licentiousness of behaviour in your daughter has proceeded from a faulty degree of indulgence, though at the same time, for the consolation of yourself and Mrs. Bennet, I am inclined to think that her own disposition must be naturally bad, or she could not be guilty of such an enormity at so early an age. Howsoever that may be, you are grievously to be pitied, in which opinion I am not only joined by Mrs. Collins, but likewise by Lady Catherine and her daughter, to whom I have related the affair. They agree with me in apprehending that this false step in one daughter will be injurious to the fortunes of all the others; for who, as Lady Catherine herself condescendingly says, will connect themselves with such a family. And this consideration leads me moreover to reflect with augmented satisfaction on a certain event of last November, for had it been otherwise, I must have been involved in all your sorrow and disgrace. Let me advise you then, my dear Sir, to console yourself as much as possible, to throw off your unworthy child from your affection for ever, and leave her to reap the fruits of her own heinous offence.
 
-I am, dear Sir, &c. &c."```
+I am, dear Sir, &c. &c."
 
-Mr. Gardiner did not write again till he had received an answer from Colonel Forster; and then he had nothing of a pleasant nature to send. It was not known that Wickham had a single relation with whom he kept up any connection, and it was certain that he had no near one living. His former acquaintance had been numerous; but since he had been in the militia, it did not appear that he was on terms of particular friendship with any of them. There was no one therefore who could be pointed out as likely to give any news of him. And in the wretched state of his own finances there was a very powerful motive for secrecy, in addition to his fear of discovery by Lydia's relations, for it had just transpired that he had left gaming debts behind him, to a very considerable amount. Colonel Forster believed that more than a thousand pounds would be necessary to clear his expences at Brighton. He owed a good deal in the town, but his debts of honour were still more formidable. Mr. Gardiner did not attempt to conceal these particulars from the Longbourn family; Jane heard them with horror. ```"A gamester!"``` she cried. ```"This is wholly unexpected. I had not an idea of it."```
+Mr. Gardiner did not write again till he had received an answer from Colonel Forster; and then he had nothing of a pleasant nature to send. It was not known that Wickham had a single relation with whom he kept up any connection, and it was certain that he had no near one living. His former acquaintance had been numerous; but since he had been in the militia, it did not appear that he was on terms of particular friendship with any of them. There was no one therefore who could be pointed out as likely to give any news of him. And in the wretched state of his own finances there was a very powerful motive for secrecy, in addition to his fear of discovery by Lydia's relations, for it had just transpired that he had left gaming debts behind him, to a very considerable amount. Colonel Forster believed that more than a thousand pounds would be necessary to clear his expences at Brighton. He owed a good deal in the town, but his debts of honour were still more formidable. Mr. Gardiner did not attempt to conceal these particulars from the Longbourn family; Jane heard them with horror. "A gamester!" she cried. "This is wholly unexpected. I had not an idea of it."
 
 Mr. Gardiner added, in his letter, that they might expect to see their father at home on the following day, which was Saturday. Rendered spiritless by the ill-success of all their endeavours, he had yielded to his brother-in-law's intreaty that he would return to his family, and leave it to him to do whatever occasion might suggest to be advisable for continuing their pursuit. When Mrs. Bennet was told of this, she did not express so much satisfaction as her children expected, considering what her anxiety for his life had been before.
 
-```"What, is he coming home, and without poor Lydia!"``` she cried. ```"Sure he will not leave London before he has found them. Who is to fight Wickham, and make him marry her, if he comes away?"```
+"What, is he coming home, and without poor Lydia!" she cried. "Sure he will not leave London before he has found them. Who is to fight Wickham, and make him marry her, if he comes away?"
 
 As Mrs. Gardiner began to wish to be at home, it was settled that she and her children should go to London at the same time that Mr. Bennet came from it. The coach, therefore, took them the first stage of their journey, and brought its master back to Longbourn.
 
@@ -38,35 +38,35 @@ The present unhappy state of the family, rendered any other excuse for the lowne
 
 When Mr. Bennet arrived, he had all the appearance of his usual philosophic composure. He said as little as he had ever been in the habit of saying; made no mention of the business that had taken him away, and it was some time before his daughters had courage to speak of it.
 
-It was not till the afternoon, when he joined them at tea, that Elizabeth ventured to introduce the subject; and then, on her briefly expressing her sorrow for what he must have endured, he replied, ```"Say nothing of that. Who would suffer but myself? It has been my own doing, and I ought to feel it."```
+It was not till the afternoon, when he joined them at tea, that Elizabeth ventured to introduce the subject; and then, on her briefly expressing her sorrow for what he must have endured, he replied, "Say nothing of that. Who would suffer but myself? It has been my own doing, and I ought to feel it."
 
-```"You must not be too severe upon yourself,"``` replied Elizabeth.
+"You must not be too severe upon yourself," replied Elizabeth.
 
-```"You may well warn me against such an evil. Human nature is so prone to fall into it! No, Lizzy, let me once in my life feel how much I have been to blame. I am not afraid of being overpowered by the impression. It will pass away soon enough."```
+"You may well warn me against such an evil. Human nature is so prone to fall into it! No, Lizzy, let me once in my life feel how much I have been to blame. I am not afraid of being overpowered by the impression. It will pass away soon enough."
 
-```"Do you suppose them to be in London?"```
+"Do you suppose them to be in London?"
 
-```"Yes; where else can they be so well concealed?"```
+"Yes; where else can they be so well concealed?"
 
-```"And Lydia used to want to go to London,"``` added Kitty.
+"And Lydia used to want to go to London," added Kitty.
 
-```"She is happy, then,"``` said her father, drily; ```"and her residence there will probably be of some duration."```
+"She is happy, then," said her father, drily; "and her residence there will probably be of some duration."
 
-Then, after a short silence, he continued, ```"Lizzy, I bear you no ill-will for being justified in your advice to me last May, which, considering the event, shews some greatness of mind."```
+Then, after a short silence, he continued, "Lizzy, I bear you no ill-will for being justified in your advice to me last May, which, considering the event, shews some greatness of mind."
 
 They were interrupted by Miss Bennet, who came to fetch her mother's tea.
 
-```"This is a parade,"``` cried he, ```"which does one good; it gives such an elegance to misfortune! Another day I will do the same; I will sit in my library, in my night cap and powdering gown, and give as much trouble as I can, -- or, perhaps, I may defer it till Kitty runs away."```
+"This is a parade," cried he, "which does one good; it gives such an elegance to misfortune! Another day I will do the same; I will sit in my library, in my night cap and powdering gown, and give as much trouble as I can, -- or, perhaps, I may defer it till Kitty runs away."
 
-```"I am not going to run away, Papa,"``` said Kitty, fretfully; ```"if I should ever go to Brighton, I would behave better than Lydia."```
+"I am not going to run away, Papa," said Kitty, fretfully; "if I should ever go to Brighton, I would behave better than Lydia."
 
-```"You go to Brighton! -- I would not trust you so near it as East-Bourne, for fifty pounds! No, Kitty, I have at last learnt to be cautious, and you will feel the effects of it. No officer is ever to enter my house again, nor even to pass through the village. Balls will be absolutely prohibited, unless you stand up with one of your sisters. And you are never to stir out of doors till you can prove that you have spent ten minutes of every day in a rational manner."```
+"You go to Brighton! -- I would not trust you so near it as East-Bourne, for fifty pounds! No, Kitty, I have at last learnt to be cautious, and you will feel the effects of it. No officer is ever to enter my house again, nor even to pass through the village. Balls will be absolutely prohibited, unless you stand up with one of your sisters. And you are never to stir out of doors till you can prove that you have spent ten minutes of every day in a rational manner."
 
 Kitty, who took all these threats in a serious light, began to cry.
 
-```"Well, well,"``` said he, ```"do not make yourself unhappy. If you are a good girl for the next ten years, I will take you to a review at the end of them.
+"Well, well," said he, "do not make yourself unhappy. If you are a good girl for the next ten years, I will take you to a review at the end of them.
 
-"```第二天早上，大家都指望班纳特先生会寄信来，可是等到邮差来了，却没有带来他的片 纸只字。家里人本来知道他一向懒得写信，能够拖延总是拖延；但是在这样的时候，她们都 希望他能够勉为其难一些。既是没有信来，她们只得认为他没有什么愉快的消息可以报道， 即使如此，她们也希望把事情弄个清楚明白。嘉丁纳先生也希望在动身以前能够看到几封 信。
+"第二天早上，大家都指望班纳特先生会寄信来，可是等到邮差来了，却没有带来他的片 纸只字。家里人本来知道他一向懒得写信，能够拖延总是拖延；但是在这样的时候，她们都 希望他能够勉为其难一些。既是没有信来，她们只得认为他没有什么愉快的消息可以报道， 即使如此，她们也希望把事情弄个清楚明白。嘉丁纳先生也希望在动身以前能够看到几封 信。
 
 嘉丁纳先生去了以后，大家都认为，今后至少可以经常听到一些事情进行的经过情形。 他临走的时候，答应一定去劝告班纳特先生尽可能马上回来。她们的母亲听了这些话，很是 安慰，她认为只有这样，才能保证她丈夫不会在决斗中被人打死。
 

@@ -1,40 +1,40 @@
 ### Chapter V of Volume III (Chap. 47)
 
- ```"I HAVE been thinking it over again, Elizabeth,"``` said her uncle as they drove from the town; ```"and really, upon serious consideration, I am much more inclined than I was to judge as your eldest sister does of the matter. It appears to me so very unlikely that any young man should form such a design against a girl who is by no means unprotected or friendless, and who was actually staying in his colonel's family, that I am strongly inclined to hope the best. Could he expect that her friends would not step forward? Could he expect to be noticed again by the regiment, after such an affront to Colonel Forster? His temptation is not adequate to the risk."```
+ "I HAVE been thinking it over again, Elizabeth," said her uncle as they drove from the town; "and really, upon serious consideration, I am much more inclined than I was to judge as your eldest sister does of the matter. It appears to me so very unlikely that any young man should form such a design against a girl who is by no means unprotected or friendless, and who was actually staying in his colonel's family, that I am strongly inclined to hope the best. Could he expect that her friends would not step forward? Could he expect to be noticed again by the regiment, after such an affront to Colonel Forster? His temptation is not adequate to the risk."
 
-```"Do you really think so?"``` cried Elizabeth, brightening up for a moment.
+"Do you really think so?" cried Elizabeth, brightening up for a moment.
 
-```"Upon my word,"``` said Mrs. Gardiner, ```"I begin to be of your uncle's opinion. It is really too great a violation of decency, honour, and interest, for him to be guilty of it. I cannot think so very ill of Wickham. Can you, yourself, Lizzy, so wholly give him up as to believe him capable of it?"```
+"Upon my word," said Mrs. Gardiner, "I begin to be of your uncle's opinion. It is really too great a violation of decency, honour, and interest, for him to be guilty of it. I cannot think so very ill of Wickham. Can you, yourself, Lizzy, so wholly give him up as to believe him capable of it?"
 
-```"Not perhaps of neglecting his own interest. But of every other neglect I can believe him capable. If, indeed, it should be so! But I dare not hope it. Why should they not go on to Scotland, if that had been the case?"```
+"Not perhaps of neglecting his own interest. But of every other neglect I can believe him capable. If, indeed, it should be so! But I dare not hope it. Why should they not go on to Scotland, if that had been the case?"
 
-```"In the first place,"``` replied Mr. Gardiner, ```"there is no absolute proof that they are not gone to Scotland."```
+"In the first place," replied Mr. Gardiner, "there is no absolute proof that they are not gone to Scotland."
 
-```"Oh! but their removing from the chaise into an hackney coach is such a presumption! And, besides, no traces of them were to be found on the Barnet road."```
+"Oh! but their removing from the chaise into an hackney coach is such a presumption! And, besides, no traces of them were to be found on the Barnet road."
 
-```"Well, then -- supposing them to be in London. They may be there, though, for the purpose of concealment, for no more exceptionable purpose. It is not likely that money should be very abundant on either side; and it might strike them that they could be more economically, though less expeditiously, married in London, than in Scotland."```
+"Well, then -- supposing them to be in London. They may be there, though, for the purpose of concealment, for no more exceptionable purpose. It is not likely that money should be very abundant on either side; and it might strike them that they could be more economically, though less expeditiously, married in London, than in Scotland."
 
-```"But why all this secrecy? Why any fear of detection? Why must their marriage be private? Oh! no, no, this is not likely. His most particular friend, you see by Jane's account, was persuaded of his never intending to marry her. Wickham will never marry a woman without some money. He cannot afford it. And what claims has Lydia, what attractions has she beyond youth, health, and good humour, that could make him, for her sake, forgo every chance of benefiting himself by marrying well? As to what restraint the apprehension of disgrace in the corps might throw on a dishonourable elopement with her, I am not able to judge; for I know nothing of the effects that such a step might produce. But as to your other objection, I am afraid it will hardly hold good. Lydia has no brothers to step forward; and he might imagine, from my father's behaviour, from his indolence and the little attention he has ever seemed to give to what was going forward in his family, that he would do as little, and think as little about it, as any father could do in such a matter."```
+"But why all this secrecy? Why any fear of detection? Why must their marriage be private? Oh! no, no, this is not likely. His most particular friend, you see by Jane's account, was persuaded of his never intending to marry her. Wickham will never marry a woman without some money. He cannot afford it. And what claims has Lydia, what attractions has she beyond youth, health, and good humour, that could make him, for her sake, forgo every chance of benefiting himself by marrying well? As to what restraint the apprehension of disgrace in the corps might throw on a dishonourable elopement with her, I am not able to judge; for I know nothing of the effects that such a step might produce. But as to your other objection, I am afraid it will hardly hold good. Lydia has no brothers to step forward; and he might imagine, from my father's behaviour, from his indolence and the little attention he has ever seemed to give to what was going forward in his family, that he would do as little, and think as little about it, as any father could do in such a matter."
 
-```"But can you think that Lydia is so lost to every thing but love of him, as to consent to live with him on any other terms than marriage?"```
+"But can you think that Lydia is so lost to every thing but love of him, as to consent to live with him on any other terms than marriage?"
 
-```"It does seem, and it is most shocking indeed,"``` replied Elizabeth, with tears in her eyes, ```"that a sister's sense of decency and virtue in such a point should admit of doubt. But, really, I know not what to say. Perhaps I am not doing her justice. But she is very young; she has never been taught to think on serious subjects; and for the last half year, nay, for a twelvemonth, she has been given up to nothing but amusement and vanity. She has been allowed to dispose of her time in the most idle and frivolous manner, and to adopt any opinions that came in her way. Since the ----shire were first quartered in Meryton, nothing but love, flirtation, and officers have been in her head. She has been doing every thing in her power, by thinking and talking on the subject, to give greater -- what shall I call it? -- susceptibility to her feelings, which are naturally lively enough. And we all know that Wickham has every charm of person and address that can captivate a woman."```
+"It does seem, and it is most shocking indeed," replied Elizabeth, with tears in her eyes, "that a sister's sense of decency and virtue in such a point should admit of doubt. But, really, I know not what to say. Perhaps I am not doing her justice. But she is very young; she has never been taught to think on serious subjects; and for the last half year, nay, for a twelvemonth, she has been given up to nothing but amusement and vanity. She has been allowed to dispose of her time in the most idle and frivolous manner, and to adopt any opinions that came in her way. Since the ----shire were first quartered in Meryton, nothing but love, flirtation, and officers have been in her head. She has been doing every thing in her power, by thinking and talking on the subject, to give greater -- what shall I call it? -- susceptibility to her feelings, which are naturally lively enough. And we all know that Wickham has every charm of person and address that can captivate a woman."
 
-```"But you see that Jane,"``` said her aunt, ```"does not think so ill of Wickham as to believe him capable of the attempt."```
+"But you see that Jane," said her aunt, "does not think so ill of Wickham as to believe him capable of the attempt."
 
-```"Of whom does Jane ever think ill? And who is there, whatever might be their former conduct, that she would believe capable of such an attempt, till it were proved against them? But Jane knows, as well as I do, what Wickham really is. We both know that he has been profligate in every sense of the word. That he has neither integrity nor honour. That he is as false and deceitful, as he is insinuating."```
+"Of whom does Jane ever think ill? And who is there, whatever might be their former conduct, that she would believe capable of such an attempt, till it were proved against them? But Jane knows, as well as I do, what Wickham really is. We both know that he has been profligate in every sense of the word. That he has neither integrity nor honour. That he is as false and deceitful, as he is insinuating."
 
-```"And do you really know all this?"``` cried Mrs. Gardiner, whose curiosity as to the mode of her intelligence was all alive.
+"And do you really know all this?" cried Mrs. Gardiner, whose curiosity as to the mode of her intelligence was all alive.
 
-```"I do, indeed,"``` replied Elizabeth, colouring. ```"I told you the other day, of his infamous behaviour to Mr. Darcy; and you, yourself, when last at Longbourn, heard in what manner he spoke of the man who had behaved with such forbearance and liberality towards him. And there are other circumstances which I am not at liberty -- which it is not worth while to relate; but his lies about the whole Pemberley family are endless. From what he said of Miss Darcy, I was thoroughly prepared to see a proud, reserved, disagreeable girl. Yet he knew to the contrary himself. He must know that she was amiable and unpretending as we have found her."```
+"I do, indeed," replied Elizabeth, colouring. "I told you the other day, of his infamous behaviour to Mr. Darcy; and you, yourself, when last at Longbourn, heard in what manner he spoke of the man who had behaved with such forbearance and liberality towards him. And there are other circumstances which I am not at liberty -- which it is not worth while to relate; but his lies about the whole Pemberley family are endless. From what he said of Miss Darcy, I was thoroughly prepared to see a proud, reserved, disagreeable girl. Yet he knew to the contrary himself. He must know that she was amiable and unpretending as we have found her."
 
-```"But does Lydia know nothing of this? Can she be ignorant of what you and Jane seem so well to understand?"```
+"But does Lydia know nothing of this? Can she be ignorant of what you and Jane seem so well to understand?"
 
-```"Oh, yes! -- that, that is the worst of all. Till I was in Kent, and saw so much both of Mr. Darcy and his relation, Colonel Fitzwilliam, I was ignorant of the truth myself. And when I returned home, the ----shire was to leave Meryton in a week or fortnight's time. As that was the case, neither Jane, to whom I related the whole, nor I, thought it necessary to make our knowledge public; for of what use could it apparently be to any one that the good opinion which all the neighbourhood had of him should then be overthrown? And even when it was settled that Lydia should go with Mrs. Forster, the necessity of opening her eyes to his character never occurred to me. That she could be in any danger from the deception never entered my head. That such a consequence as this should ensue, you may easily believe was far enough from my thoughts."```
+"Oh, yes! -- that, that is the worst of all. Till I was in Kent, and saw so much both of Mr. Darcy and his relation, Colonel Fitzwilliam, I was ignorant of the truth myself. And when I returned home, the ----shire was to leave Meryton in a week or fortnight's time. As that was the case, neither Jane, to whom I related the whole, nor I, thought it necessary to make our knowledge public; for of what use could it apparently be to any one that the good opinion which all the neighbourhood had of him should then be overthrown? And even when it was settled that Lydia should go with Mrs. Forster, the necessity of opening her eyes to his character never occurred to me. That she could be in any danger from the deception never entered my head. That such a consequence as this should ensue, you may easily believe was far enough from my thoughts."
 
-```"When they all removed to Brighton, therefore, you had no reason, I suppose, to believe them fond of each other."```
+"When they all removed to Brighton, therefore, you had no reason, I suppose, to believe them fond of each other."
 
-```"Not the slightest. I can remember no symptom of affection on either side; and had any thing of the kind been perceptible, you must be aware that ours is not a family on which it could be thrown away. When first he entered the corps, she was ready enough to admire him; but so we all were. Every girl in or near Meryton was out of her senses about him for the first two months; but he never distinguished her by any particular attention, and consequently, after a moderate period of extravagant and wild admiration, her fancy for him gave way, and others of the regiment who treated her with more distinction again became her favourites."```
+"Not the slightest. I can remember no symptom of affection on either side; and had any thing of the kind been perceptible, you must be aware that ours is not a family on which it could be thrown away. When first he entered the corps, she was ready enough to admire him; but so we all were. Every girl in or near Meryton was out of her senses about him for the first two months; but he never distinguished her by any particular attention, and consequently, after a moderate period of extravagant and wild admiration, her fancy for him gave way, and others of the regiment who treated her with more distinction again became her favourites."
 
 ---
 
@@ -48,21 +48,21 @@ Elizabeth jumped out; and, after giving each of them an hasty kiss, hurried into
 
 Elizabeth, as she affectionately embraced her, whilst tears filled the eyes of both, lost not a moment in asking whether any thing had been heard of the fugitives.
 
-```"Not yet,"``` replied Jane. ```"But now that my dear uncle is come, I hope every thing will be well."```
+"Not yet," replied Jane. "But now that my dear uncle is come, I hope every thing will be well."
 
-```"Is my father in town?"```
+"Is my father in town?"
 
-```"Yes, he went on Tuesday, as I wrote you word."```
+"Yes, he went on Tuesday, as I wrote you word."
 
-```"And have you heard from him often?"```
+"And have you heard from him often?"
 
-```"We have heard only once. He wrote me a few lines on Wednesday, to say that he had arrived in safety, and to give me his directions, which I particularly begged him to do. He merely added that he should not write again till he had something of importance to mention."```
+"We have heard only once. He wrote me a few lines on Wednesday, to say that he had arrived in safety, and to give me his directions, which I particularly begged him to do. He merely added that he should not write again till he had something of importance to mention."
 
-```"And my mother -- How is she? How are you all?"```
+"And my mother -- How is she? How are you all?"
 
-```"My mother is tolerably well, I trust; though her spirits are greatly shaken. She is up stairs, and will have great satisfaction in seeing you all. She does not yet leave her dressing-room. Mary and Kitty, thank Heaven! are quite well."```
+"My mother is tolerably well, I trust; though her spirits are greatly shaken. She is up stairs, and will have great satisfaction in seeing you all. She does not yet leave her dressing-room. Mary and Kitty, thank Heaven! are quite well."
 
-```"But you -- How are you?"``` cried Elizabeth. ```"You look pale. How much you must have gone through!"```
+"But you -- How are you?" cried Elizabeth. "You look pale. How much you must have gone through!"
 
 Her sister, however, assured her of her being perfectly well; and their conversation, which had been passing while Mr. and Mrs. Gardiner were engaged with their children, was now put an end to by the approach of the whole party. Jane ran to her uncle and aunt, and welcomed and thanked them both, with alternate smiles and tears.
 
@@ -70,13 +70,13 @@ When they were all in the drawing room, the questions which Elizabeth had alread
 
 Mrs. Bennet, to whose apartment they all repaired, after a few minutes conversation together, received them exactly as might be expected; with tears and lamentations of regret, invectives against the villainous conduct of Wickham, and complaints of her own sufferings and ill usage; blaming every body but the person to whose ill-judging indulgence the errors of her daughter must be principally owing.
 
-```"If I had been able,"``` said she, ```"to carry my point of going to Brighton, with all my family, this would not have happened; but poor dear Lydia had nobody to take care of her. Why did the Forsters ever let her go out of their sight? I am sure there was some great neglect or other on their side, for she is not the kind of girl to do such a thing, if she had been well looked after. I always thought they were very unfit to have the charge of her; but I was over-ruled, as I always am. Poor dear child! And now here's Mr. Bennet gone away, and I know he will fight Wickham wherever he meets him, and then he will be killed, and what is to become of us all? The Collinses will turn us out, before he is cold in his grave; and if you are not kind to us, brother, I do not know what we shall do."```
+"If I had been able," said she, "to carry my point of going to Brighton, with all my family, this would not have happened; but poor dear Lydia had nobody to take care of her. Why did the Forsters ever let her go out of their sight? I am sure there was some great neglect or other on their side, for she is not the kind of girl to do such a thing, if she had been well looked after. I always thought they were very unfit to have the charge of her; but I was over-ruled, as I always am. Poor dear child! And now here's Mr. Bennet gone away, and I know he will fight Wickham wherever he meets him, and then he will be killed, and what is to become of us all? The Collinses will turn us out, before he is cold in his grave; and if you are not kind to us, brother, I do not know what we shall do."
 
 They all exclaimed against such terrific ideas; and Mr. Gardiner, after general assurances of his affection for her and all her family, told her that he meant to be in London the very next day, and would assist Mr. Bennet in every endeavour for recovering Lydia.
 
-```"Do not give way to useless alarm,"``` added he; ```"though it is right to be prepared for the worst, there is no occasion to look on it as certain. It is not quite a week since they left Brighton. In a few days more, we may gain some news of them, and till we know that they are not married, and have no design of marrying, do not let us give the matter over as lost. As soon as I get to town, I shall go to my brother and make him come home with me to Gracechurch Street, and then we may consult together as to what is to be done."```
+"Do not give way to useless alarm," added he; "though it is right to be prepared for the worst, there is no occasion to look on it as certain. It is not quite a week since they left Brighton. In a few days more, we may gain some news of them, and till we know that they are not married, and have no design of marrying, do not let us give the matter over as lost. As soon as I get to town, I shall go to my brother and make him come home with me to Gracechurch Street, and then we may consult together as to what is to be done."
 
-```"Oh! my dear brother,"``` replied Mrs. Bennet, ```"that is exactly what I could most wish for. And now do, when you get to town, find them out, wherever they may be; and if they are not married already, make them marry. And as for wedding clothes, do not let them wait for that, but tell Lydia she shall have as much money as she chuses to buy them, after they are married. And, above all things, keep Mr. Bennet from fighting. Tell him what a dreadful state I am in, -- that I am frightened out of my wits; and have such tremblings, such flutterings all over me such spasms in my side, and pains in my head, and such beatings at heart, that I can get no rest by night nor by day. And tell my dear Lydia, not to give any directions about her clothes till she has seen me, for she does not know which are the best warehouses. Oh, brother, how kind you are! I know you will contrive it all."```
+"Oh! my dear brother," replied Mrs. Bennet, "that is exactly what I could most wish for. And now do, when you get to town, find them out, wherever they may be; and if they are not married already, make them marry. And as for wedding clothes, do not let them wait for that, but tell Lydia she shall have as much money as she chuses to buy them, after they are married. And, above all things, keep Mr. Bennet from fighting. Tell him what a dreadful state I am in, -- that I am frightened out of my wits; and have such tremblings, such flutterings all over me such spasms in my side, and pains in my head, and such beatings at heart, that I can get no rest by night nor by day. And tell my dear Lydia, not to give any directions about her clothes till she has seen me, for she does not know which are the best warehouses. Oh, brother, how kind you are! I know you will contrive it all."
 
 But Mr. Gardiner, though he assured her again of his earnest endeavours in the cause, could not avoid recommending moderation to her, as well in her hopes as her fears; and, after talking with her in this manner till dinner was on table, they left her to vent all her feelings on the housekeeper, who attended in the absence of her daughters.
 
@@ -84,67 +84,67 @@ Though her brother and sister were persuaded that there was no real occasion for
 
 In the dining-room they were soon joined by Mary and Kitty, who had been too busily engaged in their separate apartments, to make their appearance before. One came from her books, and the other from her toilette. The faces of both, however, were tolerably calm; and no change was visible in either, except that the loss of her favourite sister, or the anger which she had herself incurred in the business, had given something more of fretfulness than usual to the accents of Kitty. As for Mary, she was mistress enough of herself to whisper to Elizabeth, with a countenance of grave reflection, soon after they were seated at table,
 
-```"This is a most unfortunate affair; and will probably be much talked of. But we must stem the tide of malice, and pour into the wounded bosoms of each other the balm of sisterly consolation."```
+"This is a most unfortunate affair; and will probably be much talked of. But we must stem the tide of malice, and pour into the wounded bosoms of each other the balm of sisterly consolation."
 
-Then, perceiving in Elizabeth no inclination of replying, she added, ```"Unhappy as the event must be for Lydia, we may draw from it this useful lesson: that loss of virtue in a female is irretrievable -- that one false step involves her in endless ruin -- that her reputation is no less brittle than it is beautiful, -- and that she cannot be too much guarded in her behaviour towards the undeserving of the other sex."```
+Then, perceiving in Elizabeth no inclination of replying, she added, "Unhappy as the event must be for Lydia, we may draw from it this useful lesson: that loss of virtue in a female is irretrievable -- that one false step involves her in endless ruin -- that her reputation is no less brittle than it is beautiful, -- and that she cannot be too much guarded in her behaviour towards the undeserving of the other sex."
 
 Elizabeth lifted up her eyes in amazement, but was too much oppressed to make any reply. Mary, however, continued to console herself with such kind of moral extractions from the evil before them.
 
-In the afternoon, the two elder Miss Bennets were able to be for half an hour by themselves; and Elizabeth instantly availed herself of the opportunity of making many enquiries, which Jane was equally eager to satisfy. After joining in general lamentations over the dreadful sequel of this event, which Elizabeth considered as all but certain, and Miss Bennet could not assert to be wholly impossible, the former continued the subject by saying, ```"But tell me all and every thing about it which I have not already heard. Give me farther particulars. What did Colonel Forster say? Had they no apprehension of any thing before the elopement took place? They must have seen them together for ever."```
+In the afternoon, the two elder Miss Bennets were able to be for half an hour by themselves; and Elizabeth instantly availed herself of the opportunity of making many enquiries, which Jane was equally eager to satisfy. After joining in general lamentations over the dreadful sequel of this event, which Elizabeth considered as all but certain, and Miss Bennet could not assert to be wholly impossible, the former continued the subject by saying, "But tell me all and every thing about it which I have not already heard. Give me farther particulars. What did Colonel Forster say? Had they no apprehension of any thing before the elopement took place? They must have seen them together for ever."
 
-```"Colonel Forster did own that he had often suspected some partiality, especially on Lydia's side, but nothing to give him any alarm. I am so grieved for him. His behaviour was attentive and kind to the utmost. He was coming to us, in order to assure us of his concern, before he had any idea of their not being gone to Scotland; when that apprehension first got abroad, it hastened his journey."```
+"Colonel Forster did own that he had often suspected some partiality, especially on Lydia's side, but nothing to give him any alarm. I am so grieved for him. His behaviour was attentive and kind to the utmost. He was coming to us, in order to assure us of his concern, before he had any idea of their not being gone to Scotland; when that apprehension first got abroad, it hastened his journey."
 
-```"And was Denny convinced that Wickham would not marry? Did he know of their intending to go off? Had Colonel Forster seen Denny himself?"```
+"And was Denny convinced that Wickham would not marry? Did he know of their intending to go off? Had Colonel Forster seen Denny himself?"
 
-```"Yes; but when questioned by him, Denny denied knowing any thing of their plan, and would not give his real opinion about it. He did not repeat his persuasion of their not marrying -- and from that, I am inclined to hope, he might have been misunderstood before."```
+"Yes; but when questioned by him, Denny denied knowing any thing of their plan, and would not give his real opinion about it. He did not repeat his persuasion of their not marrying -- and from that, I am inclined to hope, he might have been misunderstood before."
 
-```"And till Colonel Forster came himself, not one of you entertained a doubt, I suppose, of their being really married?"```
+"And till Colonel Forster came himself, not one of you entertained a doubt, I suppose, of their being really married?"
 
-```"How was it possible that such an idea should enter our brains! I felt a little uneasy -- a little fearful of my sister's happiness with him in marriage, because I knew that his conduct had not been always quite right. My father and mother knew nothing of that, they only felt how imprudent a match it must be. Kitty then owned, with a very natural triumph on knowing more than the rest of us, that in Lydia's last letter she had prepared her for such a step. She had known, it seems, of their being in love with each other many weeks."```
+"How was it possible that such an idea should enter our brains! I felt a little uneasy -- a little fearful of my sister's happiness with him in marriage, because I knew that his conduct had not been always quite right. My father and mother knew nothing of that, they only felt how imprudent a match it must be. Kitty then owned, with a very natural triumph on knowing more than the rest of us, that in Lydia's last letter she had prepared her for such a step. She had known, it seems, of their being in love with each other many weeks."
 
-```"But not before they went to Brighton?"```
+"But not before they went to Brighton?"
 
-```"No, I believe not."```
+"No, I believe not."
 
-```"And did Colonel Forster appear to think ill of Wickham himself? Does he know his real character?"```
+"And did Colonel Forster appear to think ill of Wickham himself? Does he know his real character?"
 
-```"I must confess that he did not speak so well of Wickham as he formerly did. He believed him to be imprudent and extravagant. And since this sad affair has taken place, it is said that he left Meryton greatly in debt; but I hope this may be false."```
+"I must confess that he did not speak so well of Wickham as he formerly did. He believed him to be imprudent and extravagant. And since this sad affair has taken place, it is said that he left Meryton greatly in debt; but I hope this may be false."
 
-```"Oh, Jane, had we been less secret, had we told what we knew of him, this could not have happened!"```
+"Oh, Jane, had we been less secret, had we told what we knew of him, this could not have happened!"
 
-```"Perhaps it would have been better,"``` replied her sister. ```"But to expose the former faults of any person, without knowing what their present feelings were, seemed unjustifiable. We acted with the best intentions."```
+"Perhaps it would have been better," replied her sister. "But to expose the former faults of any person, without knowing what their present feelings were, seemed unjustifiable. We acted with the best intentions."
 
-```"Could Colonel Forster repeat the particulars of Lydia's note to his wife?"```
+"Could Colonel Forster repeat the particulars of Lydia's note to his wife?"
 
-```"He brought it with him for us to see."```
+"He brought it with him for us to see."
 
 Jane then took it from her pocket-book, and gave it to Elizabeth. These were the contents:
 
-```"MY DEAR HARRIET,
+"MY DEAR HARRIET,
 
 You will laugh when you know where I am gone, and I cannot help laughing myself at your surprise to-morrow morning, as soon as I am missed. I am going to Gretna Green, and if you cannot guess with who, I shall think you a simpleton, for there is but one man in the world I love, and he is an angel. I should never be happy without him, so think it no harm to be off. You need not send them word at Longbourn of my going, if you do not like it, for it will make the surprise the greater when I write to them and sign my name Lydia Wickham. What a good joke it will be! I can hardly write for laughing. Pray make my excuses to Pratt, for not keeping my engagement and dancing with him to night. Tell him I hope he will excuse me when he knows all, and tell him I will dance with him at the next ball we meet, with great pleasure. I shall send for my clothes when I get to Longbourn; but I wish you would tell Sally to mend a great slit in my worked muslin gown before they are packed up. Good bye. Give my love to Colonel Forster. I hope you will drink to our good journey.
 
 Your affectionate friend,
 
-LYDIA BENNET."```
+LYDIA BENNET."
 
-```"Oh! thoughtless, thoughtless Lydia!"``` cried Elizabeth when she had finished it. ```"What a letter is this, to be written at such a moment. But at least it shews that she was serious in the object of her journey. Whatever he might afterwards persuade her to, it was not on her side a scheme of infamy. My poor father! how he must have felt it!"```
+"Oh! thoughtless, thoughtless Lydia!" cried Elizabeth when she had finished it. "What a letter is this, to be written at such a moment. But at least it shews that she was serious in the object of her journey. Whatever he might afterwards persuade her to, it was not on her side a scheme of infamy. My poor father! how he must have felt it!"
 
-```"I never saw any one so shocked. He could not speak a word for full ten minutes. My mother was taken ill immediately, and the whole house in such confusion!"```
+"I never saw any one so shocked. He could not speak a word for full ten minutes. My mother was taken ill immediately, and the whole house in such confusion!"
 
-```"Oh! Jane!"``` cried Elizabeth, ```"was there a servant belonging to it, who did not know the whole story before the end of the day?"```
+"Oh! Jane!" cried Elizabeth, "was there a servant belonging to it, who did not know the whole story before the end of the day?"
 
-```"I do not know. -- I hope there was. -- But to be guarded at such a time, is very difficult. My mother was in hysterics, and though I endeavoured to give her every assistance in my power, I am afraid I did not do so much as I might have done! But the horror of what might possibly happen, almost took from me my faculties."```
+"I do not know. -- I hope there was. -- But to be guarded at such a time, is very difficult. My mother was in hysterics, and though I endeavoured to give her every assistance in my power, I am afraid I did not do so much as I might have done! But the horror of what might possibly happen, almost took from me my faculties."
 
-```"Your attendance upon her has been too much for you. You do not look well. Oh! that I had been with you, you have had every care and anxiety upon yourself alone."```
+"Your attendance upon her has been too much for you. You do not look well. Oh! that I had been with you, you have had every care and anxiety upon yourself alone."
 
-```"Mary and Kitty have been very kind, and would have shared in every fatigue, I am sure, but I did not think it right for either of them. Kitty is slight and delicate, and Mary studies so much, that her hours of repose should not be broken in on. My aunt Phillips came to Longbourn on Tuesday, after my father went away; and was so good as to stay till Thursday with me. She was of great use and comfort to us all, and Lady Lucas has been very kind; she walked here on Wednesday morning to condole with us, and offered her services, or any of her daughters, if they could be of use to us."```
+"Mary and Kitty have been very kind, and would have shared in every fatigue, I am sure, but I did not think it right for either of them. Kitty is slight and delicate, and Mary studies so much, that her hours of repose should not be broken in on. My aunt Phillips came to Longbourn on Tuesday, after my father went away; and was so good as to stay till Thursday with me. She was of great use and comfort to us all, and Lady Lucas has been very kind; she walked here on Wednesday morning to condole with us, and offered her services, or any of her daughters, if they could be of use to us."
 
-```"She had better have stayed at home,"``` cried Elizabeth; ```"perhaps she meant well, but under such a misfortune as this, one cannot see too little of one's neighbours. Assistance is impossible; condolence, insufferable. Let them triumph over us at a distance, and be satisfied."```
+"She had better have stayed at home," cried Elizabeth; "perhaps she meant well, but under such a misfortune as this, one cannot see too little of one's neighbours. Assistance is impossible; condolence, insufferable. Let them triumph over us at a distance, and be satisfied."
 
 She then proceeded to enquire into the measures which her father had intended to pursue, while in town, for the recovery of his daughter.
 
-```"He meant, I believe,"``` replied Jane, ```"to go to Epsom, the place where they last changed horses, see the postilions, and try if any thing could be made out from them. His principal object must be to discover the number of the hackney coach which took them from Clapham. It had come with a fare from London; and as he thought the circumstance of a gentleman and lady's removing from one carriage into another might be remarked, he meant to make enquiries at Clapham. If he could any how discover at what house the coachman had before set down his fare, he determined to make enquiries there, and hoped it might not be impossible to find out the stand and number of the coach. I do not know of any other designs that he had formed: but he was in such a hurry to be gone, and his spirits so greatly discomposed, that I had difficulty in finding out even so much as this."```
+"He meant, I believe," replied Jane, "to go to Epsom, the place where they last changed horses, see the postilions, and try if any thing could be made out from them. His principal object must be to discover the number of the hackney coach which took them from Clapham. It had come with a fare from London; and as he thought the circumstance of a gentleman and lady's removing from one carriage into another might be remarked, he meant to make enquiries at Clapham. If he could any how discover at what house the coachman had before set down his fare, he determined to make enquiries there, and hoped it might not be impossible to find out the stand and number of the coach. I do not know of any other designs that he had formed: but he was in such a hurry to be gone, and his spirits so greatly discomposed, that I had difficulty in finding out even so much as this."
 
 他们离开那个城镇的时候，舅父跟伊丽莎白说：“我又把这件事想了一遍，认真地考虑 了一番，越发觉得你姐姐的看法很对。我认为无论是哪个青年，决不会对这样一位姑娘存着 这样的坏心眼，她又不是无亲无靠，何况她就住在他自己的上校家里，因此我要从最好的方 面去着想。难道他以为她的亲友们不会挺身而出吗？难道他还以为这一次冒犯弗斯脱上校以 后，还好意思回到民兵团里去吗？我看他不见得会痴情到冒险的地步。”
 

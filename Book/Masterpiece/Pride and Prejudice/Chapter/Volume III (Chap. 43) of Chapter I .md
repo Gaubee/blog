@@ -10,83 +10,83 @@ They descended the hill, crossed the bridge, and drove to the door; and, while e
 
 The housekeeper came; a respectable-looking, elderly woman, much less fine, and more civil, than she had any notion of finding her. They followed her into the dining-parlour. It was a large, well-proportioned room, handsomely fitted up. Elizabeth, after slightly surveying it, went to a window to enjoy its prospect. The hill, crowned with wood, from which they had descended, receiving increased abruptness from the distance, was a beautiful object. Every disposition of the ground was good; and she looked on the whole scene -- the river, the trees scattered on its banks, and the winding of the valley, as far as she could trace it -- with delight. As they passed into other rooms, these objects were taking different positions; but from every window there were beauties to be seen. The rooms were lofty and handsome, and their furniture suitable to the fortune of their proprietor; but Elizabeth saw, with admiration of his taste, that it was neither gaudy nor uselessly fine; with less of splendor, and more real elegance, than the furniture of Rosings.
 
-```"And of this place,"``` thought she, ```"I might have been mistress! With these rooms I might now have been familiarly acquainted! Instead of viewing them as a stranger, I might have rejoiced in them as my own, and welcomed to them as visitors my uncle and aunt. -- But no,"``` -- recollecting herself, -- ```"that could never be: my uncle and aunt would have been lost to me: I should not have been allowed to invite them."``` This was a lucky recollection -- it saved her from something like regret.
+"And of this place," thought she, "I might have been mistress! With these rooms I might now have been familiarly acquainted! Instead of viewing them as a stranger, I might have rejoiced in them as my own, and welcomed to them as visitors my uncle and aunt. -- But no," -- recollecting herself, -- "that could never be: my uncle and aunt would have been lost to me: I should not have been allowed to invite them." This was a lucky recollection -- it saved her from something like regret.
 
-She longed to enquire of the housekeeper whether her master were really absent, but had not courage for it. At length, however, the question was asked by her uncle; and she turned away with alarm, while Mrs. Reynolds replied that he was, adding, ```"but we expect him tomorrow, with a large party of friends."``` How rejoiced was Elizabeth that their own journey had not by any circumstance been delayed a day!
+She longed to enquire of the housekeeper whether her master were really absent, but had not courage for it. At length, however, the question was asked by her uncle; and she turned away with alarm, while Mrs. Reynolds replied that he was, adding, "but we expect him tomorrow, with a large party of friends." How rejoiced was Elizabeth that their own journey had not by any circumstance been delayed a day!
 
-Her aunt now called her to look at a picture. She approached, and saw the likeness of Mr. Wickham suspended, amongst several other miniatures, over the mantlepiece. Her aunt asked her, smilingly, how she liked it. The housekeeper came forward, and told them it was the picture of a young gentleman, the son of her late master's steward, who had been brought up by him at his own expence. -- ```"He is now gone into the army,"``` she added, ```"but I am afraid he has turned out very wild."```
+Her aunt now called her to look at a picture. She approached, and saw the likeness of Mr. Wickham suspended, amongst several other miniatures, over the mantlepiece. Her aunt asked her, smilingly, how she liked it. The housekeeper came forward, and told them it was the picture of a young gentleman, the son of her late master's steward, who had been brought up by him at his own expence. -- "He is now gone into the army," she added, "but I am afraid he has turned out very wild."
 
 Mrs. Gardiner looked at her niece with a smile, but Elizabeth could not return it.
 
-```"And that,"``` said Mrs. Reynolds, pointing to another of the miniatures, ```"is my master -- and very like him. It was drawn at the same time as the other -- about eight years ago."```
+"And that," said Mrs. Reynolds, pointing to another of the miniatures, "is my master -- and very like him. It was drawn at the same time as the other -- about eight years ago."
 
-```"I have heard much of your master's fine person,"``` said Mrs. Gardiner, looking at the picture; ```"it is a handsome face. But, Lizzy, you can tell us whether it is like or not."```
+"I have heard much of your master's fine person," said Mrs. Gardiner, looking at the picture; "it is a handsome face. But, Lizzy, you can tell us whether it is like or not."
 
 Mrs. Reynolds's respect for Elizabeth seemed to increase on this intimation of her knowing her master.
 
-```"Does that young lady know Mr. Darcy?"```
+"Does that young lady know Mr. Darcy?"
 
-Elizabeth coloured, and said -- ```"A little."```
+Elizabeth coloured, and said -- "A little."
 
-```"And do not you think him a very handsome gentleman, Ma'am?"```
+"And do not you think him a very handsome gentleman, Ma'am?"
 
-```"Yes, very handsome."```
+"Yes, very handsome."
 
-```"I am sure I know none so handsome; but in the gallery up stairs you will see a finer, larger picture of him than this. This room was my late master's favourite room, and these miniatures are just as they used to be then. He was very fond of them."```
+"I am sure I know none so handsome; but in the gallery up stairs you will see a finer, larger picture of him than this. This room was my late master's favourite room, and these miniatures are just as they used to be then. He was very fond of them."
 
 This accounted to Elizabeth for Mr. Wickham's being among them.
 
 Mrs. Reynolds then directed their attention to one of Miss Darcy, drawn when she was only eight years old.
 
-```"And is Miss Darcy as handsome as her brother?"``` said Mr. Gardiner.
+"And is Miss Darcy as handsome as her brother?" said Mr. Gardiner.
 
-```"Oh! yes -- the handsomest young lady that ever was seen; and so accomplished! -- She plays and sings all day long. In the next room is a new instrument just come down for her -- a present from my master; she comes here to-morrow with him."```
+"Oh! yes -- the handsomest young lady that ever was seen; and so accomplished! -- She plays and sings all day long. In the next room is a new instrument just come down for her -- a present from my master; she comes here to-morrow with him."
 
 Mr. Gardiner, whose manners were easy and pleasant, encouraged her communicativeness by his questions and remarks; Mrs. Reynolds, either from pride or attachment, had evidently great pleasure in talking of her master and his sister.
 
-```"Is your master much at Pemberley in the course of the year?"```
+"Is your master much at Pemberley in the course of the year?"
 
-```"Not so much as I could wish, Sir; but I dare say he may spend half his time here; and Miss Darcy is always down for the summer months."```
+"Not so much as I could wish, Sir; but I dare say he may spend half his time here; and Miss Darcy is always down for the summer months."
 
-```"Except,"``` thought Elizabeth, ```"when she goes to Ramsgate."```
+"Except," thought Elizabeth, "when she goes to Ramsgate."
 
-```"If your master would marry, you might see more of him."```
+"If your master would marry, you might see more of him."
 
-```"Yes, Sir; but I do not know when that will be. I do not know who is good enough for him."```
+"Yes, Sir; but I do not know when that will be. I do not know who is good enough for him."
 
-Mr. and Mrs. Gardiner smiled. Elizabeth could not help saying, ```"It is very much to his credit, I am sure, that you should think so."```
+Mr. and Mrs. Gardiner smiled. Elizabeth could not help saying, "It is very much to his credit, I am sure, that you should think so."
 
-```"I say no more than the truth, and what every body will say that knows him,"``` replied the other. Elizabeth thought this was going pretty far; and she listened with increasing astonishment as the housekeeper added, ```"I have never had a cross word from him in my life, and I have known him ever since he was four years old."```
+"I say no more than the truth, and what every body will say that knows him," replied the other. Elizabeth thought this was going pretty far; and she listened with increasing astonishment as the housekeeper added, "I have never had a cross word from him in my life, and I have known him ever since he was four years old."
 
 This was praise, of all others most extraordinary, most opposite to her ideas. That he was not a good tempered man had been her firmest opinion. Her keenest attention was awakened; she longed to hear more, and was grateful to her uncle for saying,
 
-```"There are very few people of whom so much can be said. You are lucky in having such a master."```
+"There are very few people of whom so much can be said. You are lucky in having such a master."
 
-```"Yes, Sir, I know I am. If I was to go through the world, I could not meet with a better. But I have always observed that they who are good-natured when children are good-natured when they grow up; and he was always the sweetest-tempered, most generous-hearted, boy in the world."```
+"Yes, Sir, I know I am. If I was to go through the world, I could not meet with a better. But I have always observed that they who are good-natured when children are good-natured when they grow up; and he was always the sweetest-tempered, most generous-hearted, boy in the world."
 
-Elizabeth almost stared at her. -- ```"Can this be Mr. Darcy!"``` thought she.
+Elizabeth almost stared at her. -- "Can this be Mr. Darcy!" thought she.
 
-```"His father was an excellent man,"``` said Mrs. Gardiner.
+"His father was an excellent man," said Mrs. Gardiner.
 
-```"Yes, Ma'am, that he was indeed; and his son will be just like him -- just as affable to the poor."```
+"Yes, Ma'am, that he was indeed; and his son will be just like him -- just as affable to the poor."
 
 Elizabeth listened, wondered, doubted, and was impatient for more. Mrs. Reynolds could interest her on no other point. She related the subject of the pictures, the dimensions of the rooms, and the price of the furniture, in vain. Mr. Gardiner, highly amused by the kind of family prejudice to which he attributed her excessive commendation of her master, soon led again to the subject; and she dwelt with energy on his many merits, as they proceeded together up the great staircase.
 
-```"He is the best landlord, and the best master,"``` said she, ```"that ever lived. Not like the wild young men now-a-days, who think of nothing but themselves. There is not one of his tenants or servants but what will give him a good name. Some people call him proud; but I am sure I never saw any thing of it. To my fancy, it is only because he does not rattle away like other young men."```
+"He is the best landlord, and the best master," said she, "that ever lived. Not like the wild young men now-a-days, who think of nothing but themselves. There is not one of his tenants or servants but what will give him a good name. Some people call him proud; but I am sure I never saw any thing of it. To my fancy, it is only because he does not rattle away like other young men."
 
-```"In what an amiable light does this place him!"``` thought Elizabeth.
+"In what an amiable light does this place him!" thought Elizabeth.
 
-```"This fine account of him,"``` whispered her aunt, as they walked, ```"is not quite consistent with his behaviour to our poor friend."```
+"This fine account of him," whispered her aunt, as they walked, "is not quite consistent with his behaviour to our poor friend."
 
-```"Perhaps we might be deceived."```
+"Perhaps we might be deceived."
 
-```"That is not very likely; our authority was too good."```
+"That is not very likely; our authority was too good."
 
 On reaching the spacious lobby above, they were shewn into a very pretty sitting-room, lately fitted up with greater elegance and lightness than the apartments below; and were informed that it was but just done to give pleasure to Miss Darcy, who had taken a liking to the room when last at Pemberley.
 
-```"He is certainly a good brother,"``` said Elizabeth, as she walked towards one of the windows.
+"He is certainly a good brother," said Elizabeth, as she walked towards one of the windows.
 
-Mrs. Reynolds anticipated Miss Darcy's delight when she should enter the room. ```"And this is always the way with him,"``` she added. -- ```"Whatever can give his sister any pleasure is sure to be done in a moment. There is nothing he would not do for her."```
+Mrs. Reynolds anticipated Miss Darcy's delight when she should enter the room. "And this is always the way with him," she added. -- "Whatever can give his sister any pleasure is sure to be done in a moment. There is nothing he would not do for her."
 
 The picture gallery, and two or three of the principal bedrooms, were all that remained to be shewn. In the former were many good paintings; but Elizabeth knew nothing of the art; and from such as had been already visible below, she had willingly turned to look at some drawings of Miss Darcy's, in crayons, whose subjects were usually more interesting, and also more intelligible.
 
@@ -110,19 +110,19 @@ They had now entered a beautiful walk by the side of the water, and every step w
 
 At length, however, the remarks of her companions on her absence of mind roused her, and she felt the necessity of appearing more like herself.
 
-They entered the woods, and bidding adieu to the river for a while, ascended some of the higher grounds; whence, in spots where the opening of the trees gave the eye power to wander, were many charming views of the valley, the opposite hills, with the long range of woods overspreading many, and occasionally part of the stream. Mr. Gardiner expressed a wish of going round the whole Park, but feared it might be beyond a walk. With a triumphant smile, they were told that it was ten miles round. It settled the matter; and they pursued the accustomed circuit; which brought them again, after some time, in a descent among hanging woods, to the edge of the water, in one of its narrowest parts. They crossed it by a simple bridge, in character with the general air of the scene; it was a spot less adorned than any they had yet visited; and the valley, here contracted into a glen, allowed room only for the stream, and a narrow walk amidst the rough coppice-wood which bordered it. Elizabeth longed to explore its windings; but when they had crossed the bridge, and perceived their distance from the house, Mrs. Gardiner, who was not a great walker, could go no farther, and thought only of returning to the carriage as quickly as possible. Her niece was, therefore, obliged to submit, and they took their way towards the house on the opposite side of the river, in the nearest direction; but their progress was slow, for Mr. Gardiner, though seldom able to indulge the taste, was very fond of fishing, and was so much engaged in watching the occasional appearance of some trout in the water, and talking to the man about them, that he advanced but little. Whilst wandering on in this slow manner, they were again surprised, and Elizabeth's astonishment was quite equal to what it had been at first, by the sight of Mr. Darcy approaching them, and at no great distance. The walk being here less sheltered than on the other side, allowed them to see him before they met. Elizabeth, however astonished, was at least more prepared for an interview than before, and resolved to appear and to speak with calmness, if he really intended to meet them. For a few moments, indeed, she felt that he would probably strike into some other path. This idea lasted while a turning in the walk concealed him from their view; the turning past, he was immediately before them. With a glance she saw that he had lost none of his recent civility; and, to imitate his politeness, she began, as they met, to admire the beauty of the place; but she had not got beyond the words ```"delightful,"``` and ```"charming,"``` when some unlucky recollections obtruded, and she fancied that praise of Pemberley from her might be mischievously construed. Her colour changed, and she said no more.
+They entered the woods, and bidding adieu to the river for a while, ascended some of the higher grounds; whence, in spots where the opening of the trees gave the eye power to wander, were many charming views of the valley, the opposite hills, with the long range of woods overspreading many, and occasionally part of the stream. Mr. Gardiner expressed a wish of going round the whole Park, but feared it might be beyond a walk. With a triumphant smile, they were told that it was ten miles round. It settled the matter; and they pursued the accustomed circuit; which brought them again, after some time, in a descent among hanging woods, to the edge of the water, in one of its narrowest parts. They crossed it by a simple bridge, in character with the general air of the scene; it was a spot less adorned than any they had yet visited; and the valley, here contracted into a glen, allowed room only for the stream, and a narrow walk amidst the rough coppice-wood which bordered it. Elizabeth longed to explore its windings; but when they had crossed the bridge, and perceived their distance from the house, Mrs. Gardiner, who was not a great walker, could go no farther, and thought only of returning to the carriage as quickly as possible. Her niece was, therefore, obliged to submit, and they took their way towards the house on the opposite side of the river, in the nearest direction; but their progress was slow, for Mr. Gardiner, though seldom able to indulge the taste, was very fond of fishing, and was so much engaged in watching the occasional appearance of some trout in the water, and talking to the man about them, that he advanced but little. Whilst wandering on in this slow manner, they were again surprised, and Elizabeth's astonishment was quite equal to what it had been at first, by the sight of Mr. Darcy approaching them, and at no great distance. The walk being here less sheltered than on the other side, allowed them to see him before they met. Elizabeth, however astonished, was at least more prepared for an interview than before, and resolved to appear and to speak with calmness, if he really intended to meet them. For a few moments, indeed, she felt that he would probably strike into some other path. This idea lasted while a turning in the walk concealed him from their view; the turning past, he was immediately before them. With a glance she saw that he had lost none of his recent civility; and, to imitate his politeness, she began, as they met, to admire the beauty of the place; but she had not got beyond the words "delightful," and "charming," when some unlucky recollections obtruded, and she fancied that praise of Pemberley from her might be mischievously construed. Her colour changed, and she said no more.
 
-Mrs. Gardiner was standing a little behind; and on her pausing, he asked her if she would do him the honour of introducing him to her friends. This was a stroke of civility for which she was quite unprepared; and she could hardly suppress a smile at his being now seeking the acquaintance of some of those very people against whom his pride had revolted, in his offer to herself. ```"What will be his surprise,"``` thought she, ```"when he knows who they are! He takes them now for people of fashion."```
+Mrs. Gardiner was standing a little behind; and on her pausing, he asked her if she would do him the honour of introducing him to her friends. This was a stroke of civility for which she was quite unprepared; and she could hardly suppress a smile at his being now seeking the acquaintance of some of those very people against whom his pride had revolted, in his offer to herself. "What will be his surprise," thought she, "when he knows who they are! He takes them now for people of fashion."
 
 The introduction, however, was immediately made; and as she named their relationship to herself, she stole a sly look at him, to see how he bore it; and was not without the expectation of his decamping as fast as he could from such disgraceful companions. That he was surprised by the connexion was evident; he sustained it however with fortitude, and so far from going away, turned back with them, and entered into conversation with Mr. Gardiner. Elizabeth could not but be pleased, could not but triumph. It was consoling that he should know she had some relations for whom there was no need to blush. She listened most attentively to all that passed between them, and gloried in every expression, every sentence of her uncle, which marked his intelligence, his taste, or his good manners.
 
-The conversation soon turned upon fishing, and she heard Mr. Darcy invite him, with the greatest civility, to fish there as often as he chose while he continued in the neighbourhood, offering at the same time to supply him with fishing tackle, and pointing out those parts of the stream where there was usually most sport. Mrs. Gardiner, who was walking arm in arm with Elizabeth, gave her a look expressive of her wonder. Elizabeth said nothing, but it gratified her exceedingly; the compliment must be all for herself. Her astonishment, however, was extreme; and continually was she repeating, ```"Why is he so altered? From what can it proceed? It cannot be for me, it cannot be for my sake that his manners are thus softened. My reproofs at Hunsford could not work such a change as this. It is impossible that he should still love me."```
+The conversation soon turned upon fishing, and she heard Mr. Darcy invite him, with the greatest civility, to fish there as often as he chose while he continued in the neighbourhood, offering at the same time to supply him with fishing tackle, and pointing out those parts of the stream where there was usually most sport. Mrs. Gardiner, who was walking arm in arm with Elizabeth, gave her a look expressive of her wonder. Elizabeth said nothing, but it gratified her exceedingly; the compliment must be all for herself. Her astonishment, however, was extreme; and continually was she repeating, "Why is he so altered? From what can it proceed? It cannot be for me, it cannot be for my sake that his manners are thus softened. My reproofs at Hunsford could not work such a change as this. It is impossible that he should still love me."
 
-After walking some time in this way, the two ladies in front, the two gentlemen behind, on resuming their places after descending to the brink of the river for the better inspection of some curious water-plant, there chanced to be a little alteration. It originated in Mrs. Gardiner, who, fatigued by the exercise of the morning, found Elizabeth's arm inadequate to her support, and consequently preferred her husband's. Mr. Darcy took her place by her niece, and they walked on together. After a short silence, the lady first spoke. She wished him to know that she had been assured of his absence before she came to the place, and accordingly began by observing that his arrival had been very unexpected -- ```"for your housekeeper,"``` she added, ```"informed us that you would certainly not be here till to-morrow; and indeed, before we left Bakewell we understood that you were not immediately expected in the country."``` He acknowledged the truth of it all; and said that business with his steward had occasioned his coming forward a few hours before the rest of the party with whom he had been travelling. ```"They will join me early tomorrow,"``` he continued, ```"and among them are some who will claim an acquaintance with you, -- Mr. Bingley and his sisters."```
+After walking some time in this way, the two ladies in front, the two gentlemen behind, on resuming their places after descending to the brink of the river for the better inspection of some curious water-plant, there chanced to be a little alteration. It originated in Mrs. Gardiner, who, fatigued by the exercise of the morning, found Elizabeth's arm inadequate to her support, and consequently preferred her husband's. Mr. Darcy took her place by her niece, and they walked on together. After a short silence, the lady first spoke. She wished him to know that she had been assured of his absence before she came to the place, and accordingly began by observing that his arrival had been very unexpected -- "for your housekeeper," she added, "informed us that you would certainly not be here till to-morrow; and indeed, before we left Bakewell we understood that you were not immediately expected in the country." He acknowledged the truth of it all; and said that business with his steward had occasioned his coming forward a few hours before the rest of the party with whom he had been travelling. "They will join me early tomorrow," he continued, "and among them are some who will claim an acquaintance with you, -- Mr. Bingley and his sisters."
 
 Elizabeth answered only by a slight bow. Her thoughts were instantly driven back to the time when Mr. Bingley's name had been last mentioned between them; and if she might judge from his complexion, his mind was not very differently engaged.
 
-```"There is also one other person in the party,"``` he continued after a pause, ```"who more particularly wishes to be known to you, -- Will you allow me, or do I ask too much, to introduce my sister to your acquaintance during your stay at Lambton?"```
+"There is also one other person in the party," he continued after a pause, "who more particularly wishes to be known to you, -- Will you allow me, or do I ask too much, to introduce my sister to your acquaintance during your stay at Lambton?"
 
 The surprise of such an application was great indeed; it was too great for her to know in what manner she acceded to it. She immediately felt that whatever desire Miss Darcy might have of being acquainted with her must be the work of her brother, and without looking farther, it was satisfactory; it was gratifying to know that his resentment had not made him think really ill of her.
 
@@ -130,21 +130,21 @@ They now walked on in silence; each of them deep in thought. Elizabeth was not c
 
 He then asked her to walk into the house -- but she declared herself not tired, and they stood together on the lawn. At such a time, much might have been said, and silence was very awkward. She wanted to talk, but there seemed an embargo on every subject. At last she recollected that she had been travelling, and they talked of Matlock and Dove Dale with great perseverance. Yet time and her aunt moved slowly -- and her patience and her ideas were nearly worn out before the tête-à-tête was over. On Mr. and Mrs. Gardiner's coming up, they were all pressed to go into the house and take some refreshment; but this was declined, and they parted on each side with the utmost politeness. Mr. Darcy handed the ladies into the carriage, and when it drove off, Elizabeth saw him walking slowly towards the house.
 
-The observations of her uncle and aunt now began; and each of them pronounced him to be infinitely superior to any thing they had expected. ```"He is perfectly well behaved, polite, and unassuming,"``` said her uncle.
+The observations of her uncle and aunt now began; and each of them pronounced him to be infinitely superior to any thing they had expected. "He is perfectly well behaved, polite, and unassuming," said her uncle.
 
-```"There is something a little stately in him to be sure,"``` replied her aunt, ```"but it is confined to his air, and is not unbecoming. I can now say with the housekeeper, that though some people may call him proud, I have seen nothing of it."```
+"There is something a little stately in him to be sure," replied her aunt, "but it is confined to his air, and is not unbecoming. I can now say with the housekeeper, that though some people may call him proud, I have seen nothing of it."
 
-```"I was never more surprised than by his behaviour to us. It was more than civil; it was really attentive; and there was no necessity for such attention. His acquaintance with Elizabeth was very trifling."```
+"I was never more surprised than by his behaviour to us. It was more than civil; it was really attentive; and there was no necessity for such attention. His acquaintance with Elizabeth was very trifling."
 
-```"To be sure, Lizzy,"``` said her aunt, ```"he is not so handsome as Wickham; or rather he has not Wickham's countenance, for his features are perfectly good. But how came you to tell us that he was so disagreeable?"```
+"To be sure, Lizzy," said her aunt, "he is not so handsome as Wickham; or rather he has not Wickham's countenance, for his features are perfectly good. But how came you to tell us that he was so disagreeable?"
 
 Elizabeth excused herself as well as she could; said that she had liked him better when they met in Kent than before, and that she had never seen him so pleasant as this morning.
 
-```"But perhaps he may be a little whimsical in his civilities,"``` replied her uncle. ```"Your great men often are; and therefore I shall not take him at his word about fishing, as he might change his mind another day, and warn me off his grounds."```
+"But perhaps he may be a little whimsical in his civilities," replied her uncle. "Your great men often are; and therefore I shall not take him at his word about fishing, as he might change his mind another day, and warn me off his grounds."
 
 Elizabeth felt that they had entirely mistaken his character, but said nothing.
 
-```"From what we have seen of him,"``` continued Mrs. Gardiner, ```"I really should not have thought that he could have behaved in so cruel a way by any body, as he has done by poor Wickham. He has not an ill-natured look. On the contrary, there is something pleasing about his mouth when he speaks. And there is something of dignity in his countenance, that would not give one an unfavourable idea of his heart. But to be sure, the good lady who shewed us the house did give him a most flaming character! I could hardly help laughing aloud sometimes. But he is a liberal master, I suppose, and that in the eye of a servant comprehends every virtue."```
+"From what we have seen of him," continued Mrs. Gardiner, "I really should not have thought that he could have behaved in so cruel a way by any body, as he has done by poor Wickham. He has not an ill-natured look. On the contrary, there is something pleasing about his mouth when he speaks. And there is something of dignity in his countenance, that would not give one an unfavourable idea of his heart. But to be sure, the good lady who shewed us the house did give him a most flaming character! I could hardly help laughing aloud sometimes. But he is a liberal master, I suppose, and that in the eye of a servant comprehends every virtue."
 
 Elizabeth here felt herself called on to say something in vindication of his behaviour to Wickham; and therefore gave them to understand, in as guarded a manner as she could, that by what she had heard from his relations in Kent, his actions were capable of a very different construction; and that his character was by no means so faulty, nor Wickham's so amiable, as they had been considered in Hertfordshire. In confirmation of this, she related the particulars of all the pecuniary transactions in which they had been connected, without actually naming her authority, but stating it to be such as might be relied on.
 

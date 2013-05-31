@@ -14,13 +14,13 @@ In this quiet way, the first fortnight of her visit soon passed away. Easter was
 
 His arrival was soon known at the Parsonage, for Mr. Collins was walking the whole morning within view of the lodges opening into Hunsford Lane, in order to have the earliest assurance of it; and after making his bow as the carriage turned into the park, hurried home with the great intelligence. On the following morning he hastened to Rosings to pay his respects. There were two nephews of Lady Catherine to require them, for Mr. Darcy had brought with him a Colonel Fitzwilliam, the younger son of his uncle, Lord ----; and to the great surprise of all the party, when Mr. Collins returned, the gentlemen accompanied him. Charlotte had seen them, from her husband's room, crossing the road, and immediately running into the other, told the girls what an honour they might expect, adding,
 
-```"I may thank you, Eliza, for this piece of civility. Mr. Darcy would never have come so soon to wait upon me."```
+"I may thank you, Eliza, for this piece of civility. Mr. Darcy would never have come so soon to wait upon me."
 
 Elizabeth had scarcely time to disclaim all right to the compliment, before their approach was announced by the door-bell, and shortly afterwards the three gentlemen entered the room. Colonel Fitzwilliam, who led the way, was about thirty, not handsome, but in person and address most truly the gentleman. Mr. Darcy looked just as he had been used to look in Hertfordshire, paid his compliments, with his usual reserve, to Mrs. Collins; and whatever might be his feelings towards her friend, met her with every appearance of composure. Elizabeth merely curtseyed to him, without saying a word.
 
 Colonel Fitzwilliam entered into conversation directly with the readiness and ease of a well-bred man, and talked very pleasantly; but his cousin, after having addressed a slight observation on the house and garden to Mrs. Collins, sat for some time without speaking to any body. At length, however, his civility was so far awakened as to enquire of Elizabeth after the health of her family. She answered him in the usual way, and after a moment's pause, added,
 
-```"My eldest sister has been in town these three months. Have you never happened to see her there?"```
+"My eldest sister has been in town these three months. Have you never happened to see her there?"
 
 She was perfectly sensible that he never had; but she wished to see whether he would betray any consciousness of what had passed between the Bingleys and Jane; and she thought he looked a little confused as he answered that he had never been so fortunate as to meet Miss Bennet. The subject was pursued no farther, and the gentlemen soon afterwards went away.
 

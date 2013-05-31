@@ -12,11 +12,11 @@ Mary was the only daughter who remained at home; and she was necessarily drawn f
 
 As for Wickham and Lydia, their characters suffered no revolution from the marriage of her sisters. He bore with philosophy the conviction that Elizabeth must now become acquainted with whatever of his ingratitude and falsehood had before been unknown to her; and in spite of every thing, was not wholly without hope that Darcy might yet be prevailed on to make his fortune. The congratulatory letter which Elizabeth received from Lydia on her marriage, explained to her that, by his wife at least, if not by himself, such a hope was cherished. The letter was to this effect:
 
-```"MY DEAR LlZZY,
+"MY DEAR LlZZY,
 
 I wish you joy. If you love Mr. Darcy half as well as I do my dear Wickham, you must be very happy. It is a great comfort to have you so rich, and when you have nothing else to do, I hope you will think of us. I am sure Wickham would like a place at court very much, and I do not think we shall have quite money enough to live upon without some help. Any place would do, of about three or four hundred a year; but however, do not speak to Mr. Darcy about it, if you had rather not.
 
-Your's, &c."```
+Your's, &c."
 
 As it happened that Elizabeth had much rather not, she endeavoured in her answer to put an end to every intreaty and expectation of the kind. Such relief, however, as it was in her power to afford, by the practice of what might be called economy in her own private expences, she frequently sent them. It had always been evident to her that such an income as theirs, under the direction of two persons so extravagant in their wants, and heedless of the future, must be very insufficient to their support; and whenever they changed their quarters, either Jane or herself were sure of being applied to for some little assistance towards discharging their bills. Their manner of living, even when the restoration of peace dismissed them to a home, was unsettled in the extreme. They were always moving from place to place in quest of a cheap situation, and always spending more than they ought. His affection for her soon sunk into indifference; her's lasted a little longer; and in spite of her youth and her manners, she retained all the claims to reputation which her marriage had given her.
 
@@ -58,4 +58,6 @@ With the Gardiners, they were always on the most intimate terms. Darcy, as well 
 
 ---
 
-**2013-05-31 12:39:55**
+**Arrange by Gaubee**
+
+**2013-05-31 18:19:18**

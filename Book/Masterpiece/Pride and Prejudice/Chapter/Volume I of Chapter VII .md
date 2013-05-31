@@ -10,83 +10,83 @@ Their visits to Mrs. Philips were now productive of the most interesting intelli
 
 After listening one morning to their effusions on this subject, Mr. Bennet coolly observed,
 
-```"From all that I can collect by your manner of talking, you must be two of the silliest girls in the country. I have suspected it some time, but I am now convinced."```
+"From all that I can collect by your manner of talking, you must be two of the silliest girls in the country. I have suspected it some time, but I am now convinced."
 
 Catherine was disconcerted, and made no answer; but Lydia, with perfect indifference, continued to express her admiration of Captain Carter, and her hope of seeing him in the course of the day, as he was going the next morning to London.
 
-```"I am astonished, my dear,"``` said Mrs. Bennet, ```"that you should be so ready to think your own children silly. If I wished to think slightingly of any body's children, it should not be of my own, however."```
+"I am astonished, my dear," said Mrs. Bennet, "that you should be so ready to think your own children silly. If I wished to think slightingly of any body's children, it should not be of my own, however."
 
-```"If my children are silly I must hope to be always sensible of it."```
+"If my children are silly I must hope to be always sensible of it."
 
-```"Yes -- but as it happens, they are all of them very clever."```
+"Yes -- but as it happens, they are all of them very clever."
 
-```"This is the only point, I flatter myself, on which we do not agree. I had hoped that our sentiments coincided in every particular, but I must so far differ from you as to think our two youngest daughters uncommonly foolish."```
+"This is the only point, I flatter myself, on which we do not agree. I had hoped that our sentiments coincided in every particular, but I must so far differ from you as to think our two youngest daughters uncommonly foolish."
 
-```"My dear Mr. Bennet, you must not expect such girls to have the sense of their father and mother. -- When they get to our age, I dare say they will not think about officers any more than we do. I remember the time when I liked a red coat myself very well -- and indeed, so I do still at my heart; and if a smart young colonel, with five or six thousand a year, should want one of my girls, I shall not say nay to him; and I thought Colonel Forster looked very becoming the other night at Sir William's in his regimentals."```
+"My dear Mr. Bennet, you must not expect such girls to have the sense of their father and mother. -- When they get to our age, I dare say they will not think about officers any more than we do. I remember the time when I liked a red coat myself very well -- and indeed, so I do still at my heart; and if a smart young colonel, with five or six thousand a year, should want one of my girls, I shall not say nay to him; and I thought Colonel Forster looked very becoming the other night at Sir William's in his regimentals."
 
-```"Mama,"``` cried Lydia, ```"my aunt says that Colonel Forster and Captain Carter do not go so often to Miss Watson's as they did when they first came; she sees them now very often standing in Clarke's library."```
+"Mama," cried Lydia, "my aunt says that Colonel Forster and Captain Carter do not go so often to Miss Watson's as they did when they first came; she sees them now very often standing in Clarke's library."
 
 Mrs. Bennet was prevented replying by the entrance of the footman with a note for Miss Bennet; it came from Netherfield, and the servant waited for an answer. Mrs. Bennet's eyes sparkled with pleasure, and she was eagerly calling out, while her daughter read,
 
-```"Well, Jane, who is it from? what is it about? what does he say? Well, Jane, make haste and tell us; make haste, my love."```
+"Well, Jane, who is it from? what is it about? what does he say? Well, Jane, make haste and tell us; make haste, my love."
 
-```"It is from Miss Bingley,"``` said Jane, and then read it aloud.
+"It is from Miss Bingley," said Jane, and then read it aloud.
 
-```"My dear Friend,
+"My dear Friend,
 
 IF you are not so compassionate as to dine to-day with Louisa and me, we shall be in danger of hating each other for the rest of our lives, for a whole day's tête-à-tête between two women can never end without a quarrel. Come as soon as you can on the receipt of this. My brother and the gentlemen are to dine with the officers. Yours ever,
 
-CAROLINE BINGLEY."```
+CAROLINE BINGLEY."
 
-```"With the officers!"``` cried Lydia. ```"I wonder my aunt did not tell us of that."```
+"With the officers!" cried Lydia. "I wonder my aunt did not tell us of that."
 
-```"Dining out,"``` said Mrs. Bennet, ```"that is very unlucky."```
+"Dining out," said Mrs. Bennet, "that is very unlucky."
 
-```"Can I have the carriage?"``` said Jane.
+"Can I have the carriage?" said Jane.
 
-```"No, my dear, you had better go on horseback, because it seems likely to rain; and then you must stay all night."```
+"No, my dear, you had better go on horseback, because it seems likely to rain; and then you must stay all night."
 
-```"That would be a good scheme,"``` said Elizabeth, ```"if you were sure that they would not offer to send her home."```
+"That would be a good scheme," said Elizabeth, "if you were sure that they would not offer to send her home."
 
-```"Oh! but the gentlemen will have Mr. Bingley's chaise to go to Meryton; and the Hursts have no horses to theirs."```
+"Oh! but the gentlemen will have Mr. Bingley's chaise to go to Meryton; and the Hursts have no horses to theirs."
 
-```"I had much rather go in the coach."```
+"I had much rather go in the coach."
 
-```"But, my dear, your father cannot spare the horses, I am sure. They are wanted in the farm, Mr. Bennet, are not they?"```
+"But, my dear, your father cannot spare the horses, I am sure. They are wanted in the farm, Mr. Bennet, are not they?"
 
-```"They are wanted in the farm much oftener than I can get them."```
+"They are wanted in the farm much oftener than I can get them."
 
-```"But if you have got them to-day,"``` said Elizabeth, ```"my mother's purpose will be answered."```
+"But if you have got them to-day," said Elizabeth, "my mother's purpose will be answered."
 
 She did at last extort from her father an acknowledgment that the horses were engaged. Jane was therefore obliged to go on horseback, and her mother attended her to the door with many cheerful prognostics of a bad day. Her hopes were answered; Jane had not been gone long before it rained hard. Her sisters were uneasy for her, but her mother was delighted. The rain continued the whole evening without intermission; Jane certainly could not come back.
 
-```"This was a lucky idea of mine, indeed!"``` said Mrs. Bennet, more than once, as if the credit of making it rain were all her own. Till the next morning, however, she was not aware of all the felicity of her contrivance. Breakfast was scarcely over when a servant from Netherfield brought the following note for Elizabeth:
+"This was a lucky idea of mine, indeed!" said Mrs. Bennet, more than once, as if the credit of making it rain were all her own. Till the next morning, however, she was not aware of all the felicity of her contrivance. Breakfast was scarcely over when a servant from Netherfield brought the following note for Elizabeth:
 
-```"My dearest Lizzy,
+"My dearest Lizzy,
 
 I FIND myself very unwell this morning, which, I suppose, is to be imputed to my getting wet through yesterday. My kind friends will not hear of my returning home till I am better. They insist also on my seeing Mr. Jones -- therefore do not be alarmed if you should hear of his having been to me -- and excepting a sore throat and head-ache, there is not much the matter with me.
 
-Yours, &c."```
+Yours, &c."
 
-```"Well, my dear,"``` said Mr. Bennet, when Elizabeth had read the note aloud, ```"if your daughter should have a dangerous fit of illness, if she should die, it would be a comfort to know that it was all in pursuit of Mr. Bingley, and under your orders."```
+"Well, my dear," said Mr. Bennet, when Elizabeth had read the note aloud, "if your daughter should have a dangerous fit of illness, if she should die, it would be a comfort to know that it was all in pursuit of Mr. Bingley, and under your orders."
 
-```"Oh! I am not at all afraid of her dying. People do not die of little trifling colds. She will be taken good care of. As long is she stays there, it is all very well. I would go and see her, if I could have the carriage."```
+"Oh! I am not at all afraid of her dying. People do not die of little trifling colds. She will be taken good care of. As long is she stays there, it is all very well. I would go and see her, if I could have the carriage."
 
 Elizabeth, feeling really anxious, was determined to go to her, though the carriage was not to be had; and as she was no horse-woman, walking was her only alternative. She declared her resolution.
 
-```"How can you be so silly,"``` cried her mother, ```"as to think of such a thing, in all this dirt! You will not be fit to be seen when you get there."```
+"How can you be so silly," cried her mother, "as to think of such a thing, in all this dirt! You will not be fit to be seen when you get there."
 
-```"I shall be very fit to see Jane -- which is all I want."```
+"I shall be very fit to see Jane -- which is all I want."
 
-```"Is this a hint to me, Lizzy,"``` said her father, ```"to send for the horses?"```
+"Is this a hint to me, Lizzy," said her father, "to send for the horses?"
 
-```"No, indeed. I do not wish to avoid the walk. The distance is nothing, when one has a motive; only three miles. I shall be back by dinner."```
+"No, indeed. I do not wish to avoid the walk. The distance is nothing, when one has a motive; only three miles. I shall be back by dinner."
 
-```"I admire the activity of your benevolence,"``` observed Mary, ```"but every impulse of feeling should be guided by reason; and, in my opinion, exertion should always be in proportion to what is required."```
+"I admire the activity of your benevolence," observed Mary, "but every impulse of feeling should be guided by reason; and, in my opinion, exertion should always be in proportion to what is required."
 
-```"We will go as far as Meryton with you,"``` said Catherine and Lydia. -- Elizabeth accepted their company, and the three young ladies set off together.
+"We will go as far as Meryton with you," said Catherine and Lydia. -- Elizabeth accepted their company, and the three young ladies set off together.
 
-```"If we make haste,"``` said Lydia, as they walked along, ```"perhaps we may see something of Captain Carter before he goes."```
+"If we make haste," said Lydia, as they walked along, "perhaps we may see something of Captain Carter before he goes."
 
 In Meryton they parted; the two youngest repaired to the lodgings of one of the officers' wives, and Elizabeth continued her walk alone, crossing field after field at a quick pace, jumping over stiles and springing over puddles with impatient activity, and finding herself at last within view of the house, with weary ancles, dirty stockings, and a face glowing with the warmth of exercise.
 

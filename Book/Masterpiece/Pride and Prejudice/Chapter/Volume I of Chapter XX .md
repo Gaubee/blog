@@ -4,65 +4,65 @@
 
 This information, however, startled Mrs. Bennet; -- she would have been glad to be equally satisfied that her daughter had meant to encourage him by protesting against his proposals, but she dared not to believe it, and could not help saying so.
 
-```"But depend upon it, Mr. Collins,"``` she added, ```"that Lizzy shall be brought to reason. I will speak to her about it myself directly. She is a very headstrong foolish girl, and does not know her own interest; but I will make her know it."```
+"But depend upon it, Mr. Collins," she added, "that Lizzy shall be brought to reason. I will speak to her about it myself directly. She is a very headstrong foolish girl, and does not know her own interest; but I will make her know it."
 
-```"Pardon me for interrupting you, Madam,"``` cried Mr. Collins; ```"but if she is really headstrong and foolish, I know not whether she would altogether be a very desirable wife to a man in my situation, who naturally looks for happiness in the marriage state. If therefore she actually persists in rejecting my suit, perhaps it were better not to force her into accepting me, because if liable to such defects of temper, she could not contribute much to my felicity."```
+"Pardon me for interrupting you, Madam," cried Mr. Collins; "but if she is really headstrong and foolish, I know not whether she would altogether be a very desirable wife to a man in my situation, who naturally looks for happiness in the marriage state. If therefore she actually persists in rejecting my suit, perhaps it were better not to force her into accepting me, because if liable to such defects of temper, she could not contribute much to my felicity."
 
-```"Sir, you quite misunderstand me,"``` said Mrs. Bennet, alarmed. ```"Lizzy is only headstrong in such matters as these. In every thing else she is as good natured a girl as ever lived. I will go directly to Mr. Bennet, and we shall very soon settle it with her, I am sure."```
+"Sir, you quite misunderstand me," said Mrs. Bennet, alarmed. "Lizzy is only headstrong in such matters as these. In every thing else she is as good natured a girl as ever lived. I will go directly to Mr. Bennet, and we shall very soon settle it with her, I am sure."
 
 She would not give him time to reply, but hurrying instantly to her husband, called out as she entered the library,
 
-```"Oh! Mr. Bennet, you are wanted immediately; we are all in an uproar. You must come and make Lizzy marry Mr. Collins, for she vows she will not have him, and if you do not make haste he will change his mind and not have her."```
+"Oh! Mr. Bennet, you are wanted immediately; we are all in an uproar. You must come and make Lizzy marry Mr. Collins, for she vows she will not have him, and if you do not make haste he will change his mind and not have her."
 
 Mr. Bennet raised his eyes from his book as she entered, and fixed them on her face with a calm unconcern which was not in the least altered by her communication.
 
-```"I have not the pleasure of understanding you,"``` said he, when she had finished her speech. ```"Of what are you talking?"```
+"I have not the pleasure of understanding you," said he, when she had finished her speech. "Of what are you talking?"
 
-```"Of Mr. Collins and Lizzy. Lizzy declares she will not have Mr. Collins, and Mr. Collins begins to say that he will not have Lizzy."```
+"Of Mr. Collins and Lizzy. Lizzy declares she will not have Mr. Collins, and Mr. Collins begins to say that he will not have Lizzy."
 
-```"And what am I to do on the occasion? -- It seems an hopeless business."```
+"And what am I to do on the occasion? -- It seems an hopeless business."
 
-```"Speak to Lizzy about it yourself. Tell her that you insist upon her marrying him."```
+"Speak to Lizzy about it yourself. Tell her that you insist upon her marrying him."
 
-```"Let her be called down. She shall hear my opinion."```
+"Let her be called down. She shall hear my opinion."
 
 Mrs. Bennet rang the bell, and Miss Elizabeth was summoned to the library.
 
-```"Come here, child,"``` cried her father as she appeared. ```"I have sent for you on an affair of importance. I understand that Mr. Collins has made you an offer of marriage. Is it true?"``` Elizabeth replied that it was. ```"Very well -- and this offer of marriage you have refused?"```
+"Come here, child," cried her father as she appeared. "I have sent for you on an affair of importance. I understand that Mr. Collins has made you an offer of marriage. Is it true?" Elizabeth replied that it was. "Very well -- and this offer of marriage you have refused?"
 
-```"I have, Sir."```
+"I have, Sir."
 
-```"Very well. We now come to the point. Your mother insists upon your accepting it. Is not it so, Mrs. Bennet?"```
+"Very well. We now come to the point. Your mother insists upon your accepting it. Is not it so, Mrs. Bennet?"
 
-```"Yes, or I will never see her again."```
+"Yes, or I will never see her again."
 
-```"An unhappy alternative is before you, Elizabeth. From this day you must be a stranger to one of your parents. -- Your mother will never see you again if you do not marry Mr. Collins, and I will never see you again if you do."```
+"An unhappy alternative is before you, Elizabeth. From this day you must be a stranger to one of your parents. -- Your mother will never see you again if you do not marry Mr. Collins, and I will never see you again if you do."
 
 Elizabeth could not but smile at such a conclusion of such a beginning; but Mrs. Bennet, who had persuaded herself that her husband regarded the affair as she wished, was excessively disappointed.
 
-```"What do you mean, Mr. Bennet, by talking in this way? You promised me to insist upon her marrying him."```
+"What do you mean, Mr. Bennet, by talking in this way? You promised me to insist upon her marrying him."
 
-```"My dear,"``` replied her husband, ```"I have two small favours to request. First, that you will allow me the free use of my understanding on the present occasion; and secondly, of my room. I shall be glad to have the library to myself as soon as may be."```
+"My dear," replied her husband, "I have two small favours to request. First, that you will allow me the free use of my understanding on the present occasion; and secondly, of my room. I shall be glad to have the library to myself as soon as may be."
 
 Not yet, however, in spite of her disappointment in her husband, did Mrs. Bennet give up the point. She talked to Elizabeth again and again; coaxed and threatened her by turns. She endeavoured to secure Jane in her interest but Jane with all possible mildness declined interfering; -- and Elizabeth, sometimes with real earnestness and sometimes with playful gaiety, replied to her attacks. Though her manner varied, however, her determination never did.
 
 Mr. Collins, meanwhile, was meditating in solitude on what had passed. He thought too well of himself to comprehend on what motive his cousin could refuse him; and though his pride was hurt, he suffered in no other way. His regard for her was quite imaginary; and the possibility of her deserving her mother's reproach prevented his feeling any regret.
 
-While the family were in this confusion, Charlotte Lucas came to spend the day with them. She was met in the vestibule by Lydia, who, flying to her, cried in a half whisper, ```"I am glad you are come, for there is such fun here! -- What do you think has happened this morning? -- Mr. Collins has made an offer to Lizzy, and she will not have him."```
+While the family were in this confusion, Charlotte Lucas came to spend the day with them. She was met in the vestibule by Lydia, who, flying to her, cried in a half whisper, "I am glad you are come, for there is such fun here! -- What do you think has happened this morning? -- Mr. Collins has made an offer to Lizzy, and she will not have him."
 
-Charlotte had hardly time to answer, before they were joined by Kitty, who came to tell the same news, and no sooner had they entered the breakfast-room, where Mrs. Bennet was alone, than she likewise began on the subject, calling on Miss Lucas for her compassion, and entreating her to persuade her friend Lizzy to comply with the wishes of all her family. ```"Pray do, my dear Miss Lucas,"``` she added in a melancholy tone, ```"for nobody is on my side, nobody takes part with me, I am cruelly used, nobody feels for my poor nerves."```
+Charlotte had hardly time to answer, before they were joined by Kitty, who came to tell the same news, and no sooner had they entered the breakfast-room, where Mrs. Bennet was alone, than she likewise began on the subject, calling on Miss Lucas for her compassion, and entreating her to persuade her friend Lizzy to comply with the wishes of all her family. "Pray do, my dear Miss Lucas," she added in a melancholy tone, "for nobody is on my side, nobody takes part with me, I am cruelly used, nobody feels for my poor nerves."
 
 Charlotte's reply was spared by the entrance of Jane and Elizabeth.
 
-```"Aye, there she comes,"``` continued Mrs. Bennet, ```"looking as unconcerned as may be, and caring no more for us than if we were at York, provided she can have her own way. -- But I tell you what, Miss Lizzy, if you take it into your head to go on refusing every offer of marriage in this way, you will never get a husband at all -- and I am sure I do not know who is to maintain you when your father is dead. -- I shall not be able to keep you -- and so I warn you. -- I have done with you from this very day. -- I told you in the library, you know, that I should never speak to you again, and you will find me as good as my word. I have no pleasure in talking to undutiful children, -- Not that I have much pleasure indeed in talking to any body. People who suffer as I do from nervous complaints can have no great inclination for talking. Nobody can tell what I suffer! -- But it is always so. Those who do not complain are never pitied."```
+"Aye, there she comes," continued Mrs. Bennet, "looking as unconcerned as may be, and caring no more for us than if we were at York, provided she can have her own way. -- But I tell you what, Miss Lizzy, if you take it into your head to go on refusing every offer of marriage in this way, you will never get a husband at all -- and I am sure I do not know who is to maintain you when your father is dead. -- I shall not be able to keep you -- and so I warn you. -- I have done with you from this very day. -- I told you in the library, you know, that I should never speak to you again, and you will find me as good as my word. I have no pleasure in talking to undutiful children, -- Not that I have much pleasure indeed in talking to any body. People who suffer as I do from nervous complaints can have no great inclination for talking. Nobody can tell what I suffer! -- But it is always so. Those who do not complain are never pitied."
 
 Her daughters listened in silence to this effusion, sensible that any attempt to reason with or sooth her would only increase the irritation. She talked on, therefore, without interruption from any of them till they were joined by Mr. Collins, who entered with an air more stately than usual, and on perceiving whom, she said to the girls,
 
-```"Now, I do insist upon it, that you, all of you, hold your tongues, and let Mr. Collins and me have a little conversation together."```
+"Now, I do insist upon it, that you, all of you, hold your tongues, and let Mr. Collins and me have a little conversation together."
 
-Elizabeth passed quietly out of the room, Jane and Kitty followed, but Lydia stood her ground, determined to hear all she could; and Charlotte, detained first by the civility of Mr. Collins, whose inquiries after herself and all her family were very minute, and then by a little curiosity, satisfied herself with walking to the window and pretending not to hear. In a doleful voice Mrs. Bennet thus began the projected conversation. -- ```"Oh! Mr. Collins!"``` --
+Elizabeth passed quietly out of the room, Jane and Kitty followed, but Lydia stood her ground, determined to hear all she could; and Charlotte, detained first by the civility of Mr. Collins, whose inquiries after herself and all her family were very minute, and then by a little curiosity, satisfied herself with walking to the window and pretending not to hear. In a doleful voice Mrs. Bennet thus began the projected conversation. -- "Oh! Mr. Collins!" --
 
-```"My dear Madam,"``` replied he, ```"let us be for ever silent on this point. Far be it from me,"``` he presently continued, in a voice that marked his displeasure, ```"to resent the behaviour of your daughter. Resignation to inevitable evils is the duty of us all; the peculiar duty of a young man who has been so fortunate as I have been in early preferment; and I trust I am resigned. Perhaps not the less so from feeling a doubt of my positive happiness had my fair cousin honoured me with her hand; for I have often observed that resignation is never so perfect as when the blessing denied begins to lose somewhat of its value in our estimation. You will not, I hope, consider me as shewing any disrespect to your family, my dear Madam, by thus withdrawing my pretensions to your daughter's favour, without having paid yourself and Mr. Bennet the compliment of requesting you to interpose your authority in my behalf. My conduct may, I fear, be objectionable in having accepted my dismission from your daughter's lips instead of your own. But we are all liable to error. I have certainly meant well through the whole affair. My object has been to secure an amiable companion for myself, with due consideration for the advantage of all your family, and if my manner has been at all reprehensible, I here beg leave to apologise."```
+"My dear Madam," replied he, "let us be for ever silent on this point. Far be it from me," he presently continued, in a voice that marked his displeasure, "to resent the behaviour of your daughter. Resignation to inevitable evils is the duty of us all; the peculiar duty of a young man who has been so fortunate as I have been in early preferment; and I trust I am resigned. Perhaps not the less so from feeling a doubt of my positive happiness had my fair cousin honoured me with her hand; for I have often observed that resignation is never so perfect as when the blessing denied begins to lose somewhat of its value in our estimation. You will not, I hope, consider me as shewing any disrespect to your family, my dear Madam, by thus withdrawing my pretensions to your daughter's favour, without having paid yourself and Mr. Bennet the compliment of requesting you to interpose your authority in my behalf. My conduct may, I fear, be objectionable in having accepted my dismission from your daughter's lips instead of your own. But we are all liable to error. I have certainly meant well through the whole affair. My object has been to secure an amiable companion for myself, with due consideration for the advantage of all your family, and if my manner has been at all reprehensible, I here beg leave to apologise."
 
 柯林斯先生独自一个人默默地幻想着美满的姻缘，可是并没有想上多久，因为班纳特太 太一直待在走廊里混时间，等着听他们俩商谈的结果，现在看见伊丽莎白开了门，匆匆忙忙 走上楼去，她便马上走进饭厅，热烈地祝贺柯林斯先生，祝贺她自己，说是他们今后大有亲 上加亲的希望了。柯林斯先生同样快乐地接受了她的祝贺，同时又祝贺了她一番，接着就把 他跟伊丽莎白刚才的那场谈话，一五一十地讲了出来，说他有充分的理由相信，谈话的结果 很令人满意，因为他的表妹虽然再三拒绝，可是那种拒绝，自然是她那羞怯淑静和娇柔细致 的天性的流露。
 

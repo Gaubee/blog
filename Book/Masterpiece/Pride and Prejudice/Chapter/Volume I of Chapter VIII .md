@@ -6,113 +6,113 @@ Their brother, indeed, was the only one of the party whom she could regard with 
 
 When dinner was over, she returned directly to Jane, and Miss Bingley began abusing her as soon as she was out of the room. Her manners were pronounced to be very bad indeed, a mixture of pride and impertinence; she had no conversation, no stile, no taste, no beauty. Mrs. Hurst thought the same, and added,
 
-```"She has nothing, in short, to recommend her, but being an excellent walker. I shall never forget her appearance this morning. She really looked almost wild."```
+"She has nothing, in short, to recommend her, but being an excellent walker. I shall never forget her appearance this morning. She really looked almost wild."
 
-```"She did indeed, Louisa. I could hardly keep my countenance. Very nonsensical to come at all! Why must she be scampering about the country, because her sister had a cold? Her hair so untidy, so blowsy!"```
+"She did indeed, Louisa. I could hardly keep my countenance. Very nonsensical to come at all! Why must she be scampering about the country, because her sister had a cold? Her hair so untidy, so blowsy!"
 
-```"Yes, and her petticoat; I hope you saw her petticoat, six inches deep in mud, I am absolutely certain; and the gown which had been let down to hide it not doing its office."```
+"Yes, and her petticoat; I hope you saw her petticoat, six inches deep in mud, I am absolutely certain; and the gown which had been let down to hide it not doing its office."
 
-```"Your picture may be very exact, Louisa,"``` said Bingley; ```"but this was all lost upon me. I thought Miss Elizabeth Bennet looked remarkably well, when she came into the room this morning. Her dirty petticoat quite escaped my notice."```
+"Your picture may be very exact, Louisa," said Bingley; "but this was all lost upon me. I thought Miss Elizabeth Bennet looked remarkably well, when she came into the room this morning. Her dirty petticoat quite escaped my notice."
 
-```"You observed it, Mr. Darcy, I am sure,"``` said Miss Bingley, ```"and I am inclined to think that you would not wish to see your sister make such an exhibition."```
+"You observed it, Mr. Darcy, I am sure," said Miss Bingley, "and I am inclined to think that you would not wish to see your sister make such an exhibition."
 
-```"Certainly not."```
+"Certainly not."
 
-```"To walk three miles, or four miles, or five miles, or whatever it is, above her ancles in dirt, and alone, quite alone! what could she mean by it? It seems to me to shew an abominable sort of conceited independence, a most country-town indifference to decorum."```
+"To walk three miles, or four miles, or five miles, or whatever it is, above her ancles in dirt, and alone, quite alone! what could she mean by it? It seems to me to shew an abominable sort of conceited independence, a most country-town indifference to decorum."
 
-```"It shews an affection for her sister that is very pleasing,"``` said Bingley.
+"It shews an affection for her sister that is very pleasing," said Bingley.
 
-```"I am afraid, Mr. Darcy,"``` observed Miss Bingley in a half whisper, ```"that this adventure has rather affected your admiration of her fine eyes."```
+"I am afraid, Mr. Darcy," observed Miss Bingley in a half whisper, "that this adventure has rather affected your admiration of her fine eyes."
 
-```"Not at all,"``` he replied; ```"they were brightened by the exercise."``` -- A short pause followed this speech, and Mrs. Hurst began again.
+"Not at all," he replied; "they were brightened by the exercise." -- A short pause followed this speech, and Mrs. Hurst began again.
 
-```"I have an excessive regard for Jane Bennet, she is really a very sweet girl, and I wish with all my heart she were well settled. But with such a father and mother, and such low connections, I am afraid there is no chance of it."```
+"I have an excessive regard for Jane Bennet, she is really a very sweet girl, and I wish with all my heart she were well settled. But with such a father and mother, and such low connections, I am afraid there is no chance of it."
 
-```"I think I have heard you say, that their uncle is an attorney in Meryton."```
+"I think I have heard you say, that their uncle is an attorney in Meryton."
 
-```"Yes; and they have another, who lives somewhere near Cheapside."```
+"Yes; and they have another, who lives somewhere near Cheapside."
 
-```"That is capital,"``` added her sister, and they both laughed heartily.
+"That is capital," added her sister, and they both laughed heartily.
 
-```"If they had uncles enough to fill all Cheapside,"``` cried Bingley, ```"it would not make them one jot less agreeable."```
+"If they had uncles enough to fill all Cheapside," cried Bingley, "it would not make them one jot less agreeable."
 
-```"But it must very materially lessen their chance of marrying men of any consideration in the world,"``` replied Darcy.
+"But it must very materially lessen their chance of marrying men of any consideration in the world," replied Darcy.
 
 To this speech Bingley made no answer; but his sisters gave it their hearty assent, and indulged their mirth for some time at the expense of their dear friend's vulgar relations.
 
 With a renewal of tenderness, however, they repaired to her room on leaving the dining-parlour, and sat with her till summoned to coffee. She was still very poorly, and Elizabeth would not quit her at all till late in the evening, when she had the comfort of seeing her asleep, and when it appeared to her rather right than pleasant that she should go down stairs herself. On entering the drawing-room she found the whole party at loo, and was immediately invited to join them; but suspecting them to be playing high she declined it, and making her sister the excuse, said she would amuse herself for the short time she could stay below with a book. Mr. Hurst looked at her with astonishment.
 
-```"Do you prefer reading to cards?"``` said he; ```"that is rather singular."```
+"Do you prefer reading to cards?" said he; "that is rather singular."
 
-```"Miss Eliza Bennet,"``` said Miss Bingley, ```"despises cards. She is a great reader and has no pleasure in anything else."```
+"Miss Eliza Bennet," said Miss Bingley, "despises cards. She is a great reader and has no pleasure in anything else."
 
-```"I deserve neither such praise nor such censure,"``` cried Elizabeth; ```"I am not a great reader, and I have pleasure in many things."```
+"I deserve neither such praise nor such censure," cried Elizabeth; "I am not a great reader, and I have pleasure in many things."
 
-```"In nursing your sister I am sure you have pleasure,"``` said Bingley; ```"and I hope it will soon be increased by seeing her quite well."```
+"In nursing your sister I am sure you have pleasure," said Bingley; "and I hope it will soon be increased by seeing her quite well."
 
 Elizabeth thanked him from her heart, and then walked towards a table where a few books were lying. He immediately offered to fetch her others; all that his library afforded.
 
-```"And I wish my collection were larger for your benefit and my own credit; but I am an idle fellow, and though I have not many, I have more than I ever look into."```
+"And I wish my collection were larger for your benefit and my own credit; but I am an idle fellow, and though I have not many, I have more than I ever look into."
 
 Elizabeth assured him that she could suit herself perfectly with those in the room.
 
-```"I am astonished,"``` said Miss Bingley, ```"that my father should have left so small a collection of books. -- What a delightful library you have at Pemberley, Mr. Darcy!"```
+"I am astonished," said Miss Bingley, "that my father should have left so small a collection of books. -- What a delightful library you have at Pemberley, Mr. Darcy!"
 
-```"It ought to be good,"``` he replied, ```"it has been the work of many generations."```
+"It ought to be good," he replied, "it has been the work of many generations."
 
-```"And then you have added so much to it yourself, you are always buying books."```
+"And then you have added so much to it yourself, you are always buying books."
 
-```"I cannot comprehend the neglect of a family library in such days as these."```
+"I cannot comprehend the neglect of a family library in such days as these."
 
-```"Neglect! I am sure you neglect nothing that can add to the beauties of that noble place. Charles, when you build your house, I wish it may be half as delightful as Pemberley."```
+"Neglect! I am sure you neglect nothing that can add to the beauties of that noble place. Charles, when you build your house, I wish it may be half as delightful as Pemberley."
 
-```"I wish it may."```
+"I wish it may."
 
-```"But I would really advise you to make your purchase in that neighbourhood, and take Pemberley for a kind of model. There is not a finer county in England than Derbyshire."```
+"But I would really advise you to make your purchase in that neighbourhood, and take Pemberley for a kind of model. There is not a finer county in England than Derbyshire."
 
-```"With all my heart; I will buy Pemberley itself if Darcy will sell it."```
+"With all my heart; I will buy Pemberley itself if Darcy will sell it."
 
-```"I am talking of possibilities, Charles."```
+"I am talking of possibilities, Charles."
 
-```"Upon my word, Caroline, I should think it more possible to get Pemberley by purchase than by imitation."```
+"Upon my word, Caroline, I should think it more possible to get Pemberley by purchase than by imitation."
 
 Elizabeth was so much caught by what passed, as to leave her very little attention for her book; and soon laying it wholly aside, she drew near the card-table, and stationed herself between Mr. Bingley and his eldest sister to observe the game.
 
-```"Is Miss Darcy much grown since the spring?"``` said Miss Bingley; ```"will she be as tall as I am?"```
+"Is Miss Darcy much grown since the spring?" said Miss Bingley; "will she be as tall as I am?"
 
-```"I think she will. She is now about Miss Elizabeth Bennet's height, or rather taller."```
+"I think she will. She is now about Miss Elizabeth Bennet's height, or rather taller."
 
-```"How I long to see her again! I never met with anybody who delighted me so much. Such a countenance, such manners, and so extremely accomplished for her age! Her performance on the piano-forte is exquisite."```
+"How I long to see her again! I never met with anybody who delighted me so much. Such a countenance, such manners, and so extremely accomplished for her age! Her performance on the piano-forte is exquisite."
 
-```"It is amazing to me,"``` said Bingley, ```"how young ladies can have patience to be so very accomplished as they all are."```
+"It is amazing to me," said Bingley, "how young ladies can have patience to be so very accomplished as they all are."
 
-```"All young ladies accomplished! My dear Charles, what do you mean?"```
+"All young ladies accomplished! My dear Charles, what do you mean?"
 
-```"Yes all of them, I think. They all paint tables, cover skreens, and net purses. I scarcely know any one who cannot do all this, and I am sure I never heard a young lady spoken of for the first time, without being informed that she was very accomplished."```
+"Yes all of them, I think. They all paint tables, cover skreens, and net purses. I scarcely know any one who cannot do all this, and I am sure I never heard a young lady spoken of for the first time, without being informed that she was very accomplished."
 
-```"Your list of the common extent of accomplishments,"``` said Darcy, ```"has too much truth. The word is applied to many a woman who deserves it no otherwise than by netting a purse, or covering a skreen. But I am very far from agreeing with you in your estimation of ladies in general. I cannot boast of knowing more than half a dozen, in the whole range of my acquaintance, that are really accomplished."```
+"Your list of the common extent of accomplishments," said Darcy, "has too much truth. The word is applied to many a woman who deserves it no otherwise than by netting a purse, or covering a skreen. But I am very far from agreeing with you in your estimation of ladies in general. I cannot boast of knowing more than half a dozen, in the whole range of my acquaintance, that are really accomplished."
 
-```"Nor I, I am sure,"``` said Miss Bingley.
+"Nor I, I am sure," said Miss Bingley.
 
-```"Then,"``` observed Elizabeth, ```"you must comprehend a great deal in your idea of an accomplished women."```
+"Then," observed Elizabeth, "you must comprehend a great deal in your idea of an accomplished women."
 
-```"Yes; I do comprehend a great deal in it."```
+"Yes; I do comprehend a great deal in it."
 
-```"Oh! certainly,"``` cried his faithful assistant, ```"no one can be really esteemed accomplished, who does not greatly surpass what is usually met with. A woman must have a thorough knowledge of music, singing, drawing, dancing, and the modern languages, to deserve the word; and besides all this, she must possess a certain something in her air and manner of walking, the tone of her voice, her address and expressions, or the word will be but half deserved."```
+"Oh! certainly," cried his faithful assistant, "no one can be really esteemed accomplished, who does not greatly surpass what is usually met with. A woman must have a thorough knowledge of music, singing, drawing, dancing, and the modern languages, to deserve the word; and besides all this, she must possess a certain something in her air and manner of walking, the tone of her voice, her address and expressions, or the word will be but half deserved."
 
-```"All this she must possess,"``` added Darcy, ```"and to all this she must yet add something more substantial, in the improvement of her mind by extensive reading."```
+"All this she must possess," added Darcy, "and to all this she must yet add something more substantial, in the improvement of her mind by extensive reading."
 
-```"I am no longer surprised at your knowing only six accomplished women. I rather wonder now at your knowing any."```
+"I am no longer surprised at your knowing only six accomplished women. I rather wonder now at your knowing any."
 
-```"Are you so severe upon your own sex, as to doubt the possibility of all this?"```
+"Are you so severe upon your own sex, as to doubt the possibility of all this?"
 
-```"I never saw such a woman, I never saw such capacity, and taste, and application, and elegance, as you describe, united."```
+"I never saw such a woman, I never saw such capacity, and taste, and application, and elegance, as you describe, united."
 
 Mrs. Hurst and Miss Bingley both cried out against the injustice of her implied doubt, and were both protesting that they knew many women who answered this description, when Mr. Hurst called them to order, with bitter complaints of their inattention to what was going forward. As all conversation was thereby at an end, Elizabeth soon afterwards left the room.
 
-```"Eliza Bennet,"``` said Miss Bingley, when the door was closed on her, ```"is one of those young ladies who seek to recommend themselves to the other sex by undervaluing their own, and with many men, I dare say, it succeeds. But, in my opinion, it is a paltry device, a very mean art."```
+"Eliza Bennet," said Miss Bingley, when the door was closed on her, "is one of those young ladies who seek to recommend themselves to the other sex by undervaluing their own, and with many men, I dare say, it succeeds. But, in my opinion, it is a paltry device, a very mean art."
 
-```"Undoubtedly,"``` replied Darcy, to whom this remark was chiefly addressed, ```"there is meanness in all the arts which ladies sometimes condescend to employ for captivation. Whatever bears affinity to cunning is despicable."```
+"Undoubtedly," replied Darcy, to whom this remark was chiefly addressed, "there is meanness in all the arts which ladies sometimes condescend to employ for captivation. Whatever bears affinity to cunning is despicable."
 
 Miss Bingley was not so entirely satisfied with this reply as to continue the subject.
 

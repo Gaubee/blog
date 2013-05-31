@@ -14,37 +14,37 @@ Elizabeth then contrived to sit by her aunt. Their first subject was her sister;
 
 Mrs. Gardiner then rallied her niece on Wickham's desertion, and complimented her on bearing it so well.
 
-```"But, my dear Elizabeth,"``` she added, ```"what sort of girl is Miss King? I should be sorry to think our friend mercenary."```
+"But, my dear Elizabeth," she added, "what sort of girl is Miss King? I should be sorry to think our friend mercenary."
 
-```"Pray, my dear aunt, what is the difference in matrimonial affairs, between the mercenary and the prudent motive? Where does discretion end, and avarice begin? Last Christmas you were afraid of his marrying me, because it would be imprudent; and now, because he is trying to get a girl with only ten thousand pounds, you want to find out that he is mercenary."```
+"Pray, my dear aunt, what is the difference in matrimonial affairs, between the mercenary and the prudent motive? Where does discretion end, and avarice begin? Last Christmas you were afraid of his marrying me, because it would be imprudent; and now, because he is trying to get a girl with only ten thousand pounds, you want to find out that he is mercenary."
 
-```"If you will only tell me what sort of girl Miss King is, I shall know what to think."```
+"If you will only tell me what sort of girl Miss King is, I shall know what to think."
 
-```"She is a very good kind of girl, I believe. I know no harm of her."```
+"She is a very good kind of girl, I believe. I know no harm of her."
 
-```"But he paid her not the smallest attention, till her grandfather's death made her mistress of this fortune."```
+"But he paid her not the smallest attention, till her grandfather's death made her mistress of this fortune."
 
-```"No -- why should he? If it was not allowable for him to gain my affections, because I had no money, what occasion could there be for making love to a girl whom he did not care about, and who was equally poor?"```
+"No -- why should he? If it was not allowable for him to gain my affections, because I had no money, what occasion could there be for making love to a girl whom he did not care about, and who was equally poor?"
 
-```"But there seems indelicacy in directing his attentions towards her, so soon after this event."```
+"But there seems indelicacy in directing his attentions towards her, so soon after this event."
 
-```"A man in distressed circumstances has not time for all those elegant decorums which other people may observe. If she does not object to it, why should we?"```
+"A man in distressed circumstances has not time for all those elegant decorums which other people may observe. If she does not object to it, why should we?"
 
-```"Her not objecting, does not justify him. It only shews her being deficient in something herself -- sense or feeling."```
+"Her not objecting, does not justify him. It only shews her being deficient in something herself -- sense or feeling."
 
-```"Well,"``` cried Elizabeth, ```"have it as you choose. He shall be mercenary, and she shall be foolish."```
+"Well," cried Elizabeth, "have it as you choose. He shall be mercenary, and she shall be foolish."
 
-```"No, Lizzy, that is what I do not choose. I should be sorry, you know, to think ill of a young man who has lived so long in Derbyshire."```
+"No, Lizzy, that is what I do not choose. I should be sorry, you know, to think ill of a young man who has lived so long in Derbyshire."
 
-```"Oh! if that is all, I have a very poor opinion of young men who live in Derbyshire; and their intimate friends who live in Hertfordshire are not much better. I am sick of them all. Thank Heaven! I am going to-morrow where I shall find a man who has not one agreeable quality, who has neither manner nor sense to recommend him. Stupid men are the only ones worth knowing, after all."```
+"Oh! if that is all, I have a very poor opinion of young men who live in Derbyshire; and their intimate friends who live in Hertfordshire are not much better. I am sick of them all. Thank Heaven! I am going to-morrow where I shall find a man who has not one agreeable quality, who has neither manner nor sense to recommend him. Stupid men are the only ones worth knowing, after all."
 
-```"Take care, Lizzy; that speech savours strongly of disappointment."```
+"Take care, Lizzy; that speech savours strongly of disappointment."
 
 Before they were separated by the conclusion of the play, she had the unexpected happiness of an invitation to accompany her uncle and aunt in a tour of pleasure which they proposed taking in the summer.
 
-```"We have not quite determined how far it shall carry us,"``` said Mrs. Gardiner, ```"but perhaps to the Lakes."```
+"We have not quite determined how far it shall carry us," said Mrs. Gardiner, "but perhaps to the Lakes."
 
-No scheme could have been more agreeable to Elizabeth, and her acceptance of the invitation was most ready and grateful. ```"My dear, dear aunt,"``` she rapturously cried, ```"what delight! what felicity! You give me fresh life and vigour. Adieu to disappointment and spleen. What are men to rocks and mountains? Oh! what hours of transport we shall spend! And when we do return, it shall not be like other travellers, without being able to give one accurate idea of any thing. We will know where we have gone -- we will recollect what we have seen. Lakes, mountains, and rivers shall not be jumbled together in our imaginations; nor, when we attempt to describe any particular scene, will we begin quarrelling about its relative situation. Let our first effusions be less insupportable than those of the generality of travellers."```
+No scheme could have been more agreeable to Elizabeth, and her acceptance of the invitation was most ready and grateful. "My dear, dear aunt," she rapturously cried, "what delight! what felicity! You give me fresh life and vigour. Adieu to disappointment and spleen. What are men to rocks and mountains? Oh! what hours of transport we shall spend! And when we do return, it shall not be like other travellers, without being able to give one accurate idea of any thing. We will know where we have gone -- we will recollect what we have seen. Lakes, mountains, and rivers shall not be jumbled together in our imaginations; nor, when we attempt to describe any particular scene, will we begin quarrelling about its relative situation. Let our first effusions be less insupportable than those of the generality of travellers."
 
 浪搏恩这家人家除了这些事以外，再没有别的大事；除了到麦里屯去散散步以外，再没 有别的消遣。时而雨水泞途、时而风寒刺骨的正月和二月，就这样过去了。三月里伊丽莎白 要上汉斯福去。开头她并不是真想去；可是她立刻想到夏绿蒂对于原来的约定寄予了很大的 期望，于是她也就带着比较乐意和比较肯定的心情来考虑这个问题了。离别促进了她想夏绿 蒂重逢的愿望，也消除了她对柯林斯先生的厌恶。这个计划多少总有它新奇的地方；再说， 家里有了这样的母亲和这样几位不能融洽的妹妹，自难完美无缺，换换环境也好。趁着旅行 的机会也可去看看吉英；总之，时日迫近了，她反而有些等不及了。她在一切都进行得很顺 利，最后依旧照了夏绿蒂原先的意思，跟威廉爵士和他的第二个女儿一块儿去作一次客。以 后这计划又补充了一下，决定在伦敦住一夜，这一来可真是个十全十美的计划了。
 

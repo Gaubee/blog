@@ -2,33 +2,33 @@
 
  A FEW days after this visit, Mr. Bingley called again, and alone. His friend had left him that morning for London, but was to return home in ten days time. He sat with them above an hour, and was in remarkably good spirits. Mrs. Bennet invited him to dine with them; but, with many expressions of concern, he confessed himself engaged elsewhere.
 
-```"Next time you call,"``` said she, ```"I hope we shall be more lucky."```
+"Next time you call," said she, "I hope we shall be more lucky."
 
 He should be particularly happy at any time, &c. &c.; and if she would give him leave, would take an early opportunity of waiting on them.
 
-```"Can you come to-morrow?"```
+"Can you come to-morrow?"
 
 Yes, he had no engagement at all for to-morrow; and her invitation was accepted with alacrity.
 
 He came, and in such very good time that the ladies were none of them dressed. In ran Mrs. Bennet to her daughter's room, in her dressing gown, and with her hair half finished, crying out,
 
-```"My dear Jane, make haste and hurry down. He is come -- Mr. Bingley is come. -- He is, indeed. Make haste, make haste. Here, Sarah, come to Miss Bennet this moment, and help her on with her gown. Never mind Miss Lizzy's hair."```
+"My dear Jane, make haste and hurry down. He is come -- Mr. Bingley is come. -- He is, indeed. Make haste, make haste. Here, Sarah, come to Miss Bennet this moment, and help her on with her gown. Never mind Miss Lizzy's hair."
 
-```"We will be down as soon as we can,"``` said Jane; ```"but I dare say Kitty is forwarder than either of us, for she went up stairs half an hour ago."```
+"We will be down as soon as we can," said Jane; "but I dare say Kitty is forwarder than either of us, for she went up stairs half an hour ago."
 
-```"Oh! hang Kitty! what has she to do with it? Come be quick, be quick! Where is your sash, my dear?"```
+"Oh! hang Kitty! what has she to do with it? Come be quick, be quick! Where is your sash, my dear?"
 
 But when her mother was gone, Jane would not be prevailed on to go down without one of her sisters.
 
-The same anxiety to get them by themselves was visible again in the evening. After tea, Mr. Bennet retired to the library, as was his custom, and Mary went up stairs to her instrument. Two obstacles of the five being thus removed, Mrs. Bennet sat looking and winking at Elizabeth and Catherine for a considerable time, without making any impression on them. Elizabeth would not observe her; and when at last Kitty did, she very innocently said, ```"What is the matter mamma? What do you keep winking at me for? What am I to do?"```
+The same anxiety to get them by themselves was visible again in the evening. After tea, Mr. Bennet retired to the library, as was his custom, and Mary went up stairs to her instrument. Two obstacles of the five being thus removed, Mrs. Bennet sat looking and winking at Elizabeth and Catherine for a considerable time, without making any impression on them. Elizabeth would not observe her; and when at last Kitty did, she very innocently said, "What is the matter mamma? What do you keep winking at me for? What am I to do?"
 
-```"Nothing child, nothing. I did not wink at you."``` She then sat still five minutes longer; but unable to waste such a precious occasion, she suddenly got up, and saying to Kitty, ```"Come here, my love, I want to speak to you,"``` took her out of the room. Jane instantly gave a look at Elizabeth which spoke her distress at such premeditation, and her intreaty that she would not give in to it. In a few minutes, Mrs. Bennet half-opened the door and called out,
+"Nothing child, nothing. I did not wink at you." She then sat still five minutes longer; but unable to waste such a precious occasion, she suddenly got up, and saying to Kitty, "Come here, my love, I want to speak to you," took her out of the room. Jane instantly gave a look at Elizabeth which spoke her distress at such premeditation, and her intreaty that she would not give in to it. In a few minutes, Mrs. Bennet half-opened the door and called out,
 
-```"Lizzy, my dear, I want to speak with you."```
+"Lizzy, my dear, I want to speak with you."
 
 Elizabeth was forced to go.
 
-```"We may as well leave them by themselves you know;"``` said her mother, as soon as she was in the hall. ```"Kitty and I are going up stairs to sit in my dressing room."```
+"We may as well leave them by themselves you know;" said her mother, as soon as she was in the hall. "Kitty and I are going up stairs to sit in my dressing room."
 
 Elizabeth made no attempt to reason with her mother, but remained quietly in the hall, till she and Kitty were out of sight, then returned into the drawing room.
 
@@ -44,23 +44,23 @@ But on returning to the drawing room, when her letter was finished, she saw, to 
 
 Jane could have no reserves from Elizabeth, where confidence would give pleasure; and instantly embracing her, acknowledged, with the liveliest emotion, that she was the happiest creature in the world.
 
-```"'Tis too much!"``` she added, ```"by far too much. I do not deserve it. Oh! why is not every body as happy?"```
+"'Tis too much!" she added, "by far too much. I do not deserve it. Oh! why is not every body as happy?"
 
 Elizabeth's congratulations were given with a sincerity, a warmth, a delight, which words could but poorly express. Every sentence of kindness was a fresh source of happiness to Jane. But she would not allow herself to stay with her sister, or say half that remained to be said for the present.
 
-```"I must go instantly to my mother;"``` she cried. ```"I would not on any account trifle with her affectionate solicitude; or allow her to hear it from any one but myself. He is gone to my father already. Oh! Lizzy, to know that what I have to relate will give such pleasure to all my dear family! how shall I bear so much happiness!"```
+"I must go instantly to my mother;" she cried. "I would not on any account trifle with her affectionate solicitude; or allow her to hear it from any one but myself. He is gone to my father already. Oh! Lizzy, to know that what I have to relate will give such pleasure to all my dear family! how shall I bear so much happiness!"
 
 She then hastened away to her mother, who had purposely broken up the card party, and was sitting up stairs with Kitty.
 
 Elizabeth, who was left by herself, now smiled at the rapidity and ease with which an affair was finally settled, that had given them so many previous months of suspense and vexation.
 
-```"And this,"``` said she, ```"is the end of all his friend's anxious circumspection! of all his sister's falsehood and contrivance! the happiest, wisest, most reasonable end!"```
+"And this," said she, "is the end of all his friend's anxious circumspection! of all his sister's falsehood and contrivance! the happiest, wisest, most reasonable end!"
 
 In a few minutes she was joined by Bingley, whose conference with her father had been short and to the purpose.
 
-```"Where is your sister?"``` said he hastily, as he opened the door.
+"Where is your sister?" said he hastily, as he opened the door.
 
-```"With my mother up stairs. She will be down in a moment, I dare say."```
+"With my mother up stairs. She will be down in a moment, I dare say."
 
 He then shut the door, and, coming up to her, claimed the good wishes and affection of a sister. Elizabeth honestly and heartily expressed her delight in the prospect of their relationship. They shook hands with great cordiality; and then, till her sister came down, she had to listen to all he had to say of his own happiness, and of Jane's perfections; and in spite of his being a lover, Elizabeth really believed all his expectations of felicity to be rationally founded, because they had for basis the excellent understanding, and super-excellent disposition of Jane, and a general similarity of feeling and taste between her and himself.
 
@@ -68,15 +68,15 @@ It was an evening of no common delight to them all; the satisfaction of Miss Ben
 
 Not a word, however, passed his lips in allusion to it, till their visitor took his leave for the night; but as soon as he was gone, he turned to his daughter, and said,
 
-```"Jane, I congratulate you. You will be a very happy woman."```
+"Jane, I congratulate you. You will be a very happy woman."
 
 Jane went to him instantly, kissed him, and thanked him for his goodness.
 
-```"You are a good girl;"``` he replied, ```"and I have great pleasure in thinking you will be so happily settled. I have not a doubt of your doing very well together. Your tempers are by no means unlike. You are each of you so complying, that nothing will ever be resolved on; so easy, that every servant will cheat you; and so generous, that you will always exceed your income."```
+"You are a good girl;" he replied, "and I have great pleasure in thinking you will be so happily settled. I have not a doubt of your doing very well together. Your tempers are by no means unlike. You are each of you so complying, that nothing will ever be resolved on; so easy, that every servant will cheat you; and so generous, that you will always exceed your income."
 
-```"I hope not so. Imprudence or thoughtlessness in money matters would be unpardonable in me."```
+"I hope not so. Imprudence or thoughtlessness in money matters would be unpardonable in me."
 
-```"Exceed their income! My dear Mr. Bennet,"``` cried his wife, ```"what are you talking of? Why, he has four or five thousand a year, and very likely more."``` Then addressing her daughter, ```"Oh! my dear, dear Jane, I am so happy! I am sure I shan't get a wink of sleep all night. I knew how it would be. I always said it must be so, at last. I was sure you could not be so beautiful for nothing! I remember, as soon as ever I saw him, when he first came into Hertfordshire last year, I thought how likely it was that you should come together. Oh! he is the handsomest young man that ever was seen!"```
+"Exceed their income! My dear Mr. Bennet," cried his wife, "what are you talking of? Why, he has four or five thousand a year, and very likely more." Then addressing her daughter, "Oh! my dear, dear Jane, I am so happy! I am sure I shan't get a wink of sleep all night. I knew how it would be. I always said it must be so, at last. I was sure you could not be so beautiful for nothing! I remember, as soon as ever I saw him, when he first came into Hertfordshire last year, I thought how likely it was that you should come together. Oh! he is the handsomest young man that ever was seen!"
 
 Wickham, Lydia, were all forgotten. Jane was beyond competition her favourite child. At that moment, she cared for no other. Her younger sisters soon began to make interest with her for objects of happiness which she might in future be able to dispense.
 
@@ -86,23 +86,23 @@ Bingley, from this time, was of course a daily visitor at Longbourn; coming freq
 
 Elizabeth had now but little time for conversation with her sister; for while he was present, Jane had no attention to bestow on any one else; but she found herself considerably useful to both of them in those hours of separation that must sometimes occur. In the absence of Jane, he always attached himself to Elizabeth, for the pleasure of talking of her; and when Bingley was gone, Jane constantly sought the same means of relief.
 
-```"He has made me so happy,"``` said she, one evening, ```"by telling me that he was totally ignorant of my being in town last spring! I had not believed it possible."```
+"He has made me so happy," said she, one evening, "by telling me that he was totally ignorant of my being in town last spring! I had not believed it possible."
 
-```"I suspected as much,"``` replied Elizabeth. ```"But how did he account for it?"```
+"I suspected as much," replied Elizabeth. "But how did he account for it?"
 
-```"It must have been his sister's doing. They were certainly no friends to his acquaintance with me, which I cannot wonder at, since he might have chosen so much more advantageously in many respects. But when they see, as I trust they will, that their brother is happy with me, they will learn to be contented, and we shall be on good terms again; though we can never be what we once were to each other."```
+"It must have been his sister's doing. They were certainly no friends to his acquaintance with me, which I cannot wonder at, since he might have chosen so much more advantageously in many respects. But when they see, as I trust they will, that their brother is happy with me, they will learn to be contented, and we shall be on good terms again; though we can never be what we once were to each other."
 
-```"That is the most unforgiving speech,"``` said Elizabeth, ```"that I ever heard you utter. Good girl! It would vex me, indeed, to see you again the dupe of Miss Bingley's pretended regard."```
+"That is the most unforgiving speech," said Elizabeth, "that I ever heard you utter. Good girl! It would vex me, indeed, to see you again the dupe of Miss Bingley's pretended regard."
 
-```"Would you believe it, Lizzy, that when he went to town last November, he really loved me, and nothing but a persuasion of my being indifferent would have prevented his coming down again!"```
+"Would you believe it, Lizzy, that when he went to town last November, he really loved me, and nothing but a persuasion of my being indifferent would have prevented his coming down again!"
 
-```"He made a little mistake to be sure; but it is to the credit of his modesty."```
+"He made a little mistake to be sure; but it is to the credit of his modesty."
 
 This naturally introduced a panegyric from Jane on his diffidence, and the little value he put on his own good qualities. Elizabeth was pleased to find that he had not betrayed the interference of his friend; for, though Jane had the most generous and forgiving heart in the world, she knew it was a circumstance which must prejudice her against him.
 
-```"I am certainly the most fortunate creature that ever existed!"``` cried Jane. ```"Oh! Lizzy, why am I thus singled from my family, and blessed above them all! If I could but see you as happy! If there were but such another man for you!"```
+"I am certainly the most fortunate creature that ever existed!" cried Jane. "Oh! Lizzy, why am I thus singled from my family, and blessed above them all! If I could but see you as happy! If there were but such another man for you!"
 
-```"If you were to give me forty such men, I never could be so happy as you. Till I have your disposition, your goodness, I never can have your happiness. No, no, let me shift for myself; and, perhaps, if I have very good luck, I may meet with another Mr. Collins in time."```
+"If you were to give me forty such men, I never could be so happy as you. Till I have your disposition, your goodness, I never can have your happiness. No, no, let me shift for myself; and, perhaps, if I have very good luck, I may meet with another Mr. Collins in time."
 
 The situation of affairs in the Longbourn family could not be long a secret. Mrs. Bennet was privileged to whisper it to Mrs. Philips, and she ventured, without any permission, to do the same by all her neighbours in Meryton.
 

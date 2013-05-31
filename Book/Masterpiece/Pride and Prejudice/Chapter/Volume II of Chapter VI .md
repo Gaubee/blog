@@ -2,15 +2,15 @@
 
  MR. Collins's triumph in consequence of this invitation was complete. The power of displaying the grandeur of his patroness to his wondering visitors, and of letting them see her civility towards himself and his wife, was exactly what he had wished for; and that an opportunity of doing it should be given so soon was such an instance of Lady Catherine's condescension as he knew not how to admire enough.
 
-```"I confess,"``` said he, ```"that I should not have been at all surprised by her Ladyship's asking us on Sunday to drink tea and spend the evening at Rosings. I rather expected, from my knowledge of her affability, that it would happen. But who could have foreseen such an attention as this? Who could have imagined that we should receive an invitation to dine there (an invitation moreover including the whole party) so immediately after your arrival!"```
+"I confess," said he, "that I should not have been at all surprised by her Ladyship's asking us on Sunday to drink tea and spend the evening at Rosings. I rather expected, from my knowledge of her affability, that it would happen. But who could have foreseen such an attention as this? Who could have imagined that we should receive an invitation to dine there (an invitation moreover including the whole party) so immediately after your arrival!"
 
-```"I am the less surprised at what has happened,"``` replied Sir William, ```"from that knowledge of what the manners of the great really are, which my situation in life has allowed me to acquire. About the Court, such instances of elegant breeding are not uncommon."```
+"I am the less surprised at what has happened," replied Sir William, "from that knowledge of what the manners of the great really are, which my situation in life has allowed me to acquire. About the Court, such instances of elegant breeding are not uncommon."
 
 Scarcely any thing was talked of the whole day, or next morning, but their visit to Rosings. Mr. Collins was carefully instructing them in what they were to expect, that the sight of such rooms, so many servants, and so splendid a dinner might not wholly overpower them.
 
 When the ladies were separating for the toilette, he said to Elizabeth,
 
-```"Do not make yourself uneasy, my dear cousin, about your apparel. Lady Catherine is far from requiring that elegance of dress in us, which becomes herself and daughter. I would advise you merely to put on whatever of your clothes is superior to the rest, there is no occasion for any thing more. Lady Catherine will not think the worse of you for being simply dressed. She likes to have the distinction of rank preserved."```
+"Do not make yourself uneasy, my dear cousin, about your apparel. Lady Catherine is far from requiring that elegance of dress in us, which becomes herself and daughter. I would advise you merely to put on whatever of your clothes is superior to the rest, there is no occasion for any thing more. Lady Catherine will not think the worse of you for being simply dressed. She likes to have the distinction of rank preserved."
 
 While they were dressing, he came two or three times to their different doors, to recommend their being quick, as Lady Catherine very much objected to be kept waiting for her dinner. -- Such formidable accounts of her ladyship, and her manner of living, quite frightened Maria Lucas, who had been little used to company, and she looked forward to her introduction at Rosings with as much apprehension, as her father had done to his presentation at St. James's.
 
@@ -30,55 +30,55 @@ The dinner was exceedingly handsome, and there were all the servants, and all th
 
 When the ladies returned to the drawing room, there was little to be done but to hear Lady Catherine talk, which she did without any intermission till coffee came in, delivering her opinion on every subject in so decisive a manner as proved that she was not used to have her judgment controverted. She enquired into Charlotte's domestic concerns familiarly and minutely, and gave her a great deal of advice as to the management of them all; told her how every thing ought to be regulated in so small a family as her's, and instructed her as to the care of her cows and her poultry. Elizabeth found that nothing was beneath this great lady's attention, which could furnish her with an occasion of dictating to others. In the intervals of her discourse with Mrs. Collins, she addressed a variety of questions to Maria and Elizabeth, but especially to the latter, of whose connections she knew the least, and who, she observed to Mrs. Collins, was a very genteel, pretty kind of girl. She asked her at different times, how many sisters she had, whether they were older or younger than herself, whether any of them were likely to be married, whether they were handsome, where they had been educated, what carriage her father kept, and what had been her mother's maiden name? -- Elizabeth felt all the impertinence of her questions, but answered them very composedly. -- Lady Catherine then observed,
 
-```"Your father's estate is entailed on Mr. Collins, I think. For your sake,"``` turning to Charlotte, ```"I am glad of it; but otherwise I see no occasion for entailing estates from the female line. -- It was not thought necessary in Sir Lewis de Bourgh's family. -- Do you play and sing, Miss Bennet?"```
+"Your father's estate is entailed on Mr. Collins, I think. For your sake," turning to Charlotte, "I am glad of it; but otherwise I see no occasion for entailing estates from the female line. -- It was not thought necessary in Sir Lewis de Bourgh's family. -- Do you play and sing, Miss Bennet?"
 
-```"A little."```
+"A little."
 
-```"Oh! then -- some time or other we shall be happy to hear you. Our instrument is a capital one, probably superior to -- You shall try it some day. -- Do your sisters play and sing?"```
+"Oh! then -- some time or other we shall be happy to hear you. Our instrument is a capital one, probably superior to -- You shall try it some day. -- Do your sisters play and sing?"
 
-```"One of them does."```
+"One of them does."
 
-```"Why did not you all learn? -- You ought all to have learned. The Miss Webbs all play, and their father has not so good an income as your's. -- Do you draw?"```
+"Why did not you all learn? -- You ought all to have learned. The Miss Webbs all play, and their father has not so good an income as your's. -- Do you draw?"
 
-```"No, not at all."```
+"No, not at all."
 
-```"What, none of you?"```
+"What, none of you?"
 
-```"Not one."```
+"Not one."
 
-```"That is very strange. But I suppose you had no opportunity. Your mother should have taken you to town every spring for the benefit of masters."```
+"That is very strange. But I suppose you had no opportunity. Your mother should have taken you to town every spring for the benefit of masters."
 
-```"My mother would have had no objection, but my father hates London."```
+"My mother would have had no objection, but my father hates London."
 
-```"Has your governess left you?"```
+"Has your governess left you?"
 
-```"We never had any governess."```
+"We never had any governess."
 
-```"No governess! How was that possible? Five daughters brought up at home without a governess! -- I never heard of such a thing. Your mother must have been quite a slave to your education."```
+"No governess! How was that possible? Five daughters brought up at home without a governess! -- I never heard of such a thing. Your mother must have been quite a slave to your education."
 
 Elizabeth could hardly help smiling, as she assured her that had not been the case.
 
-```"Then, who taught you? who attended to you? Without a governess you must have been neglected."```
+"Then, who taught you? who attended to you? Without a governess you must have been neglected."
 
-```"Compared with some families, I believe we were; but such of us as wished to learn, never wanted the means. We were always encouraged to read, and had all the masters that were necessary. Those who chose to be idle, certainly might."```
+"Compared with some families, I believe we were; but such of us as wished to learn, never wanted the means. We were always encouraged to read, and had all the masters that were necessary. Those who chose to be idle, certainly might."
 
-```"Aye, no doubt; but that is what a governess will prevent, and if I had known your mother, I should have advised her most strenuously to engage one. I always say that nothing is to be done in education without steady and regular instruction, and nobody but a governess can give it. It is wonderful how many families I have been the means of supplying in that way. I am always glad to get a young person well placed out. Four nieces of Mrs. Jenkinson are most delightfully situated through my means; and it was but the other day that I recommended another young person, who was merely accidentally mentioned to me, and the family are quite delighted with her. Mrs. Collins, did I tell you of Lady Metcalfe's calling yesterday to thank me? She finds Miss Pope a treasure. "```Lady Catherine,```" said she, "```you have given me a treasure.```" Are any of your younger sisters out, Miss Bennet?"```
+"Aye, no doubt; but that is what a governess will prevent, and if I had known your mother, I should have advised her most strenuously to engage one. I always say that nothing is to be done in education without steady and regular instruction, and nobody but a governess can give it. It is wonderful how many families I have been the means of supplying in that way. I am always glad to get a young person well placed out. Four nieces of Mrs. Jenkinson are most delightfully situated through my means; and it was but the other day that I recommended another young person, who was merely accidentally mentioned to me, and the family are quite delighted with her. Mrs. Collins, did I tell you of Lady Metcalfe's calling yesterday to thank me? She finds Miss Pope a treasure. "Lady Catherine," said she, "you have given me a treasure." Are any of your younger sisters out, Miss Bennet?"
 
-```"Yes, Ma'am, all."```
+"Yes, Ma'am, all."
 
-```"All! -- What, all five out at once? Very odd! -- And you only the second. -- The younger ones out before the elder are married! -- Your younger sisters must be very young?"```
+"All! -- What, all five out at once? Very odd! -- And you only the second. -- The younger ones out before the elder are married! -- Your younger sisters must be very young?"
 
-```"Yes, my youngest is not sixteen. Perhaps she is full young to be much in company. But really, Ma'am, I think it would be very hard upon younger sisters, that they should not have their share of society and amusement because the elder may not have the means or inclination to marry early. -- The last born has as good a right to the pleasures of youth, as the first. And to be kept back on such a motive! -- I think it would not be very likely to promote sisterly affection or delicacy of mind."```
+"Yes, my youngest is not sixteen. Perhaps she is full young to be much in company. But really, Ma'am, I think it would be very hard upon younger sisters, that they should not have their share of society and amusement because the elder may not have the means or inclination to marry early. -- The last born has as good a right to the pleasures of youth, as the first. And to be kept back on such a motive! -- I think it would not be very likely to promote sisterly affection or delicacy of mind."
 
-```"Upon my word,"``` said her ladyship, ```"you give your opinion very decidedly for so young a person. -- Pray, what is your age?"```
+"Upon my word," said her ladyship, "you give your opinion very decidedly for so young a person. -- Pray, what is your age?"
 
-```"With three younger sisters grown up,"``` replied Elizabeth smiling, ```"your Ladyship can hardly expect me to own it."```
+"With three younger sisters grown up," replied Elizabeth smiling, "your Ladyship can hardly expect me to own it."
 
 Lady Catherine seemed quite astonished at not receiving a direct answer; and Elizabeth suspected herself to be the first creature who had ever dared to trifle with so much dignified impertinence!
 
-```"You cannot be more than twenty, I am sure, -- therefore you need not conceal your age."```
+"You cannot be more than twenty, I am sure, -- therefore you need not conceal your age."
 
-```"I am not one and twenty."```
+"I am not one and twenty."
 
 When the gentlemen had joined them, and tea was over, the card tables were placed. Lady Catherine, Sir William, and Mr. and Mrs. Collins sat down to quadrille; and as Miss De Bourgh chose to play at cassino, the two girls had the honour of assisting Mrs. Jenkinson to make up her party. Their table was superlatively stupid. Scarcely a syllable was uttered that did not relate to the game, except when Mrs. Jenkinson expressed her fears of Miss De Bourgh's being too hot or too cold, or having too much or too little light. A great deal more passed at the other table, Lady Catherine was generally speaking -- stating the mistakes of the three others, or relating some anecdote of herself. Mr. Collins was employed in agreeing to every thing her Ladyship said, thanking her for every fish he won, and apologising if he thought he won too many. Sir William did not say much. He was storing his memory with anecdotes and noble names.
 

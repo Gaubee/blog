@@ -2,33 +2,33 @@
 
  THE two gentlemen left Rosings the next morning; and Mr. Collins having been in waiting near the lodges, to make them his parting obeisance, was able to bring home the pleasing intelligence of their appearing in very good health, and in as tolerable spirits as could be expected, after the melancholy scene so lately gone through at Rosings. To Rosings he then hastened to console Lady Catherine and her daughter; and on his return brought back, with great satisfaction, a message from her ladyship, importing that she felt herself so dull as to make her very desirous of having them all to dine with her.
 
-Elizabeth could not see Lady Catherine without recollecting that, had she chosen it, she might by this time have been presented to her as her future niece; nor could she think, without a smile, of what her ladyship's indignation would have been. ```"What would she have said? -- how would she have behaved?"``` were questions with which she amused herself.
+Elizabeth could not see Lady Catherine without recollecting that, had she chosen it, she might by this time have been presented to her as her future niece; nor could she think, without a smile, of what her ladyship's indignation would have been. "What would she have said? -- how would she have behaved?" were questions with which she amused herself.
 
-Their first subject was the diminution of the Rosings party. -- ```"I assure you, I feel it exceedingly,"``` said Lady Catherine; ```"I believe nobody feels the loss of friends so much as I do. But I am particularly attached to these young men; and know them to be so much attached to me! -- They were excessively sorry to go! But so they always are. The dear colonel rallied his spirits tolerably till just at last; but Darcy seemed to feel it most acutely, more I think than last year. His attachment to Rosings, certainly increases."```
+Their first subject was the diminution of the Rosings party. -- "I assure you, I feel it exceedingly," said Lady Catherine; "I believe nobody feels the loss of friends so much as I do. But I am particularly attached to these young men; and know them to be so much attached to me! -- They were excessively sorry to go! But so they always are. The dear colonel rallied his spirits tolerably till just at last; but Darcy seemed to feel it most acutely, more I think than last year. His attachment to Rosings, certainly increases."
 
 Mr. Collins had a compliment, and an allusion to throw in here, which were kindly smiled on by the mother and daughter.
 
 Lady Catherine observed, after dinner, that Miss Bennet seemed out of spirits; and immediately accounting for it herself, by supposing that she did not like to go home again so soon, she added,
 
-```"But if that is the case, you must write to your mother to beg that you may stay a little longer. Mrs. Collins will be very glad of your company, I am sure."```
+"But if that is the case, you must write to your mother to beg that you may stay a little longer. Mrs. Collins will be very glad of your company, I am sure."
 
-```"I am much obliged to your ladyship for your kind invitation,"``` replied Elizabeth, ```"but it is not in my power to accept it. -- I must be in town next Saturday."```
+"I am much obliged to your ladyship for your kind invitation," replied Elizabeth, "but it is not in my power to accept it. -- I must be in town next Saturday."
 
-```"Why, at that rate, you will have been here only six weeks. I expected you to stay two months. I told Mrs. Collins so before you came. There can be no occasion for your going so soon. Mrs. Bennet could certainly spare you for another fortnight."```
+"Why, at that rate, you will have been here only six weeks. I expected you to stay two months. I told Mrs. Collins so before you came. There can be no occasion for your going so soon. Mrs. Bennet could certainly spare you for another fortnight."
 
-```"But my father cannot. -- He wrote last week to hurry my return."```
+"But my father cannot. -- He wrote last week to hurry my return."
 
-```"Oh! your father of course may spare you, if your mother can. -- Daughters are never of so much consequence to a father. And if you will stay another month complete, it will be in my power to take one of you as far as London, for I am going there early in June, for a week; and as Dawson does not object to the Barouche box, there will be very good room for one of you -- and indeed, if the weather should happen to be cool, I should not object to taking you both, as you are neither of you large."```
+"Oh! your father of course may spare you, if your mother can. -- Daughters are never of so much consequence to a father. And if you will stay another month complete, it will be in my power to take one of you as far as London, for I am going there early in June, for a week; and as Dawson does not object to the Barouche box, there will be very good room for one of you -- and indeed, if the weather should happen to be cool, I should not object to taking you both, as you are neither of you large."
 
-```"You are all kindness, Madam; but I believe we must abide by our original plan."```
+"You are all kindness, Madam; but I believe we must abide by our original plan."
 
 Lady Catherine seemed resigned.
 
-```"Mrs. Collins, you must send a servant with them. You know I always speak my mind, and I cannot bear the idea of two young women travelling post by themselves. It is highly improper. You must contrive to send somebody. I have the greatest dislike in the world to that sort of thing. -- Young women should always be properly guarded and attended, according to their situation in life. When my niece Georgiana went to Ramsgate last summer, I made a point of her having two men servants go with her. -- Miss Darcy, the daughter of Mr. Darcy of Pemberley, and Lady Anne, could not have appeared with propriety in a different manner. -- I am excessively attentive to all those things. You must send John with the young ladies, Mrs. Collins. I am glad it occurred to me to mention it; for it would really be discreditable to you to let them go alone."```
+"Mrs. Collins, you must send a servant with them. You know I always speak my mind, and I cannot bear the idea of two young women travelling post by themselves. It is highly improper. You must contrive to send somebody. I have the greatest dislike in the world to that sort of thing. -- Young women should always be properly guarded and attended, according to their situation in life. When my niece Georgiana went to Ramsgate last summer, I made a point of her having two men servants go with her. -- Miss Darcy, the daughter of Mr. Darcy of Pemberley, and Lady Anne, could not have appeared with propriety in a different manner. -- I am excessively attentive to all those things. You must send John with the young ladies, Mrs. Collins. I am glad it occurred to me to mention it; for it would really be discreditable to you to let them go alone."
 
-```"My uncle is to send a servant for us."```
+"My uncle is to send a servant for us."
 
-```"Oh! -- Your uncle! -- He keeps a man-servant, does he? -- I am very glad you have somebody who thinks of those things. Where shall you change horses? -- Oh! Bromley, of course. -- If you mention my name at the Bell, you will be attended to."```
+"Oh! -- Your uncle! -- He keeps a man-servant, does he? -- I am very glad you have somebody who thinks of those things. Where shall you change horses? -- Oh! Bromley, of course. -- If you mention my name at the Bell, you will be attended to."
 
 Lady Catherine had many other questions to ask respecting their journey, and as she did not answer them all herself, attention was necessary, which Elizabeth believed to be lucky for her, or, with a mind so occupied, she might have forgotten where she was. Reflection must be reserved for solitary hours; whenever she was alone, she gave way to it as the greatest relief; and not a day went by without a solitary walk, in which she might indulge in all the delight of unpleasant recollections.
 

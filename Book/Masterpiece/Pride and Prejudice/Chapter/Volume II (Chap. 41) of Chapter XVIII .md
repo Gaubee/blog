@@ -2,21 +2,21 @@
 
  THE first week of their return was soon gone. The second began. It was the last of the regiment's stay in Meryton, and all the young ladies in the neighbourhood were drooping apace. The dejection was almost universal. The elder Miss Bennets alone were still able to eat, drink, and sleep, and pursue the usual course of their employments. Very frequently were they reproached for this insensibility by Kitty and Lydia, whose own misery was extreme, and who could not comprehend such hard-heartedness in any of the family.
 
-```"Good Heaven! What is to become of us! What are we to do!"``` would they often exclaim in the bitterness of woe. ```"How can you be smiling so, Lizzy?"```
+"Good Heaven! What is to become of us! What are we to do!" would they often exclaim in the bitterness of woe. "How can you be smiling so, Lizzy?"
 
 Their affectionate mother shared all their grief; she remembered what she had herself endured on a similar occasion, five and twenty years ago.
 
-```"I am sure,"``` said she, ```"I cried for two days together when Colonel Millar's regiment went away. I thought I should have broke my heart."```
+"I am sure," said she, "I cried for two days together when Colonel Millar's regiment went away. I thought I should have broke my heart."
 
-```"I am sure I shall break mine,"``` said Lydia.
+"I am sure I shall break mine," said Lydia.
 
-```"If one could but go to Brighton!"``` observed Mrs. Bennet.
+"If one could but go to Brighton!" observed Mrs. Bennet.
 
-```"Oh, yes! -- if one could but go to Brighton! But papa is so disagreeable."```
+"Oh, yes! -- if one could but go to Brighton! But papa is so disagreeable."
 
-```"A little sea-bathing would set me up for ever."```
+"A little sea-bathing would set me up for ever."
 
-```"And my aunt Philips is sure it would do me a great deal of good,"``` added Kitty.
+"And my aunt Philips is sure it would do me a great deal of good," added Kitty.
 
 Such were the kind of lamentations resounding perpetually through Longbourn-house. Elizabeth tried to be diverted by them; but all sense of pleasure was lost in shame. She felt anew the justice of Mr. Darcy's objections; and never had she before been so much disposed to pardon his interference in the views of his friend.
 
@@ -24,21 +24,21 @@ But the gloom of Lydia's prospect was shortly cleared away; for she received an 
 
 The rapture of Lydia on this occasion, her adoration of Mrs. Forster, the delight of Mrs. Bennet, and the mortification of Kitty, are scarcely to be described. Wholly inattentive to her sister's feelings, Lydia flew about the house in restless ecstacy, calling for everyone's congratulations, and laughing and talking with more violence than ever; whilst the luckless Kitty continued in the parlour repining at her fate in terms as unreasonable as her accent was peevish.
 
-```"I cannot see why Mrs. Forster should not ask me as well as Lydia,"``` said she, ```"though I am not her particular friend. I have just as much right to be asked as she has, and more too, for I am two years older."```
+"I cannot see why Mrs. Forster should not ask me as well as Lydia," said she, "though I am not her particular friend. I have just as much right to be asked as she has, and more too, for I am two years older."
 
 In vain did Elizabeth attempt to reasonable, and Jane to make her resigned. As for Elizabeth herself, this invitation was so far from exciting in her the same feelings as in her mother and Lydia, that she considered it as the death-warrant of all possibility of common sense for the latter; and detestable as such a step must make her were it known, she could not help secretly advising her father not to let her go. She represented to him all the improprieties of Lydia's general behaviour, the little advantage she could derive from the friendship of such a woman as Mrs. Forster, and the probability of her being yet more imprudent with such a companion at Brighton, where the temptations must be greater than at home. He heard her attentively, and then said,
 
-```"Lydia will never be easy till she has exposed herself in some public place or other, and we can never expect her to do it with so little expense or inconvenience to her family as under the present circumstances."```
+"Lydia will never be easy till she has exposed herself in some public place or other, and we can never expect her to do it with so little expense or inconvenience to her family as under the present circumstances."
 
-```"If you were aware,"``` said Elizabeth, ```"of the very great disadvantage to us all, which must arise from the public notice of Lydia's unguarded and imprudent manner; nay, which has already arisen from it, I am sure you would judge differently in the affair."```
+"If you were aware," said Elizabeth, "of the very great disadvantage to us all, which must arise from the public notice of Lydia's unguarded and imprudent manner; nay, which has already arisen from it, I am sure you would judge differently in the affair."
 
-```"Already arisen!"``` repeated Mr. Bennet. ```"What, has she frightened away some of your lovers? Poor little Lizzy! But do not be cast down. Such squeamish youths as cannot bear to be connected with a little absurdity are not worth a regret. Come, let me see the list of the pitiful fellows who have been kept aloof by Lydia's folly."```
+"Already arisen!" repeated Mr. Bennet. "What, has she frightened away some of your lovers? Poor little Lizzy! But do not be cast down. Such squeamish youths as cannot bear to be connected with a little absurdity are not worth a regret. Come, let me see the list of the pitiful fellows who have been kept aloof by Lydia's folly."
 
-```"Indeed you are mistaken. I have no such injuries to resent, It is not of peculiar, but of general evils, which I am now complaining. Our importance, our respectability in the world, must be affected by the wild volatility, the assurance and disdain of all restraint which mark Lydia's character. Excuse me -- for I must speak plainly. If you, my dear father, will not take the trouble of checking her exuberant spirits, and of teaching her that her present pursuits are not to be the business of her life, she will soon be beyond the reach of amendment. Her character will be fixed, and she will, at sixteen, be the most determined flirt that ever made herself and her family ridiculous. A flirt, too, in the worst and meanest degree of flirtation; without any attraction beyond youth and a tolerable person; and from the ignorance and emptiness of her mind, wholly unable to ward off any portion of that universal contempt which her rage for admiration will excite. In this danger Kitty is also comprehended. She will follow wherever Lydia leads. -- Vain, ignorant, idle, and absolutely uncontrolled! Oh! my dear father, can you suppose it possible that they will not be censured and despised wherever they are known, and that their sisters will not be often involved in the disgrace?"```
+"Indeed you are mistaken. I have no such injuries to resent, It is not of peculiar, but of general evils, which I am now complaining. Our importance, our respectability in the world, must be affected by the wild volatility, the assurance and disdain of all restraint which mark Lydia's character. Excuse me -- for I must speak plainly. If you, my dear father, will not take the trouble of checking her exuberant spirits, and of teaching her that her present pursuits are not to be the business of her life, she will soon be beyond the reach of amendment. Her character will be fixed, and she will, at sixteen, be the most determined flirt that ever made herself and her family ridiculous. A flirt, too, in the worst and meanest degree of flirtation; without any attraction beyond youth and a tolerable person; and from the ignorance and emptiness of her mind, wholly unable to ward off any portion of that universal contempt which her rage for admiration will excite. In this danger Kitty is also comprehended. She will follow wherever Lydia leads. -- Vain, ignorant, idle, and absolutely uncontrolled! Oh! my dear father, can you suppose it possible that they will not be censured and despised wherever they are known, and that their sisters will not be often involved in the disgrace?"
 
 Mr. Bennet saw that her whole heart was in the subject; and affectionately taking her hand, said in reply,
 
-```"Do not make yourself uneasy, my love. Wherever you and Jane are known, you must be respected and valued; and you will not appear to less advantage for having a couple of -- or I may say, three -- very silly sisters. We shall have no peace at Longbourn if Lydia does not go to Brighton. Let her go then. Colonel Forster is a sensible man, and will keep her out of any real mischief; and she is luckily too poor to be an object of prey to any body. At Brighton she will be of less importance, even as a common flirt, than she has been here. The officers will find women better worth their notice. Let us hope, therefore, that her being there may teach her her own insignificance. At any rate, she cannot grow many degrees worse without authorizing us to lock her up for the rest of her life."```
+"Do not make yourself uneasy, my love. Wherever you and Jane are known, you must be respected and valued; and you will not appear to less advantage for having a couple of -- or I may say, three -- very silly sisters. We shall have no peace at Longbourn if Lydia does not go to Brighton. Let her go then. Colonel Forster is a sensible man, and will keep her out of any real mischief; and she is luckily too poor to be an object of prey to any body. At Brighton she will be of less importance, even as a common flirt, than she has been here. The officers will find women better worth their notice. Let us hope, therefore, that her being there may teach her her own insignificance. At any rate, she cannot grow many degrees worse without authorizing us to lock her up for the rest of her life."
 
 With this answer Elizabeth was forced to be content; but her own opinion continued the same, and she left him disappointed and sorry. It was not in her nature, however, to increase her vexations by dwelling on them. She was confident of having performed her duty, and to fret over unavoidable evils, or augment them by anxiety, was no part of her disposition.
 
@@ -52,29 +52,29 @@ Elizabeth was now to see Mr. Wickham for the last time. Having been frequently i
 
 On the very last day of the regiment's remaining in Meryton, he dined with others of the officers at Longbourn; and so little was Elizabeth disposed to part from him in good humour, that on his making some enquiry as to the manner in which her time had passed at Hunsford, she mentioned Colonel Fitzwilliam's and Mr. Darcy's having both spent three weeks at Rosings, and asked him if he were acquainted with the former.
 
-He looked surprised, displeased, alarmed; but with a moment's recollection and a returning smile, replied that he had formerly seen him often; and after observing that he was a very gentlemanlike man, asked her how she had liked him. Her answer was warmly in his favour. With an air of indifference he soon afterwards added, ```"How long did you say that he was at Rosings?"```
+He looked surprised, displeased, alarmed; but with a moment's recollection and a returning smile, replied that he had formerly seen him often; and after observing that he was a very gentlemanlike man, asked her how she had liked him. Her answer was warmly in his favour. With an air of indifference he soon afterwards added, "How long did you say that he was at Rosings?"
 
-```"Nearly three weeks."```
+"Nearly three weeks."
 
-```"And you saw him frequently?"```
+"And you saw him frequently?"
 
-```"Yes, almost every day."```
+"Yes, almost every day."
 
-```"His manners are very different from his cousin's."```
+"His manners are very different from his cousin's."
 
-```"Yes, very different. But I think Mr. Darcy improves on acquaintance."```
+"Yes, very different. But I think Mr. Darcy improves on acquaintance."
 
-```"Indeed!"``` cried Wickham with a look which did not escape her. ```"And pray may I ask -- ?"``` but checking himself, he added in a gayer tone, ```"Is it in address that he improves? Has he deigned to add ought of civility to his ordinary style? for I dare not hope,"``` he continued in a lower and more serious tone, ```"that he is improved in essentials."```
+"Indeed!" cried Wickham with a look which did not escape her. "And pray may I ask -- ?" but checking himself, he added in a gayer tone, "Is it in address that he improves? Has he deigned to add ought of civility to his ordinary style? for I dare not hope," he continued in a lower and more serious tone, "that he is improved in essentials."
 
-```"Oh, no!"``` said Elizabeth. ```"In essentials, I believe, he is very much what he ever was."```
+"Oh, no!" said Elizabeth. "In essentials, I believe, he is very much what he ever was."
 
 While she spoke, Wickham looked as if scarcely knowing whether to rejoice over her words, or to distrust their meaning. There was a something in her countenance which made him listen with an apprehensive and anxious attention, while she added,
 
-```"When I said that he improved on acquaintance, I did not mean that either his mind or manners were in a state of improvement, but that from knowing him better, his disposition was better understood."```
+"When I said that he improved on acquaintance, I did not mean that either his mind or manners were in a state of improvement, but that from knowing him better, his disposition was better understood."
 
 Wickham's alarm now appeared in a heightened complexion and agitated look; for a few minutes he was silent; till, shaking off his embarrassment, he turned to her again, and said in the gentlest of accents,
 
-```"You, who so well know my feelings towards Mr. Darcy, will readily comprehend how sincerely I must rejoice that he is wise enough to assume even the appearance of what is right. His pride, in that direction, may be of service, if not to himself, to many others, for it must deter him from such foul misconduct as I have suffered by. I only fear that the sort of cautiousness, to which you, I imagine, have been alluding, is merely adopted on his visits to his aunt, of whose good opinion and judgment he stands much in awe. His fear of her has always operated, I know, when they were together; and a good deal is to be imputed to his wish of forwarding the match with Miss De Bourgh, which I am certain he has very much at heart."```
+"You, who so well know my feelings towards Mr. Darcy, will readily comprehend how sincerely I must rejoice that he is wise enough to assume even the appearance of what is right. His pride, in that direction, may be of service, if not to himself, to many others, for it must deter him from such foul misconduct as I have suffered by. I only fear that the sort of cautiousness, to which you, I imagine, have been alluding, is merely adopted on his visits to his aunt, of whose good opinion and judgment he stands much in awe. His fear of her has always operated, I know, when they were together; and a good deal is to be imputed to his wish of forwarding the match with Miss De Bourgh, which I am certain he has very much at heart."
 
 Elizabeth could not repress a smile at this, but she answered only by a slight inclination of the head. She saw that he wanted to engage her on the old subject of his grievances, and she was in no humour to indulge him. The rest of the evening passed with the appearance, on his side, of usual cheerfulness, but with no farther attempt to distinguish Elizabeth; and they parted at last with mutual civility, and possibly a mutual desire of never meeting again.
 
