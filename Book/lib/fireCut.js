@@ -1,7 +1,7 @@
 var fs = require("fs");
 var basePath = "../Masterpiece";
-var bookPath = "/Pride and Prejudice/";
-var fileName = "Pride and Prejudice.md";
+var bookPath = "/Alice's Adventures in Wonderland/";
+var fileName = "Alice's Adventures in Wonderland.md";
 
 function writeFile(fs,filePath,fileName,data,callback){
 	fs.open(filePath+fileName,"w",0644,function(err,fd){//open or create
@@ -28,7 +28,7 @@ fs.readFile(basePath+bookPath+fileName,
 		if(err){
 			throw err;
 		}
-		var chapters = fileData.toString().split("### Chapter");
+		var chapters = fileData.toString().split("### CHAPTER");
 		var perChapter;
 		var newfileName;
 		var Length = chapters.length;
@@ -36,7 +36,7 @@ fs.readFile(basePath+bookPath+fileName,
 		for(var i =1;i<Length;i+=1){
 			perChapter = chapters[i];
 			newfileName = perChapter.split("\n")[0].split("of ");
-			newfileName = newfileName[1]+" of "+"Chapter"+newfileName[0];
+			newfileName = "Chapter"+newfileName[0];
 			console.log(newfileName);
 			writeFile(fs,basePath+bookPath+"Chapter/",newfileName+".md","### Chapter"+perChapter);
 		}
