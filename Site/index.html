@@ -7,9 +7,20 @@
 	<link rel="stylesheet" type="text/css" href="css/pure/base-min.css">
 	<link rel="stylesheet" type="text/css" href="css/pure/menus-min.css">
 	<link rel="stylesheet" type="text/css" href="css/pure/grids-min.css">
-	<!-- blog -->
-	<link rel="stylesheet" type="text/css" href="css/blog.css">
 	<link rel="stylesheet" type="text/css" href="css/color.css">
+	<!-- base -->
+	<link rel="stylesheet" type="text/css" href="css/index.css">
+	<!-- jQuery.js -->
+	<script type="text/javascript" src="js/lib/jQuery/jquery-1.9.1.min.js"></script>
+	<!-- showdown.js -->
+	<script type="text/javascript" src="js/lib/markdownparse/showdown.js"></script>
+	<!-- highlight.js -->
+	<script type="text/javascript" src="js/lib/highlight.js/highlight.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="js/lib/highlight.js/styles/github.min.css">
+	<!-- avalon.js -->
+	<script type="text/javascript" src="js/lib/avalon.js/mass.js"></script>
+	<script type="text/javascript" src="js/lib/avalon.js/avalon.js"></script>
+	<script type="text/javascript" src="js/lib/avalon.js/avalon.router.js"></script>
 </head>
 
 <body>
@@ -25,103 +36,28 @@
 	</div>
 	<div id="separated" class="bg-color-darken">
 	</div>
-	<div class="pure-g-r">
-		
-		<div id="timeline" class="pure-u-1-12 bg-color-blueDark fg-color-white">
+
+	<div ms-controller="blogPost" class="pure-g-r">
+
+		<div ms-each-time="timeline" id="timeline" class="pure-u-1-12 bg-color-blueDark fg-color-white">
 			<div class="point-in-time">
-				<p>2013.6</p>
-			</div>
-			<div class="point-in-time">
-				<p>2013.5</p>
-			</div>
-			<div class="point-in-time">
-				<p>2013.4</p>
-			</div>
-			<div class="point-in-time">
-				<p>2013.3</p>
+				<p>{{time}}</p>
 			</div>
 		</div>
 
-		<div id="blog-post-list" class="pure-u-7-12 bg-color-lighten fg-color-darken">
+		<div ms-each-blog="blogPostList" id="blog-post-list" class="pure-u-7-12 bg-color-lighten fg-color-darken">
 			<div class="blog-post-item">
 				<div class="head">
-					<p class="title">
-						经典英文歌曲赏析 
+					<p ms-data-index="$index" ms-data-id="blog.id" ms-click="showBlogPost" class="title">
+						<a ms-href="#blog/{{blog.id}}">{{blog.title}}</a>
 					</p>
-					<ul class="tag">
-						<li>trivial</li>
+					<ul ms-each-labels="blog.labels" class="tag">
+						<li>{{labels.name}}</li>
 					</ul>
 				</div>
 				<div class="body">
-					<span class="summary"></span>
-				</div>
-				<div class="foot">
-					<span class="time"></span>
-				</div>
-			</div>
-			<div class="blog-post-item">
-				<div class="head">
-					<p class="title">
-						猎人，王与猎人的妻子
-					</p>
-					<ul class="tag">
-						<li>trivial</li>
-					</ul>
-				</div>
-				<div class="body">
-					<span class="summary"></span>
-				</div>
-				<div class="foot">
-					<span class="time"></span>
-				</div>
-			</div>
-
-			<div class="blog-post-item">
-				<div class="head">
-					<p class="title">
-						关于JDRela的进度  
-					</p>
-					<ul class="tag">
-						<li>javascript</li>
-						<li>cogitation</li>
-					</ul>
-				</div>
-				<div class="body">
-					<span class="summary"></span>
-				</div>
-				<div class="foot">
-					<span class="time"></span>
-				</div>
-			</div>
-			<div class="blog-post-item">
-				<div class="head">
-					<p class="title">
-						竞聘听讲总结   
-					</p>
-					<ul class="tag">
-						<li>cogitation</li>
-						<li>trivial</li>
-						<li>efficiency</li>
-					</ul>
-				</div>
-				<div class="body">
-					<span class="summary"></span>
-				</div>
-				<div class="foot">
-					<span class="time"></span>
-				</div>
-			</div>
-			<div class="blog-post-item">
-				<div class="head">
-					<p class="title">
-						CET4的单词数据抓取 
-					</p>
-					<ul class="tag">
-						<li>javascript</li>
-					</ul>
-				</div>
-				<div class="body">
-					<span class="summary"></span>
+					<div ms-visible="blog.blogContent.show"  ms-html="blog.blogContent.html">
+					</div>
 				</div>
 				<div class="foot">
 					<span class="time"></span>
@@ -137,3 +73,5 @@
 </body>
 
 </html>
+<script type="text/javascript" src="js/index.js"></script>
+<!-- <script type="text/javascript" src="http://127.0.0.1:2013/blog?callback=pasreMarkdown&id=13836631&mode=essay"></script> -->
