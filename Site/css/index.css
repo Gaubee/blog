@@ -1,8 +1,14 @@
+body{
+	background-image: url("../img/earthterminator.jpg");
+	background-position: 100% 20%;
+	background-attachment: fixed;
+
+}
 #separated{
 	height:230px;
 	overflow:hidden;
 	background-image: url("../img/earthterminator.jpg");
-	background-position: 100% 220%;
+	background-position: 100% 20%;
 	background-attachment: fixed;
 }
 #timeline{
@@ -20,4 +26,16 @@
 }
 .blog-post-item{
 	padding: 0.5em 0.75em;
+}
+
+:root .rgba{
+    filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr='#00000000', EndColorStr='#00000000');
+}
+#blog-post-comment {
+	background:rgba(82,82,82, 0.3);
+	filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr='#52525200', EndColorStr='#52525200');
+}
+.base-message{
+	padding: 0.5em 0.75em;
+	opacity: 1;
 }

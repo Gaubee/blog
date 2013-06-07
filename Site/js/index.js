@@ -11,7 +11,7 @@ avalon.ready(function(){
             '*error': 'showError' // 当URL Hash不匹配以上规则时, 执行error方法 
         },
         index: function() {
-            // alert('index');
+            
         },
         blog: function(id) {
             console.log(id);
@@ -36,8 +36,15 @@ require("ajax,ready",function($1){// get blog post list
 
 function parseBlogPostMarkdown(data){
     console.log(data);
-    parseBlogPostMarkdown.set(converter.makeHtml(data.content));
+    var ds = '<div class="ds-thread" data-url="http://gaubee.github.io/blog/Site/index.html#blog/'+data.id+'"></div>';
+
+    parseBlogPostMarkdown.set(converter.makeHtml(data.content)+ds);
     $('pre code').each(function(i, e) {hljs.highlightBlock(e)});
+
+    delete DUOSHUO;
+    $(".ds-script").remove();
+    window.duoshuoQuery = {short_name:"gaubee"};
+    $('<script class="ds-script" type="text/javascript" async="true" src="http://static.duoshuo.com/embed.js" charset="UTF-8"></script>').appendTo(HTML);
 }
 
 function parseBlogPostList (data) {
