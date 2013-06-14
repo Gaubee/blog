@@ -409,16 +409,16 @@ var formatData = (function() {
 	return root;
 }())
 var baseURL = "http://gaslight-cdn.s3.amazonaws.com/"
-var treeviewHTML = "<ul>" + (function(F) {
+var treeviewHTML = "<ul>\n" + (function(F) {
 	var cache,
 		i,
 		HTMLSTR = "";
 
 	for (i = 0; cache = F[i]; i += 1) {
 		if (cache.type) {
-			HTMLSTR += "<li><span>" + cache.name + "</span>" + "<ul>" + arguments.callee(cache.content); + "</ul>" + "</li>";
+			HTMLSTR += "<li><span>" + cache.name + "</span>\n\t" + "<ul>" + arguments.callee(cache.content) + "</ul>\n" + "</li>\n\n";
 		} else {
-			HTMLSTR += "<li><a href='" + baseURL + cache.href + "'>" + cache.name + "</a></li>";
+			HTMLSTR += "<li><a href='" + baseURL + cache.href + "'>" + cache.name + "</a></li>\n";
 		}
 	}
 
