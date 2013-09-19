@@ -1,7 +1,7 @@
 var fs = require("fs");
-var basePath = "../Masterpiece";
-var bookPath = "/La Dame aux camélias/";
-var fileName = "La Dame aux camélias.md";
+var basePath = "../Fiction";
+var bookPath = "/三体/";
+var fileName = "三体.txt";
 
 function writeFile(fs,filePath,fileName,data,callback){
 	fs.open(filePath+fileName,"w",0644,function(err,fd){//open or create
@@ -28,7 +28,7 @@ fs.readFile(basePath+bookPath+fileName,
 		if(err){
 			throw err;
 		}
-		var chapters = fileData.toString().split("### Chapter");
+		var chapters = fileData.toString().split(/\n[\s　]+[0-9]{1,2}[\．\.]/);
 		var perChapter;
 		var newfileName;
 		var Length = chapters.length;
@@ -36,8 +36,8 @@ fs.readFile(basePath+bookPath+fileName,
 		for(var i =1;i<Length;i+=1){
 			perChapter = chapters[i];
 			newfileName = perChapter.split("\n")[0];
-			newfileName = "Chapter"+newfileName;
+			newfileName = ("Chapter" +i+" "+newfileName).trim();
 			console.log(newfileName);
-			writeFile(fs,basePath+bookPath+"Chapter/",newfileName+".md","### Chapter"+perChapter);
+			writeFile(fs,basePath+bookPath+"Chapter/",newfileName+".md","### Chapter" +i+" "+perChapter);
 		}
 	});
