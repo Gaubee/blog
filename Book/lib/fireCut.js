@@ -2,6 +2,7 @@ var fs = require("fs");
 var basePath = "../Fiction";
 var bookPath = "/三体/";
 var fileName = "三体.txt";
+var roman = require("./roman").roman;
 
 function writeFile(fs,filePath,fileName,data,callback){
 	fs.open(filePath+fileName,"w",0644,function(err,fd){//open or create
@@ -32,12 +33,13 @@ fs.readFile(basePath+bookPath+fileName,
 		var perChapter;
 		var newfileName;
 		var Length = chapters.length;
+		var chapterNum = "I";
 		// console.log(chapters[1]);
 		for(var i =1;i<Length;i+=1){
 			perChapter = chapters[i];
 			newfileName = perChapter.split("\n")[0];
-			newfileName = ("Chapter" +i+" "+newfileName).trim();
+			newfileName = ("Chapter " +roman(i)+" "+newfileName).trim();
 			console.log(newfileName);
-			writeFile(fs,basePath+bookPath+"Chapter/",newfileName+".md","### Chapter" +i+" "+perChapter);
+			writeFile(fs,basePath+bookPath+"Chapter/",newfileName+".md","### Chapter " +i+" "+perChapter);
 		}
 	});
