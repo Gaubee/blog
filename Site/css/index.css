@@ -3,7 +3,12 @@
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-
+::selection {
+    background: rgba(2, 166, 235, 0.3); /* Safari */
+    }
+::-moz-selection {
+    background: rgba(2, 166, 235, 0.3); /* Firefox */
+}
 body {
     margin: 0 auto;
     line-height: 1.7em;
@@ -60,6 +65,8 @@ body .primary-button {
         font-family: 'Glyphicons Halflings';
         text-align: center;
         background-color: #02a6eb;
+        cursor:pointer;
+        display: none;
     }
 
 
