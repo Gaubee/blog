@@ -1,116 +1,117 @@
-var baseDataUrl = "http://127.0.0.1:2013/";
-var HTML = $("html");
-var BODY = $("body");
-var converter = new Showdown.converter();
-avalon.ready(function(){
-    avalon.Router.extend({
-        routes: {
-            '': 'index', // 当URL Hash在根目录时执行index方法：url# 
-            'blog/:id': 'blog', // 当URL Hash在detail节点时执行query方法，并将detail后的数据作为参数传递给query方法：url#list/1001 
-            'twitter/:year/:month/:day': 'twitter',
-            '*error': 'showError' // 当URL Hash不匹配以上规则时, 执行error方法 
-        },
-        index: function() {
-            
-        },
-        blog: function(id) {
-            console.log(id);
-            $("[href='#blog/"+id+"']").parent().click();
-        },
-        twitter: function(year, month, day) {
-            alert([year, month, day].join("-"));
-        },
-        showError: function(url) {
-            // alert( url +"这个URL没有对应的处理函数");
-        }
-    });
-    avalon.history.start(true);
-    avalon.scan();
-    avalon.Router.onDocumentReady();
+$(function() {
+	$window = $(window);
+	/*
+	splash
+	*/
+	var $splash = $(".splash"),
+		$arrow_container = $splash.find(".arrow"),
+		$arrow_left = $splash.find(".glyphicon-chevron-left"),
+		$arrow_right = $splash.find(".glyphicon-chevron-right"),
+		_proportion = function(int_width, bool) {
+			var result;
+			if (int_width > 800) {
+				result = 0.08
+			} else if (int_width > 400) {
+				result = 0.1
+			} else {
+				result = 0;
+			}
+			return bool ? result * int_width : result * 2;
+		},
+		initOpacity = 0.3,
+		hoverOpactiy = 0.8,
+		animateTime = 200,
+		init = true,
+		splashIndex = 1,
 
-})
+		$navItems = $("[splash-index]"),
+		navItemsHashMap = {},
+		$navItem_Contents = $("[splash-content]");
 
-require("ajax,ready",function($1){// get blog post list
-    $1.getScript(baseDataUrl+"blog?callback=parseBlogPostList");
-})
+	function initLayoutSplash() {
+		var height = $splash.height(),
+			width = $splash.width(),
+			arrow_width = $arrow_left.width(),
+			proportion = _proportion(width) * 10 + "em",
+			media_small = arrow_width === width || arrow_width > width * 0.9;
+		arrow_height = media_small ? proportion : height + "px",
+		arrow_css_config = {
+			opacity: initOpacity,
+			height: arrow_height,
+			lineHeight: arrow_height,
+		},
+		arrow_animate_config = {
+			display: "block",
+			fontSize: proportion
+		};
+		// console.log(arrow_width, width)
+		if (init) {
+			$arrow_left.animate(arrow_css_config, animateTime);
+			$arrow_right.animate(arrow_css_config, animateTime);
+			$navItems.each(function(i, navItem) {
+				var self = $(navItem),
+					index = self.attr("splash-index");
+				if (index == splashIndex) {
+					self.addClass("pure-menu-selected");
+				}
+				navItemsHashMap[index] = {
+					index: self
+				};
+			});
+			$navItem_Contents.each(function(i, navItem_content) {
+				var self = $(navItem_content),
+					index = self.attr("splash-content");
+				(navItemsHashMap[index] || (navItemsHashMap[index] = {})).content = self;
+				if (splashIndex == index) {
+					self.css({
+						display: "block"
+					})
+				} else {
+					self.css({
+						display: "none"
+					})
+				}
+			});
+			console.log(navItemsHashMap)
+			init = false; //只在初始化的时候显示动画，其他不显示，避免动画冲突
+		} else {
+			$arrow_left.css(arrow_css_config, animateTime);
+			$arrow_right.css(arrow_css_config, animateTime);
+		}
+		$arrow_left.css(arrow_animate_config); //.width(_proportion(width))
+		$arrow_right.css(arrow_animate_config); //.width(_proportion(width))
 
-function duoshuo () {
-    delete DUOSHUO;
-    $(".ds-script").remove();
-    window.duoshuoQuery = {short_name:"gaubee"};
-    $('<script class="ds-script" type="text/javascript" async="true" src="http://static.duoshuo.com/embed.js" charset="UTF-8"></script>').appendTo(HTML);
-}
+		if (media_small) {
+			console.log($arrow_left.css("height"))
+			$arrow_container.css({
+				height: parseInt($arrow_left.css("height")) * 2 + "px"
+			})
+		} else {
+			$arrow_container.css({
+				height: 0
+			})
+		}
+	};
 
-function parseBlogPostMarkdown(data){
-    console.log(data);
-    var ds = '<div class="ds-thread" data-url="http://gaubee.github.io/blog/Site/index.html#blog/'+data.id+'"></div>';
-
-    parseBlogPostMarkdown.set(converter.makeHtml(data.content)+ds);
-    $('pre code').each(function(i, e) {hljs.highlightBlock(e)});
-    duoshuo();
-}
-
-function parseBlogPostList (data) {
-    require("../../quicksort,ready",function(){
-        avalon.ready(function(){
-            var i,
-                Length = data.length,
-                timeline = [],
-                itemTimeline,
-                itemTimelineVal,
-                timelineCache = {array:[]}
-                ;
-            for(i=0;i<Length;i+=1){
-                itemTimeline = data[i].filePath;
-                itemTimelineVal = new Date(itemTimeline).valueOf();
-                timelineCache[itemTimelineVal] = itemTimeline;
-                timelineCache.array[i] = itemTimelineVal;
-            };
-            timelineCache.array.array = Array.quicksort(timelineCache.array)
-            for(i=0;i<Length;i+=1){
-                timeline[Length-i-1] = timelineCache[timelineCache.array[i]];
-            }
-            $.each(data,function(i,e){
-                $.extend(e,{
-                    blogContent:{
-                        show:false,
-                        html:"Gaubee"
-                    }
-                })
-            });
-            console.log(data);
-            var blogPostModel = avalon.define("blogPost",function(vm){
-                vm.timeline = timeline;
-                vm.blogPostList = data;
-                vm.lastShowBlogPost = -1;
-                vm.showBlogPost = function(e){
-                    var $self = $(this);
-                    var index = $self.data("index");
-                    var id = $self.data("id");
-                    var top = $self.offset().top;
-                    BODY.animate({scrollTop:top+"px"},300);
-
-                    (vm.lastShowBlogPost !== -1)&&vm.blogPostList.set(vm.lastShowBlogPost,{blogContent:{show:false}});
-                    vm.lastShowBlogPost = index;
-
-                    delete parseBlogPostMarkdown.set;
-                    parseBlogPostMarkdown.set = function(html){
-                        vm.blogPostList.set(index,{
-                            blogContent:{
-                                show:true,
-                                html:html
-                            }
-                        });
-                    }
-
-                    $1.getScript(baseDataUrl+"blog?callback=parseBlogPostMarkdown&mode=essay&id="+id);
-
-                }
-            });
-            avalon.scan();
-        });
-
-    });
-}
-
-duoshuo ();
+	function initEventSplash() {
+		var splashHoverEvent = function(e) {
+			$(this).stop().animate({
+				opacity: hoverOpactiy
+			}, animateTime)
+		}, splashLeaveEvent = function(e) {
+				$(this).stop().animate({
+					opacity: initOpacity
+				}, animateTime)
+			},
+			splashLeftScroll = function(e) {
+				splashIndex -= 1
+			};
+		$arrow_left.on("mouseenter", splashHoverEvent).on("mouseleave", splashLeaveEvent)
+		$arrow_right.on("mouseenter", splashHoverEvent).on("mouseleave", splashLeaveEvent)
+	};
+	$window.on("load", function() {
+		initLayoutSplash(); //初始化一次
+		initEventSplash();
+		initLayoutSplash(); //正常运行一次
+	}).on("resize", initLayoutSplash)
+});

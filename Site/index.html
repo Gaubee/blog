@@ -1,83 +1,192 @@
-﻿<!DOCTYPE HTML>
-<html>
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<head>
-	<title>Blog</title>
-	<link rel='canonical' href='http://gaubee.github.io/Site' />
-	<!-- pure -->
-	<link rel="stylesheet" type="text/css" href="css/pure/base-min.css">
-	<link rel="stylesheet" type="text/css" href="css/pure/menus-min.css">
-	<link rel="stylesheet" type="text/css" href="css/pure/grids-min.css">
-	<link rel="stylesheet" type="text/css" href="css/color.css">
-	<!-- base -->
-	<link rel="stylesheet" type="text/css" href="css/index.css">
-	<!-- jQuery.js -->
-	<script type="text/javascript" src="js/lib/jQuery/jquery-1.9.1.min.js"></script>
-	<!-- showdown.js -->
-	<script type="text/javascript" src="js/lib/markdownparse/showdown.js"></script>
-	<!-- highlight.js -->
-	<script type="text/javascript" src="js/lib/highlight.js/highlight.min.js"></script>
-	<link rel="stylesheet" type="text/css" href="js/lib/highlight.js/styles/github.min.css">
-	<!-- avalon.js -->
-	<script type="text/javascript" src="js/lib/avalon.js/mass.js"></script>
-	<script type="text/javascript" src="js/lib/avalon.js/avalon.js"></script>
-	<script type="text/javascript" src="js/lib/avalon.js/avalon.router.js"></script>
-</head>
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
-<body>
-	<div id="navigation" class="pure-menu pure-menu-open pure-menu-horizontal">
-		<ul>
-			<li><a href="#home">主页</a></li>
-			<li><a href="#blog">博文</a></li>
-			<li><a href="#twitter">说说</a></li>
-			<li><a href="#project">项目</a></li>
-			<li><a href="#essay">文章</a></li>
-			<li class="pure-menu-selected"><a href="#about_me">About Me</a></li>
-		</ul>
-	</div>
-	<div id="separated" class="bg-color-darken">
-	</div>
+        <!-- <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/main.css"> -->
+        <link rel="stylesheet" href="css/pure.min.css">
+        <link rel="stylesheet" href="css/pure.skin.css">
+        <link rel="stylesheet" href="css/icon.css">
+        <link rel="stylesheet" href="css/custom.css">
+        <link rel="stylesheet" href="css/index.css">
+        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
 
-	<div ms-controller="blogPost" class="pure-g-r">
 
-		<div ms-each-time="timeline" id="timeline" class="pure-u-1-12 bg-color-blueDark fg-color-white">
-			<div class="point-in-time">
-				<p>{{time}}</p>
-			</div>
-		</div>
+<div class="content" >
+    <div class="header">
+        <div class="pure-menu pure-menu-open pure-menu-fixed pure-menu-horizontal">
+            <a class="pure-menu-heading" href="">Gaubee's Blog</a>
 
-		<div ms-each-blog="blogPostList" id="blog-post-list" class="pure-u-7-12 bg-color-lighten fg-color-darken">
-			<div class="blog-post-item">
-				<div class="head">
-					<p ms-data-index="$index" ms-data-id="blog.id" ms-click="showBlogPost" class="title">
-						<a ms-href="#blog/{{blog.id}}">{{blog.title}}</a>
-					</p>
-					<ul ms-each-labels="blog.labels" class="tag">
-						<li>{{labels.name}}</li>
-					</ul>
-				</div>
-				<div class="body">
-					<div ms-visible="blog.blogContent.show"  ms-html="blog.blogContent.html">
-					</div>
-				</div>
-				<div class="foot">
-					<span class="time"></span>
-				</div>
-			</div>
+            <ul>
+                <!-- <li class="pure-menu-selected"><a href="">foucus</a></li> -->
+                <li splash-index="1" title="收藏网摘， 工作记录， 兴趣与技术"><a href="#">博文</a></li>
+                <li splash-index="2" title="Qzone的说说"><a href="#">微博</a></li>
+                <li splash-index="3" title="个人简介， 零碎的三观说"><a href="#">个人</a></li>
+                <li splash-index="4" ><a href="#">关于这个站点</a></li>
+            </ul>
+        </div>
+    </div>
 
-		</div>
+    <div class="splash" >
+        <div class="arrow pure-g-r">
+            <span class="glyphicon glyphicon-chevron-left pure-u-1-12"></span>
+            <span class="pure-u-5-6"></span>
+            <span class="glyphicon glyphicon-chevron-right pure-u-1-12"></span>
+        </div>
+        <div splash-content="1" class="pure-g-r"./ >
+            <div class="pure-u-1-3">
+                <div class="l-box splash-image">
+                    <img src="./img/500x350.gif" alt="Placeholder image for example.">
+                </div>
+            </div>
 
-		<div id="blog-post-comment" class="pure-u-1-3 fg-color-lighten">
-			<div class="base-message">
-				<a href="http://user.qzone.qq.com/654393589" target="_blank">
-					<img src="http://r.qzone.qq.com/cgi-bin/cgi_get_user_pic?openid=000000000000000000000000169FB22D&pic=1.jpg&key=1e6b60facde90eda09ffc5a64c88f186" />
-				</a>
-			</div>
-			<div class="ds-thread" data-url="http://gaubee.github.io/blog/Site"></div>
-		</div>
-	</div>
-</body>
+            <div class="pure-u-2-3" >
+                <div class="l-box splash-text" >
+                    <h1 class="splash-head">
+                        Some big bold text.
+                    </h1>
 
+                    <h2 class="splash-subhead">
+                        The HTML and CSS for this layout show how you can make a modern, responsive landing page for your next product. Browse through the source to see how we use menus and responsive grids to create this layout. Shrink your browser width and watch the layout transform and play nice with small screens.
+                    </h2>
+
+                    <p >
+                        <a href="#" class="pure-button primary-button" >Get Started</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="content" >
+        <div class="pure-g-r content-ribbon">
+            <div class="pure-u-2-3">
+                <div class="l-box">
+                    <h4 class="content-subhead">Some small text</h4>
+
+                    <h3>Lorem ipsum dolor sit amet.</h3>
+                    <p>
+                        Pellentesque hendrerit lobortis ornare. Fusce luctus imperdiet consequat. Nullam quis nunc quis ligula luctus vestibulum non quis libero. Suspendisse tristique nisl ut velit facilisis sit amet lobortis nulla pharetra.
+                    </p>
+                </div>
+            </div>
+
+            <div class="pure-u-1-3">
+                <div class="l-box">
+                    <img src="./img/400x250.gif" alt="Placeholder image for example.">
+                </div>
+            </div>
+        </div>
+
+        <div class="pure-g-r content-ribbon">
+            <div class="pure-u-1-3">
+                <div class="l-box">
+                    <img src="./img/400x250.gif" alt="Placeholder image for example.">
+                </div>
+            </div>
+
+            <div class="pure-u-2-3">
+                <div class="l-box">
+                    <h4 class="content-subhead">Some more small text</h4>
+
+                    <h3>Etiam iaculis iaculis lobortis.</h3>
+                    <p>
+                        Phasellus eget enim eu lectus faucibus vestibulum. Suspendisse sodales pellentesque elementum. Morbi fermentum dui sit amet libero tincidunt rutrum. Nam sodales consequat metus sed accumsan.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="pure-g-r">
+            <div class="pure-u-1-4">
+                <div class="l-box">
+                    <h3>Subheading</h3>
+                    <p>
+                        Donec suscipit, risus vel venenatis ornare, nibh massa ultrices diam, a elementum metus felis sit amet eros. Phasellus pellentesque euismod massa sed pellentesque.
+                    </p>
+                </div>
+            </div>
+
+            <div class="pure-u-1-4">
+                <div class="l-box">
+                    <h3>Subheading</h3>
+                    <p>
+                        Donec suscipit, risus vel venenatis ornare, nibh massa ultrices diam, a elementum metus felis sit amet eros. Phasellus pellentesque euismod massa sed pellentesque.
+                    </p>
+                </div>
+            </div>
+
+            <div class="pure-u-1-4">
+                <div class="l-box">
+                    <h3>Subheading</h3>
+                    <p>
+                        Donec suscipit, risus vel venenatis ornare, nibh massa ultrices diam, a elementum metus felis sit amet eros. Phasellus pellentesque euismod massa sed pellentesque.
+                    </p>
+                </div>
+            </div>
+
+            <div class="pure-u-1-4">
+                <div class="l-box">
+                    <h3>Subheading</h3>
+                    <p>
+                        Donec suscipit, risus vel venenatis ornare, nibh massa ultrices diam, a elementum metus felis sit amet eros. Phasellus pellentesque euismod massa sed pellentesque.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="l-box ribbon" >
+            <h2>Get started now.</h2>
+            <a href="#" class="pure-button primary-button" >Sign up</a>
+        </div>
+    </div>
+
+    <div class="footer">
+        View the source of this layout to learn more. Made with love by the YUI Team.
+    </div>
+</div>
+
+<script src="http://yui.yahooapis.com/3.12.0/build/yui/yui-min.js"></script><div id="yui3-css-stamp" style="position: absolute !important; visibility: hidden !important" class=""></div>
+<script>
+YUI().use('node-base', 'node-event-delegate', function (Y) {
+    // This just makes sure that the href="#" attached to the <a> elements
+    // don't scroll you back up the page.
+    Y.one('body').delegate('click', function (e) {
+        e.preventDefault();
+    }, 'a[href="#"]');
+});
+</script>
+
+        <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script> -->
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+        <script src="js/plugins.js"></script>
+        <script src="js/index.js"></script>
+
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        <!-- 
+        <script>
+            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+            e.src='//www.google-analytics.com/analytics.js';
+            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+            ga('create','UA-XXXXX-X');ga('send','pageview');
+        </script>
+        -->
+    </body>
 </html>
-<script type="text/javascript" src="js/index.js"></script>
-<!-- <script type="text/javascript" src="http://127.0.0.1:2013/blog?callback=pasreMarkdown&id=13836631&mode=essay"></script> -->

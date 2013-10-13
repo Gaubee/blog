@@ -1,41 +1,104 @@
-body{
-	background-image: url("../img/earthterminator.jpg");
-	background-position: 100% 20%;
-	background-attachment: fixed;
-
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }
-#separated{
-	height:230px;
-	overflow:hidden;
-	background-image: url("../img/earthterminator.jpg");
-	background-position: 100% 20%;
-	background-attachment: fixed;
+::selection {
+    background: rgba(2, 166, 235, 0.3); /* Safari */
+    }
+::-moz-selection {
+    background: rgba(2, 166, 235, 0.3); /* Firefox */
 }
-#timeline{
-}
-.point-in-time{
-	padding: 0.5em 0.75em;
-}
-.point-in-time:hover{
-	background-color:#2d89ef!important;/*fg-color-blue*/
-	cursor: pointer;
-}
-.point-in-time.visit{
-	background-color:#eff4ff!important;/*bg-color-blueLight*/
-	color:#2b5797!important;/*fg-color-blueDark*/
-}
-.blog-post-item{
-	padding: 0.5em 0.75em;
+body {
+    margin: 0 auto;
+    line-height: 1.7em;
 }
 
-:root .rgba{
-    filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr='#00000000', EndColorStr='#00000000');
+.l-box {
+    padding: 1em;
 }
-#blog-post-comment {
-	background:rgba(82,82,82, 0.3);
-	filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr='#52525200', EndColorStr='#52525200');
+
+.header {
+    margin: 0 0;
 }
-.base-message{
-	padding: 0.5em 0.75em;
-	opacity: 1;
+
+    .header .pure-menu {
+        padding: 0.5em;
+    }
+
+        .header .pure-menu li a:hover,
+        .header .pure-menu li a:focus {
+            background: none;
+            border: none;
+            color: #aaa;
+        }
+
+body .primary-button {
+    background: #02a6eb;
+    color: #fff;
+}
+
+.splash {
+    margin: 2em auto 0;
+    padding: 3em 0.5em;
+    background: #eee;
+}
+    .splash .splash-head {
+        font-size: 300%;
+        margin: 0em 0;
+        line-height: 1.2em;
+    }
+    .splash .splash-subhead {
+        color: #999;
+        font-weight: 300;
+        line-height: 1.4em;
+    }
+    .splash .primary-button {
+        font-size: 150%;
+    }
+    .splash .arrow{
+        /*position: absolute;*/
+        /*opacity: 0.2;*/
+        height: 0em;
+    }
+    .splash .arrow .glyphicon{
+        font-family: 'Glyphicons Halflings';
+        text-align: center;
+        background-color: #02a6eb;
+        cursor:pointer;
+        display: none;
+    }
+
+
+.content .content-subhead {
+    color: #999;
+    padding-bottom: 0.3em;
+    text-transform: uppercase;
+    margin: 0;
+    border-bottom: 2px solid #eee;
+    display: inline-block;
+}
+
+.content .content-ribbon {
+    margin: 3em;
+    border-bottom: 1px solid #eee;
+}
+
+.ribbon {
+    background: #eee;
+    text-align: center;
+    padding: 2em;
+    color: #999;
+}
+    .ribbon h2 {
+        display: inline;
+        font-weight: normal;
+    }
+
+.footer {
+    background: #111;
+    color: #666;
+    text-align: center;
+    padding: 1em;
+    font-size: 80%;
 }
