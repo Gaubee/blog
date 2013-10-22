@@ -1,0 +1,9 @@
+<?xml version='1.0'?>
+<!DOCTYPE connection PUBLIC '-//NetBeans//DTD Database Connection 1.1//EN' 'http://www.netbeans.org/dtds/connection-1_1.dtd'>
+<connection>
+  <driver-class value='org.apache.derby.jdbc.ClientDriver'/>
+  <driver-name value='apache_derby_net'/>
+  <database-url value='jdbc:derby://localhost:1527/sample'/>
+  <schema value='APP'/>
+  <user value='app'/>
+</connection>

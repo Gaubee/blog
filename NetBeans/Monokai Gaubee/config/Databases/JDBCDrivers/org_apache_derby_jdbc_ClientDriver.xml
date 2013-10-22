@@ -1,0 +1,11 @@
+<?xml version='1.0'?>
+<!DOCTYPE driver PUBLIC '-//NetBeans//DTD JDBC Driver 1.1//EN' 'http://www.netbeans.org/dtds/jdbc-driver-1_1.dtd'>
+<driver>
+  <name value='apache_derby_net'/>
+  <display-name value='Java DB (Network)'/>
+  <class value='org.apache.derby.jdbc.ClientDriver'/>
+  <urls>
+    <url value='file:/home/gaubee/glassfish-4.0/javadb/lib/derbyclient.jar'/>
+    <url value='file:/home/gaubee/glassfish-4.0/javadb/lib/derby.jar'/>
+  </urls>
+</driver>

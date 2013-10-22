@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.netbeans.org/ns/library-declaration/3" version="3.0">
+    <name>Java-EE-GlassFish-v3-Prelude</name>
+    <type>j2se</type>
+    <description>随最近注册的 GlassFish 安装捆绑提供的 Java EE jar</description>
+    <display-name>来自 GlassFish 的 Java EE</display-name>
+    <volume>
+        <type>classpath</type>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/mq/lib/jaxm-api.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/endorsed/webservices-api-osgi.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/endorsed/javax.annotation-api.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/endorsed/jaxb-api-osgi.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/javax.enterprise.concurrent.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/javax.servlet.jsp-api.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/javax.json.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/javax.ejb-api.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/javax.resource-api.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/javax.servlet.jsp.jstl-api.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/javax.enterprise.deploy-api.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/javax.inject.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/javax.xml.registry-api.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/javax.servlet.jsp.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/jaxb-osgi.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/javax.servlet.jsp.jstl.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/javax.enterprise.concurrent-api.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/javax.management.j2ee-api.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/weld-osgi-bundle.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/javax.websocket-api.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/javax.security.jacc-api.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/javax.security.auth.message-api.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/javax.batch-api.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/javax.jms-api.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/javax.ws.rs-api.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/javax.el.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/javax.persistence.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/javax.faces.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/javax.transaction-api.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/javax.servlet-api.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/javax.interceptor-api.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/javax.mail.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/javax.xml.rpc-api.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/webservices-osgi.jar!/</resource>
+        <resource>jar:file:/home/gaubee/glassfish-4.0/glassfish/modules/bean-validator.jar!/</resource>
+    </volume>
+    <volume>
+        <type>src</type>
+    </volume>
+    <volume>
+        <type>javadoc</type>
+        <resource>jar:file:/home/gaubee/netbeans-7.3.1/enterprise/docs/javaee-doc-api.jar!/</resource>
+    </volume>
+    <volume>
+        <type>maven-pom</type>
+    </volume>
+    <properties/>
+</library>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE platform PUBLIC "-//NetBeans//DTD Java PlatformDefinition 1.0//EN" "http://www.netbeans.org/dtds/java-platformdefinition-1_0.dtd">
+<platform default="no" name="默认 JavaFX 平台">
+    <jdkhome>
+        <resource>file:/usr/lib/jvm/java-6-sun/</resource>
+    </jdkhome>
+    <properties>
+        <property name="platform.ant.name" value="___JavaFX___"/>
+    </properties>
+    <sysproperties>
+        <property name="file.encoding" value="UTF-8"/>
+        <property name="file.encoding.pkg" value="sun.io"/>
+        <property name="file.separator" value="/"/>
+        <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+        <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+        <property name="java.class.path" value=""/>
+        <property name="java.class.version" value="50.0"/>
+        <property name="java.endorsed.dirs" value="/usr/lib/jvm/java-6-sun-1.6.0.06/jre/lib/endorsed"/>
+        <property name="java.ext.dirs" value="/usr/lib/jvm/java-6-sun/jre/lib/ext:/usr/java/packages/lib/ext"/>
+        <property name="java.home" value="/usr/lib/jvm/java-6-sun/jre"/>
+        <property name="java.io.tmpdir" value="/tmp"/>
+        <property name="java.library.path" value="/usr/lib/jvm/java-6-sun/jre/lib/amd64/server:/usr/lib/jvm/java-6-sun/jre/lib/amd64:/usr/lib/jvm/java-6-sun/jre/../lib/amd64:/usr/lib/jvm/java-6-sun/jre/lib/amd64:/usr/lib/jvm/java-6-sun/jre/lib/i386::/usr/java/packages/lib/amd64:/lib:/usr/lib"/>
+        <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+        <property name="java.runtime.version" value="1.6.0_06-b02"/>
+        <property name="java.specification.name" value="Java Platform API Specification"/>
+        <property name="java.specification.vendor" value="Sun Microsystems Inc."/>
+        <property name="java.specification.version" value="1.6"/>
+        <property name="java.vendor" value="Sun Microsystems Inc."/>
+        <property name="java.vendor.url" value="http://java.sun.com/"/>
+        <property name="java.vendor.url.bug" value="http://java.sun.com/cgi-bin/bugreport.cgi"/>
+        <property name="java.version" value="1.6.0_06"/>
+        <property name="java.vm.info" value="mixed mode"/>
+        <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+        <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+        <property name="java.vm.specification.vendor" value="Sun Microsystems Inc."/>
+        <property name="java.vm.specification.version" value="1.0"/>
+        <property name="java.vm.vendor" value="Sun Microsystems Inc."/>
+        <property name="java.vm.version" value="10.0-b22"/>
+        <property name="line.separator" value="&#10;"/>
+        <property name="os.arch" value="amd64"/>
+        <property name="os.name" value="Linux"/>
+        <property name="os.version" value="3.5.0-40-generic"/>
+        <property name="path.separator" value=":"/>
+        <property name="sun.arch.data.model" value="64"/>
+        <property name="sun.boot.class.path" value="/usr/lib/jvm/java-6-sun/jre/lib/resources.jar:/usr/lib/jvm/java-6-sun/jre/lib/rt.jar:/usr/lib/jvm/java-6-sun/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-6-sun/jre/lib/jsse.jar:/usr/lib/jvm/java-6-sun/jre/lib/jce.jar:/usr/lib/jvm/java-6-sun/jre/lib/charsets.jar:/usr/lib/jvm/java-6-sun/jre/classes"/>
+        <property name="sun.boot.library.path" value="/usr/lib/jvm/java-6-sun/jre/lib/amd64"/>
+        <property name="sun.cpu.endian" value="little"/>
+        <property name="sun.cpu.isalist" value=""/>
+        <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+        <property name="sun.java.launcher" value="SUN_STANDARD"/>
+        <property name="sun.jnu.encoding" value="UTF-8"/>
+        <property name="sun.management.compiler" value="HotSpot 64-Bit Server Compiler"/>
+        <property name="sun.os.patch.level" value="unknown"/>
+        <property name="user.country" value="CN"/>
+        <property name="user.dir" value=""/>
+        <property name="user.home" value="/home/gaubee"/>
+        <property name="user.language" value="zh"/>
+        <property name="user.name" value="gaubee"/>
+        <property name="user.timezone" value="Asia/Shanghai"/>
+    </sysproperties>
+    <javadoc>
+        <resource>http://download.oracle.com/javase/6/docs/api/</resource>
+    </javadoc>
+</platform>

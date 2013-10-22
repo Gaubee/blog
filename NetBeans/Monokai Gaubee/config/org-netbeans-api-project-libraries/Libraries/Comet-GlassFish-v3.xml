@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns="http://www.netbeans.org/ns/library-declaration/3" version="3.0">
+    <name>Comet-GlassFish-v3</name>
+    <type>j2se</type>
+    <description>随最近注册的 GlassFish 安装捆绑提供的 Comet jar</description>
+    <display-name>来自 GlassFish 的 Comet</display-name>
+    <volume>
+        <type>classpath</type>
+    </volume>
+    <volume>
+        <type>src</type>
+    </volume>
+    <volume>
+        <type>javadoc</type>
+    </volume>
+    <volume>
+        <type>maven-pom</type>
+    </volume>
+    <properties/>
+</library>

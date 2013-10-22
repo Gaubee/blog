@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE codetemplates PUBLIC "-//NetBeans//DTD Editor Code Templates settings 1.0//EN" "http://www.netbeans.org/dtds/EditorCodeTemplates-1_0.dtd">
+<codetemplates>
+    <codetemplate abbreviation="al" xml:space="preserve">
+        <code><![CDATA[alert(${message});]]></code>
+    </codetemplate>
+    <codetemplate abbreviation="conl" xml:space="preserve">
+        <code><![CDATA[console.log(${log});]]></code>
+    </codetemplate>
+    <codetemplate abbreviation="doc" xml:space="preserve">
+        <code><![CDATA[${no-indent}document]]></code>
+    </codetemplate>
+    <codetemplate abbreviation="coni" xml:space="preserve">
+        <code><![CDATA[console.info(${info});]]></code>
+    </codetemplate>
+    <codetemplate abbreviation="cont" xml:space="preserve">
+        <code><![CDATA[console.time(${timer});
+${code}
+console.timeEnd(${timer});]]></code>
+    </codetemplate>
+    <codetemplate abbreviation="cond" xml:space="preserve">
+        <code><![CDATA[console.debug(${debug});]]></code>
+    </codetemplate>
+    <codetemplate abbreviation="cons" xml:space="preserve">
+        <code><![CDATA[console]]></code>
+    </codetemplate>
+    <codetemplate abbreviation="do" remove="true"/>
+</codetemplates>

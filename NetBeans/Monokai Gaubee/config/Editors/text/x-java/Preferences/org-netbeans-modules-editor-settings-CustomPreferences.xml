@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE editor-preferences PUBLIC "-//NetBeans//DTD Editor Preferences 1.0//EN" "http://www.netbeans.org/dtds/EditorPreferences-1_0.dtd">
+<editor-preferences>
+    <entry javaType="java.lang.String" name="javaAutoCompletionTriggers" xml:space="preserve">
+        <value><![CDATA[. ]]></value>
+    </entry>
+    <entry javaType="java.lang.Boolean" name="javaAutoPopupOnIdentifierPart" xml:space="preserve">
+        <value><![CDATA[true]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="javaCompletionSelectors" xml:space="preserve">
+        <value><![CDATA[.,;:([+-=]]></value>
+    </entry>
+    <entry name="pair-characters-completion" remove="true"/>
+    <entry name="show-deprecated-members" remove="true"/>
+</editor-preferences>
