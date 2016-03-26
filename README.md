@@ -19,7 +19,7 @@ The essay published to mark the time at the bottom of the article shall prevail.
   
   7. 2016初 开发出了[GQ](https://github.com/gaubee/gq)（一个多人协作开发应用。实现了进程通讯（可以用来做私有接口的开发以及数据库的代理访问）、HTTP路由注册等功能）框架，至今还在改进与开发中
 
-  6. 2015-6 毕业后全力开发dotnar电商项目，由于全权负责后端，前端框架jSouper只做简单的改进以及BUG的修复以外。而后端，开发出了[jhs](https://github.com/gaubee/jhs)文件服务框架（一个实现按需编译、自定义编译、自定义路由的文件服务器）。
+  6. 2015-6 毕业后全力开发dotnar电商项目，由于全权负责后端，前端框架jSouper只做简单的改进以及BUG的修复以外。而后端，开发出了[jhs](https://github.com/gaubee/jhs)文件服务框架（一个实现按需编译、自定义编译、自定义路由、自定义文件夹（包含HTTP协议）继承的文件服务器）。目前开发到v2版本，并将其部署到docker上，可以使用docker直接下载调用，因为可以代理HTTP协议的功能。
 
   5. 大四开始进行dotnar电商项目的开发，使用nodejs。负责了项目的构架搭建，包括前端使用jSouper（前身为HTML-ViewParse），以及全部的后端代码
 
