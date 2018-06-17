@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE target-module-list PUBLIC "-//org_netbeans_modules_j2ee//DTD TargetModule 1.0//EN" "nbres:/org/netbeans/modules/j2ee/deployment/impl/target-module.dtd">
-<target-module-list>
-    <target-module content-dir="/home/gaubee/NetBeansProjects/test/test-war/build/web" context-root="/test-war" id="test-war" instance-url="[/home/gaubee/glassfish-4.0/glassfish:/home/gaubee/glassfish-4.0/glassfish/domains/domain1]deployer:gfv3ee6wc:localhost:4848" target-name="GlassFish Server 4.0" timestamp="1381673089303"/>
-</target-module-list>
